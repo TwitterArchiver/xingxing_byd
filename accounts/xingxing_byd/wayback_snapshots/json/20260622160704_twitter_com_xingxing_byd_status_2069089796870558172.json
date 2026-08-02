@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2069089796870558172",
+    "created_at": "2026-06-22T16:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T17:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069089796870558172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2067890605670518784",
+          "start": 3,
+          "username": "Chrnqklak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069089796870558172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068692681249951805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chrnqklak: ⚠️ 醒醒吧！别碰阿片类药物！\n不接受所有反驳，具体药理知识自行脑补\n\n那玩意儿不是“止痛神药”，是披着糖衣的死神！一次上钩，就把你的意志、身体和未来全吞掉。成瘾后，你会为了那口药渣出卖一切：工作、家庭、健康、尊严……最终躺在ICU里，靠呼吸机续命…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2069089796870558172",
+        "created_at": "2026-06-22T16:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069089796870558172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2067890605670518784",
+              "start": 3,
+              "username": "Chrnqklak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069089796870558172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068692681249951805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chrnqklak: ⚠️ 醒醒吧！别碰阿片类药物！\n不接受所有反驳，具体药理知识自行脑补\n\n那玩意儿不是“止痛神药”，是披着糖衣的死神！一次上钩，就把你的意志、身体和未来全吞掉。成瘾后，你会为了那口药渣出卖一切：工作、家庭、健康、尊严……最终躺在ICU里，靠呼吸机续命…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067890605670518784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2068692681249951805",
+        "created_at": "2026-06-21T13:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068692681249951805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068692681249951805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️ 醒醒吧！别碰阿片类药物！\n不接受所有反驳，具体药理知识自行脑补\n\n那玩意儿不是“止痛神药”，是披着糖衣的死神！一次上钩，就把你的意志、身体和未来全吞掉。成瘾后，你会为了那口药渣出卖一切：工作、家庭、健康、尊严……最终躺在ICU里，靠呼吸机续命，或者直接凉在厕所里。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/改造自己中/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069048254038503424/3zbCNuPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 286,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 469,
+          "tweet_count": 2022
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T08:42:46.000Z",
+        "description": "有机化学爱好者/\n\nhttps://t.co/OE1NrppKMc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/anan995555",
+                "end": 33,
+                "expanded_url": "https://t.me/anan995555",
+                "start": 10,
+                "url": "https://t.co/OE1NrppKMc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/anan995555",
+                "end": 23,
+                "expanded_url": "https://t.me/anan995555",
+                "start": 0,
+                "url": "https://t.co/OE1NrppKMc"
+              }
+            ]
+          }
+        },
+        "id": "2067890605670518784",
+        "location": "哈尔滨",
+        "name": "戒掉4-ho-met回归正常-永久抵制阿片类",
+        "pinned_tweet_id": "2067906497582096575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067891161940058112/ZWrrnrd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 431,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/OE1NrppKMc",
+        "username": "Chrnqklak",
+        "verified": false
+      }
+    ]
+  }
+}
