@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T04:09:19",
+  "last_updated": "2026-08-02T04:09:43",
   "html": {
     "https://web.archive.org/web/20250719082439if_/https://twitter.com/xingxing_byd/status/1946486329413718250": {
       "status": "done",
@@ -7635,9 +7635,9 @@
       "referenced_by": [
         "20251007135949_twitter_com_xingxing_byd_status_1975561705922175231.json"
       ],
-      "last_updated": "2026-08-02T03:55:44",
+      "last_updated": "2026-08-02T04:09:43",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251007135949/https://video.twimg.com/ext_tw_video/1961801207069945856/pu/vid/avc1/560x1280/BKU9nc6ycATtk1C4.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/1980159685358493697/pu/vid/avc1/720x1280/W0lhTVI9pvjPt0QI.mp4?tag=12": {
       "status": "done",
