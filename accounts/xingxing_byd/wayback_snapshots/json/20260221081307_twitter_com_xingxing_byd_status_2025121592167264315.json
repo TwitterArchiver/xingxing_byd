@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025121589071937541",
+        "3_2025121587679428609"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "2025121592167264315",
+    "created_at": "2026-02-21T08:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T09:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025121592167264315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EF5c4EXzwB",
+          "end": 46,
+          "expanded_url": "https://x.com/xingxing_byd/status/2025121592167264315/photo/1",
+          "media_key": "3_2025121589071937541",
+          "start": 23,
+          "url": "https://t.co/EF5c4EXzwB"
+        },
+        {
+          "display_url": "pic.x.com/EF5c4EXzwB",
+          "end": 46,
+          "expanded_url": "https://x.com/xingxing_byd/status/2025121592167264315/photo/1",
+          "media_key": "3_2025121587679428609",
+          "start": 23,
+          "url": "https://t.co/EF5c4EXzwB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025121592167264315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁来关顾？\n阿赞哇啦 帕系阿靓\n爆料超级美😍 https://t.co/EF5c4EXzwB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2025121589071937541",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqtWw-bgAU6Zrx.jpg",
+        "width": 1350
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2025121587679428609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqtWrybgAEAX5z.jpg",
+        "width": 1012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025121589071937541",
+            "3_2025121587679428609"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "2025121592167264315",
+        "created_at": "2026-02-21T08:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T09:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025121592167264315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EF5c4EXzwB",
+              "end": 46,
+              "expanded_url": "https://x.com/xingxing_byd/status/2025121592167264315/photo/1",
+              "media_key": "3_2025121589071937541",
+              "start": 23,
+              "url": "https://t.co/EF5c4EXzwB"
+            },
+            {
+              "display_url": "pic.x.com/EF5c4EXzwB",
+              "end": 46,
+              "expanded_url": "https://x.com/xingxing_byd/status/2025121592167264315/photo/1",
+              "media_key": "3_2025121587679428609",
+              "start": 23,
+              "url": "https://t.co/EF5c4EXzwB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025121592167264315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁来关顾？\n阿赞哇啦 帕系阿靓\n爆料超级美😍 https://t.co/EF5c4EXzwB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2025101983989043315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 195,
+          "like_count": 1533,
+          "listed_count": 0,
+          "media_count": 417,
+          "tweet_count": 1573
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

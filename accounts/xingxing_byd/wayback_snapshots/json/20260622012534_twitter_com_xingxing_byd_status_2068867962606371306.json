@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2068529989067411960",
+    "created_at": "2026-06-22T01:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T02:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068867962606371306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "467659726",
+          "start": 0,
+          "username": "WorstCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068867962606371306",
+    "in_reply_to_user_id": "467659726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068653975155679580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WorstCat 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2068529989067411960",
+        "created_at": "2026-06-22T01:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068867962606371306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068867962606371306",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068653975155679580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2068529989067411960",
+        "created_at": "2026-06-21T11:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068653975155679580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1776704652483891200",
+              "start": 0,
+              "username": "xingxing_byd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068653975155679580",
+        "in_reply_to_user_id": "1776704652483891200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068529989067411960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingxing_byd 吃一次乐瑞卡好贵的呀，比盐野义都贵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/改造自己中/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2066459240282329246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067973144640663552/qZOSGSqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 273,
+          "like_count": 1574,
+          "listed_count": 0,
+          "media_count": 463,
+          "tweet_count": 2004
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3037,
+          "following_count": 36,
+          "like_count": 9438,
+          "listed_count": 5,
+          "media_count": 244,
+          "tweet_count": 1466
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

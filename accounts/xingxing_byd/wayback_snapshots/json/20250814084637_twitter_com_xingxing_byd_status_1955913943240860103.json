@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1955897364943921324",
+    "created_at": "2025-08-14T08:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T09:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955913943240860103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1339446920511569920",
+          "start": 0,
+          "username": "shudesu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955913943240860103",
+    "in_reply_to_user_id": "1339446920511569920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955897364943921324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shudesu00 不是骗子哦，真货"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1955897364943921324",
+        "created_at": "2025-08-14T08:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T09:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955913943240860103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1339446920511569920",
+              "start": 0,
+              "username": "shudesu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955913943240860103",
+        "in_reply_to_user_id": "1339446920511569920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955897364943921324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shudesu00 不是骗子哦，真货"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339446920511569920",
+        "conversation_id": "1955897364943921324",
+        "created_at": "2025-08-14T07:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T08:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955897364943921324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955897364943921324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有多少回头客，我 做了多少回头客，包括我的电子烟，包括我的外烟，我不想过多解释，在我这儿买过多少次烟的人都没有问题，为什么你就在这说我骗钱了？别人都没问题，就你说我骗钱是吗？我还是第一次在推特上遇到人说我骗钱的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "vx🚪55  在此刻 在某处 那个我 他很好 不要跟我说违法内容",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星系系统✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1952980636073115955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955489105514762240/nwrEcNd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 100,
+          "like_count": 1520,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 1335
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "🐱💊🌲Ftx_习惯性点赞✚各类一次性飞雾小黑条鸭嘴兽等齐全。悦刻五代180六代200「正品」or其他杆子150-180♦悦刻原装果味弹75冰熊75💰买杆又买蛋优惠20。「私信请说明需要的产品（高品质有售后，放心购买，诚信第一）",
+        "id": "1339446920511569920",
+        "name": "小树（电子烟代/外烟纸烟）",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932288019887001600/qzDa0LNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4097,
+          "following_count": 2190,
+          "like_count": 118396,
+          "listed_count": 6,
+          "media_count": 1604,
+          "tweet_count": 16974
+        },
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

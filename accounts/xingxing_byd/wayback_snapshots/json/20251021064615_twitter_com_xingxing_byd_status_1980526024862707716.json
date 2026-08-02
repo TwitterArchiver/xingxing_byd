@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980526016318631936"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1980526024862707716",
+    "created_at": "2025-10-21T06:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T07:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980526024862707716"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z8jJe5D8x2",
+          "end": 30,
+          "expanded_url": "https://x.com/xingxing_byd/status/1980526024862707716/photo/1",
+          "media_key": "3_1980526016318631936",
+          "start": 7,
+          "url": "https://t.co/Z8jJe5D8x2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980526024862707716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "漂亮的小马🐴 https://t.co/Z8jJe5D8x2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980526016318631936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3w96ycXcAAvK1x.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980526016318631936"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1980526024862707716",
+        "created_at": "2025-10-21T06:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T07:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980526024862707716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z8jJe5D8x2",
+              "end": 30,
+              "expanded_url": "https://x.com/xingxing_byd/status/1980526024862707716/photo/1",
+              "media_key": "3_1980526016318631936",
+              "start": 7,
+              "url": "https://t.co/Z8jJe5D8x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980526024862707716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "漂亮的小马🐴 https://t.co/Z8jJe5D8x2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜极偶尔自残不od｜更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "1971898320311538020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 154,
+          "like_count": 1635,
+          "listed_count": 0,
+          "media_count": 376,
+          "tweet_count": 1469
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

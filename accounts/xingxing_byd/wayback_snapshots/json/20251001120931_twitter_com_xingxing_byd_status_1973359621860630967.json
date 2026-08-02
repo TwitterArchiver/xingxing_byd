@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1973242330661659009",
+    "created_at": "2025-10-01T12:09:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T13:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973359621860630967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692136120027320320",
+          "start": 0,
+          "username": "AlbertIsCypress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973359621860630967",
+    "in_reply_to_user_id": "1692136120027320320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973242330661659009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlbertIsCypress 微博上一大把吃漂亮饭的，一看就花了不少钱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1973242330661659009",
+        "created_at": "2025-10-01T12:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T13:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973359621860630967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692136120027320320",
+              "start": 0,
+              "username": "AlbertIsCypress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973359621860630967",
+        "in_reply_to_user_id": "1692136120027320320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973242330661659009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlbertIsCypress 微博上一大把吃漂亮饭的，一看就花了不少钱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692136120027320320",
+        "conversation_id": "1973242330661659009",
+        "created_at": "2025-10-01T04:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T05:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973242330661659009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973242330661659009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 675,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我本来以为经济下行会有更多的人极力缩减开支……结果信奉享乐主义的人还是比我想象得多啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|碎碎念|日常|美食|生活推|岁月静好ing|奇思妙想|积极生活",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1972676670990827762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 119,
+          "like_count": 1557,
+          "listed_count": 1,
+          "media_count": 360,
+          "tweet_count": 1425
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "低浮上|不是人类不说人话&精神(不是情绪)状态是量子叠加态|成分复杂关注请谨慎|INFJ sp/so5w6|Median系统|分裂情感性精神病&阿斯伯格|无性恋&泛浪漫|误block致歉|看我不爽建议您去死捏|第二人格@theLostCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 109,
+                "username": "theLostCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/OyZXUu3",
+                "end": 23,
+                "expanded_url": "https://b23.tv/OyZXUu3",
+                "start": 0,
+                "url": "https://t.co/oROirNnIey"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树7.0【#INSANE】",
+        "pinned_tweet_id": "1965435278488903800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965431647366774786/86s4Wmng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 1179,
+          "like_count": 33879,
+          "listed_count": 7,
+          "media_count": 1482,
+          "tweet_count": 10005
+        },
+        "url": "https://t.co/oROirNnIey",
+        "username": "AlbertIsCypress",
+        "verified": true
+      }
+    ]
+  }
+}

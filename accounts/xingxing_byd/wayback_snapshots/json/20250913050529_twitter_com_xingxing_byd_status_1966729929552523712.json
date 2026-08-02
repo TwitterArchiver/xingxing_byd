@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966729924842319872"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1966729929552523712",
+    "created_at": "2025-09-13T05:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T06:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966729929552523712"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TMTvS6lD0K",
+          "end": 58,
+          "expanded_url": "https://x.com/xingxing_byd/status/1966729929552523712/photo/1",
+          "media_key": "3_1966729924842319872",
+          "start": 35,
+          "url": "https://t.co/TMTvS6lD0K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966729929552523712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不让我订外卖，以强硬的态度让我联系商家退款的爸爸，我好恨。我好饿啊。 https://t.co/TMTvS6lD0K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966729924842319872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0s6cktbcAA6ISh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966729924842319872"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1966729929552523712",
+        "created_at": "2025-09-13T05:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T06:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966729929552523712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TMTvS6lD0K",
+              "end": 58,
+              "expanded_url": "https://x.com/xingxing_byd/status/1966729929552523712/photo/1",
+              "media_key": "3_1966729924842319872",
+              "start": 35,
+              "url": "https://t.co/TMTvS6lD0K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966729929552523712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不让我订外卖，以强硬的态度让我联系商家退款的爸爸，我好恨。我好饿啊。 https://t.co/TMTvS6lD0K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|碎碎念|日常|美食|生活推|岁月静好ing|拒绝不良内容|积极向上",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星系系统✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1952980636073115955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955489105514762240/nwrEcNd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 114,
+          "like_count": 1497,
+          "listed_count": 1,
+          "media_count": 347,
+          "tweet_count": 1374
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1946613004713484359",
+    "created_at": "2025-07-19T16:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T17:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946615605546926357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946615605546926357",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946613004713484359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 饿了🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1946612984060551169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwPCMgYXoAEBDFa.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1946613004713484359",
+        "created_at": "2025-07-19T16:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T17:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946615605546926357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946615605546926357",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946613004713484359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 饿了🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946612984060551169"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1946613004713484359",
+        "created_at": "2025-07-19T16:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T17:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946613004713484359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IVuIruEQxF",
+              "end": 61,
+              "expanded_url": "https://x.com/ServalCandle/status/1946613004713484359/photo/1",
+              "media_key": "3_1946612984060551169",
+              "start": 38,
+              "url": "https://t.co/IVuIruEQxF"
+            },
+            {
+              "display_url": "x.com/servalcandle/s…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/servalcandle/status/1946573139271692579",
+              "start": 62,
+              "url": "https://t.co/COfLByoLdv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946613004713484359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 543,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946573139271692579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "(＞人＜;)今天还是吃咖喱\n\n笨猫这次忘放洋葱了\n不过并不影响很好吃（（（ https://t.co/IVuIruEQxF https://t.co/COfLByoLdv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "生命几许，会好，迟早。",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星系系统✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943517309751939072/FxpaGeBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 105,
+          "like_count": 1533,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 1262
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "癲貓精靈◡ ヽ(`Д´)ﾉ ┻━┻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "☃️La saison infinie de neige❄️",
+        "name": "🧸不吃香菜𝒞𝒶𝓃𝒹𝓁𝑒🌸🎏",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944028998826438657/emzjxQ4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32584,
+          "following_count": 347,
+          "like_count": 225185,
+          "listed_count": 102,
+          "media_count": 7967,
+          "tweet_count": 53103
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

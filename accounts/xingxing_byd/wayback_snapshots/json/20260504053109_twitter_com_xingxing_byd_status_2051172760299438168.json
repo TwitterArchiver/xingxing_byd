@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2048787078063034807",
+    "created_at": "2026-05-04T05:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T06:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051172760299438168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874458926558961664",
+          "start": 0,
+          "username": "DaiianaVez69773"
+        },
+        {
+          "end": 26,
+          "id": "1472219833261772801",
+          "start": 17,
+          "username": "xxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051172760299438168",
+    "in_reply_to_user_id": "1874458926558961664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049078072230723702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DaiianaVez69773 @xxx_jjkk 幻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2048787078063034807",
+        "created_at": "2026-05-04T05:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T06:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051172760299438168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874458926558961664",
+              "start": 0,
+              "username": "DaiianaVez69773"
+            },
+            {
+              "end": 26,
+              "id": "1472219833261772801",
+              "start": 17,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051172760299438168",
+        "in_reply_to_user_id": "1874458926558961664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049078072230723702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DaiianaVez69773 @xxx_jjkk 幻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874458926558961664",
+        "conversation_id": "2048787078063034807",
+        "created_at": "2026-04-28T10:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049078072230723702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472219833261772801",
+              "start": 0,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049078072230723702",
+        "in_reply_to_user_id": "1472219833261772801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 709,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048787078063034807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_jjkk 追求解离和幻觉o金刚烷胺的是哪个。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046552171949518848/D-UP0xlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 262,
+          "like_count": 1603,
+          "listed_count": 0,
+          "media_count": 451,
+          "tweet_count": 1849
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T14:14:55.000Z",
+        "description": "中国人 高3 18 infj-t 不安障害 双極性感情障害 日本語を勉強中\n神聖かまってちゃん/未来電波基地/純戸川/moreru/yokai jaki/鮮血A子ちゃん",
+        "id": "1874458926558961664",
+        "location": "ぺんてるに行きました",
+        "name": "矢澤源義✞",
+        "pinned_tweet_id": "2044722696920125723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908777584210714625/L-fqHbRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 187,
+          "like_count": 11339,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 852
+        },
+        "username": "DaiianaVez69773",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹\n@yn_xxxjkjk 2.0备份一下互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "yn_xxxjkjk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "name": "旖旎",
+        "pinned_tweet_id": "2045469984315658626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 488,
+          "like_count": 13036,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1825
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

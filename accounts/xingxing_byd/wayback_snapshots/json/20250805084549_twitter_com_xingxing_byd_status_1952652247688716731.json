@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1952652247688716731",
+    "created_at": "2025-08-05T08:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T09:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952652247688716731"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1952652247688716731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我是有皈依证的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1952652247688716731",
+        "created_at": "2025-08-05T08:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T09:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952652247688716731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952652247688716731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我是有皈依证的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "爱我可以给我打钱！vx🚪55  在此刻 在某处 那个我 他很好",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星系系统✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1950222569610604985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943517309751939072/FxpaGeBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 105,
+          "like_count": 1554,
+          "listed_count": 0,
+          "media_count": 322,
+          "tweet_count": 1303
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

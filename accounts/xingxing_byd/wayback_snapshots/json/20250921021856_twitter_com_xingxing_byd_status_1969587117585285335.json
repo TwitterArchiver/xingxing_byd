@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969466654888513536"
+      ],
+      "media_source_tweet_id": [
+        "1969466658415919360"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1969587117585285335",
+    "created_at": "2025-09-21T02:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T03:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969587117585285335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1471191770864435200",
+          "start": 3,
+          "username": "lbtuan25"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OnZybb9KRD",
+          "end": 95,
+          "expanded_url": "https://x.com/lbtuan25/status/1969466658415919360/photo/1",
+          "media_key": "3_1969466654888513536",
+          "start": 72,
+          "url": "https://t.co/OnZybb9KRD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969587117585285335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969466658415919360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lbtuan25: 请允许我介绍：\n这只藏在袜子里的猫猫\n因为总是听见哗啦哗啦的声音\n于是探头出来看看是怎么个事\n正好被团子抓拍到…😇 https://t.co/OnZybb9KRD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969466654888513536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1TzfOmbUAA9YL_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969466654888513536"
+          ],
+          "media_source_tweet_id": [
+            "1969466658415919360"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1969587117585285335",
+        "created_at": "2025-09-21T02:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T03:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969587117585285335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1471191770864435200",
+              "start": 3,
+              "username": "lbtuan25"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OnZybb9KRD",
+              "end": 95,
+              "expanded_url": "https://x.com/lbtuan25/status/1969466658415919360/photo/1",
+              "media_key": "3_1969466654888513536",
+              "start": 72,
+              "url": "https://t.co/OnZybb9KRD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969587117585285335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969466658415919360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lbtuan25: 请允许我介绍：\n这只藏在袜子里的猫猫\n因为总是听见哗啦哗啦的声音\n于是探头出来看看是怎么个事\n正好被团子抓拍到…😇 https://t.co/OnZybb9KRD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969466654888513536"
+          ]
+        },
+        "author_id": "1471191770864435200",
+        "conversation_id": "1969466658415919360",
+        "created_at": "2025-09-20T18:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T19:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969466658415919360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OnZybb9KRD",
+              "end": 81,
+              "expanded_url": "https://x.com/lbtuan25/status/1969466658415919360/photo/1",
+              "media_key": "3_1969466654888513536",
+              "start": 58,
+              "url": "https://t.co/OnZybb9KRD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969466658415919360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1760,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "请允许我介绍：\n这只藏在袜子里的猫猫\n因为总是听见哗啦哗啦的声音\n于是探头出来看看是怎么个事\n正好被团子抓拍到…😇 https://t.co/OnZybb9KRD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|碎碎念|日常|美食|生活推|岁月静好ing|奇思妙想|积极生活",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1969253665107038227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 122,
+          "like_count": 1507,
+          "listed_count": 1,
+          "media_count": 352,
+          "tweet_count": 1397
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T18:53:55.000Z",
+        "description": "洁身自好brat，绝无可能是pet！",
+        "id": "1471191770864435200",
+        "location": "North-East Region, Singapore",
+        "name": "☆蓝白团子☆（无糖版）",
+        "pinned_tweet_id": "1910039281823015249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841144934709223424/6Ypv12QB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3126,
+          "following_count": 996,
+          "like_count": 5010,
+          "listed_count": 7,
+          "media_count": 296,
+          "tweet_count": 3303
+        },
+        "username": "lbtuan25",
+        "verified": false
+      }
+    ]
+  }
+}

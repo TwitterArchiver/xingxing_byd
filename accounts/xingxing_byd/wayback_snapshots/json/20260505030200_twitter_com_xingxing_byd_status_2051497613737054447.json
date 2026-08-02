@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2051347471641780295",
+    "created_at": "2026-05-05T03:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T04:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051497613737054447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051497613737054447",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051347471641780295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 不用羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2051347471641780295",
+        "created_at": "2026-05-05T03:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T04:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051497613737054447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051497613737054447",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051347471641780295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 不用羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2051347471641780295",
+        "created_at": "2026-05-04T17:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051347471641780295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051347471641780295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候挺羡慕你们的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046552171949518848/D-UP0xlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 265,
+          "like_count": 1606,
+          "listed_count": 0,
+          "media_count": 452,
+          "tweet_count": 1863
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "干点烟代，电子烟纸烟 第一个老板被我开除了，太黑了，第二个已经是我好兄弟了，可散发，邮费12买的多包邮，也有电子烟，什么都有，问一些高端稀缺的电子烟（日韩）可能要等一下好兄弟问价格。",
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2050964173111321004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 753,
+          "like_count": 18204,
+          "listed_count": 1,
+          "media_count": 655,
+          "tweet_count": 9326
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

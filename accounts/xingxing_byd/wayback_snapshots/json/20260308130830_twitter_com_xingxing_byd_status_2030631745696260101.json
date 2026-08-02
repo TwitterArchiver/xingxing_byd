@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2030631745696260101",
+    "created_at": "2026-03-08T13:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T14:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030631745696260101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1939242814547914752",
+          "start": 3,
+          "username": "Shenxiao123971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030631745696260101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 224
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030202080657572241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shenxiao123971: 为什么有人说老外喝不了中国的白酒?\n\n无它，难喝而已\n\n不搞虚的，下面我就用逻辑来证明白酒难喝\n\n这世界上的酒\n\n水果酿的，高度酒叫白兰地，低点的叫雪莉酒，再低叫葡萄酒\n\n麦芽酿的，高度酒叫威士忌，低度酒叫啤酒\n\n谷物酿的，高度酒叫伏特加…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2030631745696260101",
+        "created_at": "2026-03-08T13:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030631745696260101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1939242814547914752",
+              "start": 3,
+              "username": "Shenxiao123971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030631745696260101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 224
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030202080657572241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shenxiao123971: 为什么有人说老外喝不了中国的白酒?\n\n无它，难喝而已\n\n不搞虚的，下面我就用逻辑来证明白酒难喝\n\n这世界上的酒\n\n水果酿的，高度酒叫白兰地，低点的叫雪莉酒，再低叫葡萄酒\n\n麦芽酿的，高度酒叫威士忌，低度酒叫啤酒\n\n谷物酿的，高度酒叫伏特加…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939242814547914752",
+        "conversation_id": "2030202080657572241",
+        "created_at": "2026-03-07T08:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T09:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030202080657572241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030202080657572241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么有人说老外喝不了中国的白酒?\n\n无它，难喝而已\n\n不搞虚的，下面我就用逻辑来证明白酒难喝\n\n这世界上的酒\n\n水果酿的，高度酒叫白兰地，低点的叫雪莉酒，再低叫葡萄酒\n\n麦芽酿的，高度酒叫威士忌，低度酒叫啤酒\n\n谷物酿的，高度酒叫伏特加，低度酒叫清酒，烧酒\n\n他们有一个共同的特点，就是主流酒精度是 40，但是低度酒也有大量人喝\n\n白酒什么情况，白酒45起步，而且45度就是劣质酒的代名词，主流是52度，45度以下的白酒根本不存在\n\n什么原因?\n\n乙醇本身是淡甜味，全世界都一样，不管用什么原料，用什么工艺都一样，所以我们评价一种酒的味道，实际上评价的是乙醇以外的东西。\n\n说到这里，答案就呼之欲出了。\n\n这就和餐馆里食材不新鲜就猛放辣椒和盐一个道理，用重味遮盖食材本身的味道\n\n白酒就是用高度的酒精来遮盖白酒风味上的难喝\n\n如果白酒真的好喝，40度，甚至更低的白酒会大量存在\n\n现实为什么没有，因为越低度，乙醇越少，白酒的难喝就越明显\n\n你买一瓶白酒，里面所有的物质中，最好喝的是乙醇。所以白酒度数就得高，不高不行。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 840,
+          "impression_count": 759978,
+          "like_count": 1833,
+          "quote_count": 29,
+          "reply_count": 796,
+          "retweet_count": 224
+        },
+        "reply_settings": "everyone",
+        "text": "为什么有人说老外喝不了中国的白酒?\n\n无它，难喝而已\n\n不搞虚的，下面我就用逻辑来证明白酒难喝\n\n这世界上的酒\n\n水果酿的，高度酒叫白兰地，低点的叫雪莉酒，再低叫葡萄酒\n\n麦芽酿的，高度酒叫威士忌，低度酒叫啤酒\n\n谷物酿的，高度酒叫伏特加，低度酒叫清酒，烧酒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2025101983989043315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 208,
+          "like_count": 1556,
+          "listed_count": 0,
+          "media_count": 424,
+          "tweet_count": 1627
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T08:42:06.000Z",
+        "description": "shenxiao本xiao：清醒的人性观察者，用文字剖开人生百态 普通人视角｜骂醒自己也骂醒大家😏 不鸡汤、不PUA｜围观我的现实吐槽，少内耗少被骗，一起清醒活着",
+        "id": "1939242814547914752",
+        "name": "shenxiao",
+        "pinned_tweet_id": "2029917027406885251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963951814086475776/QZLXH7xF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29770,
+          "following_count": 5463,
+          "like_count": 123626,
+          "listed_count": 106,
+          "media_count": 705,
+          "tweet_count": 29783
+        },
+        "username": "Shenxiao123971",
+        "verified": true
+      }
+    ]
+  }
+}

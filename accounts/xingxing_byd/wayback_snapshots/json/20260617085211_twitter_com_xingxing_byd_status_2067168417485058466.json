@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2067168417485058466",
+    "created_at": "2026-06-17T08:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067168417485058466"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067168417485058466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "未来的她，在哪里？我想触碰，我们可以深入交流，慢慢探讨和摸索，我愿意失去正常结婚生子的权利，这是权利吗？我很疑惑，生一个孩子面对未来的痛苦，我不想看到，学校太压抑了，我怕她生病抑郁，我该怎么办，我也抑郁，对象啊，我们可以一起向上，做最好的自己。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2067168417485058466",
+        "created_at": "2026-06-17T08:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067168417485058466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067168417485058466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "未来的她，在哪里？我想触碰，我们可以深入交流，慢慢探讨和摸索，我愿意失去正常结婚生子的权利，这是权利吗？我很疑惑，生一个孩子面对未来的痛苦，我不想看到，学校太压抑了，我怕她生病抑郁，我该怎么办，我也抑郁，对象啊，我们可以一起向上，做最好的自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/改造自己中/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2066459240282329246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053496659234185216/Qd9JXfn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 268,
+          "like_count": 1651,
+          "listed_count": 0,
+          "media_count": 458,
+          "tweet_count": 1985
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

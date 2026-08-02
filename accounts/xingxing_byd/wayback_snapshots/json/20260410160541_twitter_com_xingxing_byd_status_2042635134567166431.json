@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2042562660458516511",
+    "created_at": "2026-04-10T16:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042635134567166431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042635134567166431",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042562660458516511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 多蹭蹭烟火气，有利于接地气"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2042562638799134720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFij5eUbYAAaLWU.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2042562638836830208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFij5edakAARy2p.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2042562638803275777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFij5eVakAEi1zm.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2042562638794887170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFij5eTakAIpC8v.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2042562660458516511",
+        "created_at": "2026-04-10T16:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042635134567166431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042635134567166431",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042562660458516511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 多蹭蹭烟火气，有利于接地气"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042562638799134720",
+            "3_2042562638836830208",
+            "3_2042562638803275777",
+            "3_2042562638794887170"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042562660458516511",
+        "created_at": "2026-04-10T11:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042562660458516511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PeNjPNv0y9",
+              "end": 178,
+              "expanded_url": "https://x.com/ServalCandle/status/2042562660458516511/photo/1",
+              "media_key": "3_2042562638799134720",
+              "start": 155,
+              "url": "https://t.co/PeNjPNv0y9"
+            },
+            {
+              "display_url": "pic.x.com/PeNjPNv0y9",
+              "end": 178,
+              "expanded_url": "https://x.com/ServalCandle/status/2042562660458516511/photo/1",
+              "media_key": "3_2042562638836830208",
+              "start": 155,
+              "url": "https://t.co/PeNjPNv0y9"
+            },
+            {
+              "display_url": "pic.x.com/PeNjPNv0y9",
+              "end": 178,
+              "expanded_url": "https://x.com/ServalCandle/status/2042562660458516511/photo/1",
+              "media_key": "3_2042562638803275777",
+              "start": 155,
+              "url": "https://t.co/PeNjPNv0y9"
+            },
+            {
+              "display_url": "pic.x.com/PeNjPNv0y9",
+              "end": 178,
+              "expanded_url": "https://x.com/ServalCandle/status/2042562660458516511/photo/1",
+              "media_key": "3_2042562638794887170",
+              "start": 155,
+              "url": "https://t.co/PeNjPNv0y9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042562660458516511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 344,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "震撼笨猫（（（\n\n不知道大家有没有见过这样的场景\n\n因为我对超市的刻板印象就是Costco那种\n\n从没体验过这样的\n所以其实超紧张\n\n今天和男朋友去河北玩，然后看到路边这个集市好多人就去了_(:з」∠)_\n\n他们就把这些食物放在一个开放的市场里贩售(＞人＜;)\n\n感觉像游乐场\n而且价格巨便宜已经大量购入了（ https://t.co/PeNjPNv0y9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2026997738622337393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039309570091425792/NwuNUk_k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 225,
+          "like_count": 1574,
+          "listed_count": 0,
+          "media_count": 443,
+          "tweet_count": 1724
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "頭像是自拍 / 身分證性別女/ Only block who blocked me / 癲貓精靈 咪咪超行(*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🌸猫宮すみか🎀🫪",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024879161932918784/w21cnpHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33474,
+          "following_count": 412,
+          "like_count": 233973,
+          "listed_count": 104,
+          "media_count": 9027,
+          "tweet_count": 58666
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

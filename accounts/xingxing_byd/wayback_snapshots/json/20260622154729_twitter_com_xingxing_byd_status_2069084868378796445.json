@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2068787432124830036",
+    "created_at": "2026-06-22T15:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069084868378796445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1823453840630538242",
+          "start": 0,
+          "username": "zma08021254515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069084868378796445",
+    "in_reply_to_user_id": "1823453840630538242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068787432124830036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zma08021254515 可爱😊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 636,
+        "media_key": "3_2068787310435459072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXPGRJXYAAorEm.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2068787432124830036",
+        "created_at": "2026-06-22T15:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069084868378796445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1823453840630538242",
+              "start": 0,
+              "username": "zma08021254515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069084868378796445",
+        "in_reply_to_user_id": "1823453840630538242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068787432124830036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zma08021254515 可爱😊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068787310435459072"
+          ]
+        },
+        "author_id": "1823453840630538242",
+        "conversation_id": "2068787432124830036",
+        "created_at": "2026-06-21T20:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T21:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068787432124830036"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "男娘"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "伪娘"
+            },
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 33,
+              "start": 26,
+              "tag": "可爱の男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cf4iO8uTbA",
+              "end": 57,
+              "expanded_url": "https://x.com/zma08021254515/status/2068787432124830036/photo/1",
+              "media_key": "3_2068787310435459072",
+              "start": 34,
+              "url": "https://t.co/Cf4iO8uTbA"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "1672d83ec40c4f05"
+        },
+        "id": "2068787432124830036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 974,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有美颜  有P图 #男娘  #伪娘 #可爱的男孩子 #可爱の男孩子 https://t.co/Cf4iO8uTbA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/改造自己中/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069048254038503424/3zbCNuPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 276,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 469,
+          "tweet_count": 2020
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T20:17:52.000Z",
+        "description": "可爱男娘♡ 不含糖 不线下 不卖照 纯分享日常 身高172 体重51kg 弱0   有对象",
+        "id": "1823453840630538242",
+        "name": "苏苏",
+        "pinned_tweet_id": "2068787432124830036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027714959254425601/Kvy4Y_fd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 23,
+          "like_count": 120,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "zma08021254515",
+        "verified": false
+      }
+    ]
+  }
+}

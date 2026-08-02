@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2074445052320075945",
+    "created_at": "2026-07-08T12:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074826348980568359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059149411007991808",
+          "start": 0,
+          "username": "wndsfefoumxlw6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074826348980568359",
+    "in_reply_to_user_id": "2059149411007991808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074445052320075945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wndsfefoumxlw6 坏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2074443323637661698",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnnNkQagAIh9xq.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2074443323641864192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnnNkRaoAAT8Q4.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2074443323692187648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnnNkdagAA0fXp.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2074445052320075945",
+        "created_at": "2026-07-08T12:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074826348980568359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074826348980568359",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074445052320075945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 坏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074443323637661698",
+            "3_2074443323641864192",
+            "3_2074443323692187648"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2074445052320075945",
+        "created_at": "2026-07-07T10:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074445052320075945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j8h3DwBeSp",
+              "end": 43,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2074445052320075945/photo/1",
+              "media_key": "3_2074443323637661698",
+              "start": 20,
+              "url": "https://t.co/j8h3DwBeSp"
+            },
+            {
+              "display_url": "pic.x.com/j8h3DwBeSp",
+              "end": 43,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2074445052320075945/photo/1",
+              "media_key": "3_2074443323641864192",
+              "start": 20,
+              "url": "https://t.co/j8h3DwBeSp"
+            },
+            {
+              "display_url": "pic.x.com/j8h3DwBeSp",
+              "end": 43,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2074445052320075945/photo/1",
+              "media_key": "3_2074443323692187648",
+              "start": 20,
+              "url": "https://t.co/j8h3DwBeSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074445052320075945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 15572,
+          "like_count": 104,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我受够了。你们真缺业绩其实可以去抖音钓 https://t.co/j8h3DwBeSp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/瞎说区/改造自己中/生活推/确诊心理疾病‼️/戒o遵医嘱用药",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072667749525147648/s-Z_wu4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 304,
+          "like_count": 1610,
+          "listed_count": 0,
+          "media_count": 490,
+          "tweet_count": 2116
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 我喜欢你呀😙欢迎互fo🐱电子烟需要的私信我 vx：c313s852j0976（无上头）\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 119,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 96,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 151,
+          "like_count": 3238,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 1702
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      }
+    ]
+  }
+}

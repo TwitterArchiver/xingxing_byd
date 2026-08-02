@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1985595429048762368"
+      ],
+      "media_source_tweet_id": [
+        "1985595447109374085"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1985607000106156535",
+    "created_at": "2025-11-04T07:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T08:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985607000106156535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1590031072368111617",
+          "start": 3,
+          "username": "AMAZINGCATSS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/44yOzDzY3b",
+          "end": 41,
+          "expanded_url": "https://x.com/AMAZINGCATSS/status/1985595447109374085/video/1",
+          "media_key": "7_1985595429048762368",
+          "start": 18,
+          "url": "https://t.co/44yOzDzY3b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985607000106156535",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985595447109374085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AMAZINGCATSS: https://t.co/44yOzDzY3b"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4900,
+        "height": 1920,
+        "media_key": "7_1985595429048762368",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1985595429048762368/pu/img/J0FiXaPPF2Ivvxv9.jpg",
+        "public_metrics": {
+          "view_count": 54
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1985595429048762368/pu/vid/avc1/320x568/8HqvckdSFIeFTN7r.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1985595429048762368/pu/vid/avc1/480x852/6Bk6Uc6xHgct4hHv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1985595429048762368/pu/vid/avc1/720x1280/55PKPeerG0zpb_v8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1985595429048762368/pu/pl/JQ1LEVP2i_6H0aHy.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1985595429048762368"
+          ],
+          "media_source_tweet_id": [
+            "1985595447109374085"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1985607000106156535",
+        "created_at": "2025-11-04T07:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T08:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985607000106156535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1590031072368111617",
+              "start": 3,
+              "username": "AMAZINGCATSS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/44yOzDzY3b",
+              "end": 41,
+              "expanded_url": "https://x.com/AMAZINGCATSS/status/1985595447109374085/video/1",
+              "media_key": "7_1985595429048762368",
+              "start": 18,
+              "url": "https://t.co/44yOzDzY3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985607000106156535",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985595447109374085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AMAZINGCATSS: https://t.co/44yOzDzY3b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1985595429048762368"
+          ]
+        },
+        "author_id": "1590031072368111617",
+        "conversation_id": "1985595447109374085",
+        "created_at": "2025-11-04T06:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T07:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985595447109374085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/44yOzDzY3b",
+              "end": 23,
+              "expanded_url": "https://x.com/AMAZINGCATSS/status/1985595447109374085/video/1",
+              "media_key": "7_1985595429048762368",
+              "start": 0,
+              "url": "https://t.co/44yOzDzY3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985595447109374085",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/44yOzDzY3b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "1982380680886800563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983791116177801216/Rnsx8aV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 144,
+          "like_count": 1648,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 1501
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T17:19:10.000Z",
+        "description": "All my followers will be shown all kinds of pictures and videos of the cat every day. You all keep giving me love like this, thank you. (1)M❤️🙏🙏",
+        "id": "1590031072368111617",
+        "location": "United States",
+        "name": "Cat is Amazing 🐈‍⬛",
+        "pinned_tweet_id": "1977027208695713977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845207795945308160/ekE6GwiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17267,
+          "following_count": 1596,
+          "like_count": 325,
+          "listed_count": 76,
+          "media_count": 6004,
+          "tweet_count": 7646
+        },
+        "username": "AMAZINGCATSS",
+        "verified": true
+      }
+    ]
+  }
+}

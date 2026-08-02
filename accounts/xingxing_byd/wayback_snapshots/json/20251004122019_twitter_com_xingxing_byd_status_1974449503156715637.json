@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1974402156049641472"
+      ],
+      "media_source_tweet_id": [
+        "1974402216854524073"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1974449503156715637",
+    "created_at": "2025-10-04T12:20:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T13:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974449503156715637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "705777407794352129",
+          "start": 3,
+          "username": "ServalCandle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EGUfjYeDXe",
+          "end": 78,
+          "expanded_url": "https://x.com/ServalCandle/status/1974402216854524073/video/1",
+          "media_key": "13_1974402156049641472",
+          "start": 55,
+          "url": "https://t.co/EGUfjYeDXe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974449503156715637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974402216854524073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ServalCandle: 笨猫今天看到了天上的海_(:з」∠)_\n\n这个天幕一刮风真的巨好看（（（ https://t.co/EGUfjYeDXe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11366,
+        "height": 1920,
+        "media_key": "13_1974402156049641472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1974402156049641472/img/O9reiHbG2DLRS-Qm.jpg",
+        "public_metrics": {
+          "view_count": 35
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1974402156049641472/pl/ZdPcQnI7s8ZoLrDo.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974402156049641472/vid/avc1/320x568/FlVumryUz1pevubm.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974402156049641472/vid/avc1/1080x1920/hOiFQrkZHs09W-jZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974402156049641472/vid/avc1/480x852/1YMdvs9k5xEZyy2F.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974402156049641472/vid/avc1/720x1280/1PFjpbDZrtNJUoU8.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1974402156049641472"
+          ],
+          "media_source_tweet_id": [
+            "1974402216854524073"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1974449503156715637",
+        "created_at": "2025-10-04T12:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T13:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974449503156715637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "705777407794352129",
+              "start": 3,
+              "username": "ServalCandle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EGUfjYeDXe",
+              "end": 78,
+              "expanded_url": "https://x.com/ServalCandle/status/1974402216854524073/video/1",
+              "media_key": "13_1974402156049641472",
+              "start": 55,
+              "url": "https://t.co/EGUfjYeDXe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974449503156715637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974402216854524073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ServalCandle: 笨猫今天看到了天上的海_(:з」∠)_\n\n这个天幕一刮风真的巨好看（（（ https://t.co/EGUfjYeDXe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1974402156049641472"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "conversation_id": "1974402216854524073",
+        "created_at": "2025-10-04T09:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T10:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974402216854524073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EGUfjYeDXe",
+              "end": 60,
+              "expanded_url": "https://x.com/ServalCandle/status/1974402216854524073/video/1",
+              "media_key": "13_1974402156049641472",
+              "start": 37,
+              "url": "https://t.co/EGUfjYeDXe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974402216854524073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 689,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笨猫今天看到了天上的海_(:з」∠)_\n\n这个天幕一刮风真的巨好看（（（ https://t.co/EGUfjYeDXe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|碎碎念|日常|美食|生活推|岁月静好ing|奇思妙想|积极生活",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1972676670990827762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 121,
+          "like_count": 1565,
+          "listed_count": 1,
+          "media_count": 362,
+          "tweet_count": 1431
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "癲貓精靈 笨貓不靈 (｡-_-｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "☃️La saison infinie de neige❄️",
+        "name": "🙀大笨貓𝕮𝖆𝖓𝖉𝖑𝖊🎃🍂",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944028998826438657/emzjxQ4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32794,
+          "following_count": 345,
+          "like_count": 225930,
+          "listed_count": 100,
+          "media_count": 8215,
+          "tweet_count": 54356
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

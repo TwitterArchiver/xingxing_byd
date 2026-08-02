@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2069218806044426271",
+    "created_at": "2026-06-23T00:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T01:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069218806044426271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 21,
+          "id": "2069192484706508800",
+          "start": 6,
+          "username": "xingxing787899"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069218806044426271",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "星猫2.0 @xingxing787899"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2069218806044426271",
+        "created_at": "2026-06-23T00:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T01:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069218806044426271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "2069192484706508800",
+              "start": 6,
+              "username": "xingxing787899"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069218806044426271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "星猫2.0 @xingxing787899"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/改造自己中/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞天星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069048254038503424/3zbCNuPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 298,
+          "like_count": 1595,
+          "listed_count": 0,
+          "media_count": 473,
+          "tweet_count": 2041
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T22:56:34.000Z",
+        "description": "一只猫，女生。平常可可爱爱的，但喜欢抽烟（烟味不要跟着我🥲）平常喜欢玩一下乙游，新出的游戏也会玩，社交软件重度依赖，fo你是喜欢看你主页，欢迎互fo。很想社交但不知道怎么开始（哈哈哈很i）戒o不建政哦不喝酒。生活推，记录美好生活。改造自己中，目标是变成完美猫娘！",
+        "id": "2069192484706508800",
+        "location": "仙家对话中",
+        "name": "星猫2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069193125030252544/3k5yw2PN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "",
+        "username": "xingxing787899",
+        "verified": false
+      }
+    ]
+  }
+}

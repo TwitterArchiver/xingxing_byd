@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2001903825373028352"
+      ],
+      "media_source_tweet_id": [
+        "2034087643097489769"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2034132250586194385",
+    "created_at": "2026-03-18T04:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T05:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034132250586194385"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 44,
+          "tag": "热点解读"
+        },
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "热点现场"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1840373101022052352",
+          "start": 3,
+          "username": "crazy_historyx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bykDSaWXrp",
+          "end": 81,
+          "expanded_url": "https://x.com/crazy_historyx/status/2034087643097489769/video/1",
+          "media_key": "13_2001903825373028352",
+          "start": 58,
+          "url": "https://t.co/bykDSaWXrp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034132250586194385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034087643097489769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crazy_historyx: 90后男子每天给妻子跳舞，用爱唤醒植物人妻子。 #热点解读 #热点现场 # https://t.co/bykDSaWXrp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 96781,
+        "height": 720,
+        "media_key": "13_2001903825373028352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001903825373028352/img/k7BpCSYuSh-C-_qC.jpg",
+        "public_metrics": {
+          "view_count": 8328
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001903825373028352/vid/avc1/320x320/sS5hm_WezF5YdqOB.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001903825373028352/vid/avc1/540x540/8TOqMsy8sWOljXqf.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001903825373028352/vid/avc1/720x720/RsCF-4xAUK2WkwUL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001903825373028352/pl/yCC1_zMWUfZEdCEq.m3u8?v=7fc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001903825373028352"
+          ],
+          "media_source_tweet_id": [
+            "2034087643097489769"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034132250586194385",
+        "created_at": "2026-03-18T04:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T05:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034132250586194385"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "热点解读"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "热点现场"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1840373101022052352",
+              "start": 3,
+              "username": "crazy_historyx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bykDSaWXrp",
+              "end": 81,
+              "expanded_url": "https://x.com/crazy_historyx/status/2034087643097489769/video/1",
+              "media_key": "13_2001903825373028352",
+              "start": 58,
+              "url": "https://t.co/bykDSaWXrp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034132250586194385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034087643097489769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crazy_historyx: 90后男子每天给妻子跳舞，用爱唤醒植物人妻子。 #热点解读 #热点现场 # https://t.co/bykDSaWXrp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001903825373028352"
+          ]
+        },
+        "author_id": "1840373101022052352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034087643097489769",
+        "created_at": "2026-03-18T02:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T03:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034087643097489769"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "热点解读"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "热点现场"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bykDSaWXrp",
+              "end": 61,
+              "expanded_url": "https://x.com/crazy_historyx/status/2034087643097489769/video/1",
+              "media_key": "13_2001903825373028352",
+              "start": 38,
+              "url": "https://t.co/bykDSaWXrp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034087643097489769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 16861,
+          "like_count": 105,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "90后男子每天给妻子跳舞，用爱唤醒植物人妻子。 #热点解读 #热点现场 # https://t.co/bykDSaWXrp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2025101983989043315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 205,
+          "like_count": 1560,
+          "listed_count": 0,
+          "media_count": 426,
+          "tweet_count": 1653
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-29T12:48:43.000Z",
+        "description": "环球纪事，领略古今疯狂故事，分享奇趣百科知识 |",
+        "id": "1840373101022052352",
+        "name": "环球纪录",
+        "pinned_tweet_id": "1840403157316444447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879426175812132864/ykDHztJp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41183,
+          "following_count": 11,
+          "like_count": 30731,
+          "listed_count": 136,
+          "media_count": 6056,
+          "tweet_count": 7555
+        },
+        "username": "crazy_historyx",
+        "verified": true
+      }
+    ]
+  }
+}

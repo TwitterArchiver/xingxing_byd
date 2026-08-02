@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965315002107297792"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1965315005320233428",
+    "created_at": "2025-09-09T07:23:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T08:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965315005320233428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EsT8YC7JGL",
+          "end": 43,
+          "expanded_url": "https://x.com/xingxing_byd/status/1965315005320233428/photo/1",
+          "media_key": "3_1965315002107297792",
+          "start": 20,
+          "url": "https://t.co/EsT8YC7JGL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965315005320233428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又偷偷抽了两支，抽烟好舒服谁来救救我。 https://t.co/EsT8YC7JGL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965315002107297792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0YzlOxaAAAUzjH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965315002107297792"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1965315005320233428",
+        "created_at": "2025-09-09T07:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T08:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965315005320233428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EsT8YC7JGL",
+              "end": 43,
+              "expanded_url": "https://x.com/xingxing_byd/status/1965315005320233428/photo/1",
+              "media_key": "3_1965315002107297792",
+              "start": 20,
+              "url": "https://t.co/EsT8YC7JGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965315005320233428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又偷偷抽了两支，抽烟好舒服谁来救救我。 https://t.co/EsT8YC7JGL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|碎碎念|日常|美食|生活推|岁月静好ing|拒绝不良内容|积极向上",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星系系统✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1952980636073115955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955489105514762240/nwrEcNd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 103,
+          "like_count": 1522,
+          "listed_count": 1,
+          "media_count": 343,
+          "tweet_count": 1367
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

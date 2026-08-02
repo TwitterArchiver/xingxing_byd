@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2065745549975077118",
+    "created_at": "2026-06-13T10:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065745549975077118"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Pr0mis3_c/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Pr0mis3_c/status/2065689968937455831",
+          "start": 6,
+          "url": "https://t.co/3wiMq52GHQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065745549975077118",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065689968937455831",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小姐姐好美 https://t.co/3wiMq52GHQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065689957898080256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrOEnybUAAxhGz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2065745549975077118",
+        "created_at": "2026-06-13T10:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065745549975077118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Pr0mis3_c/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Pr0mis3_c/status/2065689968937455831",
+              "start": 6,
+              "url": "https://t.co/3wiMq52GHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065745549975077118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065689968937455831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小姐姐好美 https://t.co/3wiMq52GHQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065689957898080256"
+          ]
+        },
+        "author_id": "1993628897645408256",
+        "conversation_id": "2065689968937455831",
+        "created_at": "2026-06-13T06:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065689968937455831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ePUwfpODsX",
+              "end": 36,
+              "expanded_url": "https://x.com/Pr0mis3_c/status/2065689968937455831/photo/1",
+              "media_key": "3_2065689957898080256",
+              "start": 13,
+              "url": "https://t.co/ePUwfpODsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065689968937455831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚洗完澡非常白净的手手😋 https://t.co/ePUwfpODsX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053496659234185216/Qd9JXfn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 260,
+          "like_count": 1626,
+          "listed_count": 0,
+          "media_count": 457,
+          "tweet_count": 1941
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T10:32:43.000Z",
+        "description": "🍥06 xyn/mtf 🏳️‍⚧️hrt: 2025.12.2| en/zh | 无证含糖 | 持续深柜 | 无不良嗜好 | 焦虑抑郁中... | 梦想srs | 同类互fo | 渴望交友...\ntg: https://t.co/yl6WM4V5Sw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Pr0m1s3",
+                "end": 125,
+                "expanded_url": "http://t.me/Pr0m1s3",
+                "start": 102,
+                "url": "https://t.co/yl6WM4V5Sw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "czxh.top",
+                "end": 23,
+                "expanded_url": "https://czxh.top",
+                "start": 0,
+                "url": "https://t.co/mt7U160VHA"
+              }
+            ]
+          }
+        },
+        "id": "1993628897645408256",
+        "location": "Antarctica",
+        "name": "诗雨.𝘗𝘳𝘰𝘮𝘪𝘴𝘦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2039290189093519707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063083323459825664/tzQOYIMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 502,
+          "like_count": 2224,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 793
+        },
+        "url": "https://t.co/mt7U160VHA",
+        "username": "Pr0mis3_c",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2039923871361748992"
+      ],
+      "media_source_tweet_id": [
+        "2040089188595388596"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "2040257911637914094",
+    "created_at": "2026-04-04T02:39:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T03:39:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040257911637914094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1324198319535521795",
+          "start": 3,
+          "username": "KKaWSB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cEzfta4SG6",
+          "end": 111,
+          "expanded_url": "https://x.com/KKaWSB/status/2040089188595388596/video/1",
+          "media_key": "13_2039923871361748992",
+          "start": 88,
+          "url": "https://t.co/cEzfta4SG6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040257911637914094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040089188595388596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KKaWSB: 由于犹太教规禁止在安息日使用电子设备，从纽约前往特拉维夫的犹太儿童会用布遮盖屏幕。\n\n触碰金钱、使用手机或任何电子设备都是被禁止的，否则就会被视为犯罪 https://t.co/cEzfta4SG6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16277,
+        "height": 848,
+        "media_key": "13_2039923871361748992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039923871361748992/img/FmXMeO1cN4RQlS77.jpg",
+        "public_metrics": {
+          "view_count": 516849
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039923871361748992/vid/avc1/320x570/I127GqbNcjTkB46w.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039923871361748992/vid/avc1/476x848/BdMm0SlehrhygrR_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039923871361748992/pl/tNuSOMtHa5D16ij3.m3u8?v=cfc"
+          }
+        ],
+        "width": 476
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039923871361748992"
+          ],
+          "media_source_tweet_id": [
+            "2040089188595388596"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "2040257911637914094",
+        "created_at": "2026-04-04T02:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T03:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040257911637914094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1324198319535521795",
+              "start": 3,
+              "username": "KKaWSB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cEzfta4SG6",
+              "end": 111,
+              "expanded_url": "https://x.com/KKaWSB/status/2040089188595388596/video/1",
+              "media_key": "13_2039923871361748992",
+              "start": 88,
+              "url": "https://t.co/cEzfta4SG6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040257911637914094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040089188595388596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KKaWSB: 由于犹太教规禁止在安息日使用电子设备，从纽约前往特拉维夫的犹太儿童会用布遮盖屏幕。\n\n触碰金钱、使用手机或任何电子设备都是被禁止的，否则就会被视为犯罪 https://t.co/cEzfta4SG6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039923871361748992"
+          ]
+        },
+        "author_id": "1324198319535521795",
+        "conversation_id": "2040089188595388596",
+        "created_at": "2026-04-03T15:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040089188595388596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cEzfta4SG6",
+              "end": 99,
+              "expanded_url": "https://x.com/KKaWSB/status/2040089188595388596/video/1",
+              "media_key": "13_2039923871361748992",
+              "start": 76,
+              "url": "https://t.co/cEzfta4SG6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040089188595388596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 935261,
+          "like_count": 364,
+          "quote_count": 5,
+          "reply_count": 193,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "由于犹太教规禁止在安息日使用电子设备，从纽约前往特拉维夫的犹太儿童会用布遮盖屏幕。\n\n触碰金钱、使用手机或任何电子设备都是被禁止的，否则就会被视为犯罪 https://t.co/cEzfta4SG6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2026997738622337393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039309570091425792/NwuNUk_k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 221,
+          "like_count": 1573,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 1709
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder @ CarbonSilicon AI | AI Quant Trading | Based in Palo Alto | 加密投研 | 美股 | 科技 | 宏观 | 招募工程师（可兼职）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SilentFleetKK",
+                "end": 23,
+                "expanded_url": "https://github.com/SilentFleetKK",
+                "start": 0,
+                "url": "https://t.co/TpeTVm0Rrr"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Atlanta, GA",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75304,
+          "following_count": 2866,
+          "like_count": 9129,
+          "listed_count": 644,
+          "media_count": 5554,
+          "tweet_count": 11358
+        },
+        "url": "https://t.co/TpeTVm0Rrr",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

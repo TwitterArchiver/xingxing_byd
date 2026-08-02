@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977360045659877376",
+        "3_1977360044976140288"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1977360049606365204",
+    "created_at": "2025-10-12T13:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T14:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977360049606365204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W1oDCdlQKG",
+          "end": 27,
+          "expanded_url": "https://x.com/xingxing_byd/status/1977360049606365204/photo/1",
+          "media_key": "3_1977360045659877376",
+          "start": 4,
+          "url": "https://t.co/W1oDCdlQKG"
+        },
+        {
+          "display_url": "pic.x.com/W1oDCdlQKG",
+          "end": 27,
+          "expanded_url": "https://x.com/xingxing_byd/status/1977360049606365204/photo/1",
+          "media_key": "3_1977360044976140288",
+          "start": 4,
+          "url": "https://t.co/W1oDCdlQKG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977360049606365204",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新串😏 https://t.co/W1oDCdlQKG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977360045659877376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3D-fCqbcAAtV8h.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1977360044976140288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3D-fAHacAA-ATc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977360045659877376",
+            "3_1977360044976140288"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1977360049606365204",
+        "created_at": "2025-10-12T13:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T14:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977360049606365204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W1oDCdlQKG",
+              "end": 27,
+              "expanded_url": "https://x.com/xingxing_byd/status/1977360049606365204/photo/1",
+              "media_key": "3_1977360045659877376",
+              "start": 4,
+              "url": "https://t.co/W1oDCdlQKG"
+            },
+            {
+              "display_url": "pic.x.com/W1oDCdlQKG",
+              "end": 27,
+              "expanded_url": "https://x.com/xingxing_byd/status/1977360049606365204/photo/1",
+              "media_key": "3_1977360044976140288",
+              "start": 4,
+              "url": "https://t.co/W1oDCdlQKG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977360049606365204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新串😏 https://t.co/W1oDCdlQKG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|日常|生活推|有心理疾病‼️|会自残不od|更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1972676670990827762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 139,
+          "like_count": 1600,
+          "listed_count": 1,
+          "media_count": 369,
+          "tweet_count": 1447
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

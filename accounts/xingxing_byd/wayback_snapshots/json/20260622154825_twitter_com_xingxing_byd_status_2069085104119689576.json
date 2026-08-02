@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2060359121858097609",
+    "created_at": "2026-06-22T15:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069085104119689576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1823453840630538242",
+          "start": 0,
+          "username": "zma08021254515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069085104119689576",
+    "in_reply_to_user_id": "1823453840630538242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060359121858097609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zma08021254515 家里人支持真好喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2060359117382782978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfds3VWkAI6hJG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2060359115189178371",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfdsvKW0AMLi2z.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2060359121858097609",
+        "created_at": "2026-06-22T15:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069085104119689576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1823453840630538242",
+              "start": 0,
+              "username": "zma08021254515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069085104119689576",
+        "in_reply_to_user_id": "1823453840630538242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060359121858097609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zma08021254515 家里人支持真好喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060359117382782978",
+            "3_2060359115189178371"
+          ]
+        },
+        "author_id": "1823453840630538242",
+        "conversation_id": "2060359121858097609",
+        "created_at": "2026-05-29T13:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060359121858097609"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "男娘"
+            },
+            {
+              "end": 73,
+              "start": 66,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "女装"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "伪娘"
+            },
+            {
+              "end": 90,
+              "start": 83,
+              "tag": "可爱の男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P9YFk931Gf",
+              "end": 114,
+              "expanded_url": "https://x.com/zma08021254515/status/2060359121858097609/photo/1",
+              "media_key": "3_2060359117382782978",
+              "start": 91,
+              "url": "https://t.co/P9YFk931Gf"
+            },
+            {
+              "display_url": "pic.x.com/P9YFk931Gf",
+              "end": 114,
+              "expanded_url": "https://x.com/zma08021254515/status/2060359121858097609/photo/1",
+              "media_key": "3_2060359115189178371",
+              "start": 91,
+              "url": "https://t.co/P9YFk931Gf"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "1672d83ec40c4f05"
+        },
+        "id": "2060359121858097609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1981,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不干什么单纯炫耀   不是复更就是炫耀  家里开门支持女装   一周学习回来      发现妈咪给自己买了个电竞椅 #男娘    \n#可爱的男孩子 #女装  #伪娘 #可爱の男孩子 https://t.co/P9YFk931Gf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/改造自己中/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069048254038503424/3zbCNuPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 277,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 469,
+          "tweet_count": 2021
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T20:17:52.000Z",
+        "description": "可爱男娘♡ 不含糖 不线下 不卖照 纯分享日常 身高172 体重51kg 弱0   有对象",
+        "id": "1823453840630538242",
+        "name": "苏苏",
+        "pinned_tweet_id": "2068787432124830036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027714959254425601/Kvy4Y_fd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 23,
+          "like_count": 120,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "zma08021254515",
+        "verified": false
+      }
+    ]
+  }
+}

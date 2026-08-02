@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971537249717403648"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1971537258449965117",
+    "created_at": "2025-09-26T11:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T12:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971537258449965117"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AmtsZHd9xu",
+          "end": 41,
+          "expanded_url": "https://x.com/xingxing_byd/status/1971537258449965117/photo/1",
+          "media_key": "3_1971537249717403648",
+          "start": 18,
+          "url": "https://t.co/AmtsZHd9xu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971537258449965117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "通过这两天花销我又知道…我超支了。 https://t.co/AmtsZHd9xu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1785,
+        "media_key": "3_1971537249717403648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1xOrtbbQAA8tM0.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971537249717403648"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1971537258449965117",
+        "created_at": "2025-09-26T11:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T12:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971537258449965117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AmtsZHd9xu",
+              "end": 41,
+              "expanded_url": "https://x.com/xingxing_byd/status/1971537258449965117/photo/1",
+              "media_key": "3_1971537249717403648",
+              "start": 18,
+              "url": "https://t.co/AmtsZHd9xu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971537258449965117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "通过这两天花销我又知道…我超支了。 https://t.co/AmtsZHd9xu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|碎碎念|日常|美食|生活推|岁月静好ing|奇思妙想|积极生活",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1969253665107038227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 131,
+          "like_count": 1527,
+          "listed_count": 1,
+          "media_count": 355,
+          "tweet_count": 1413
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969253661919617024"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1969253665107038227",
+    "created_at": "2025-09-20T04:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T05:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969253665107038227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2aob28wHhj",
+          "end": 33,
+          "expanded_url": "https://x.com/xingxing_byd/status/1969253665107038227/photo/1",
+          "media_key": "3_1969253661919617024",
+          "start": 10,
+          "url": "https://t.co/2aob28wHhj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969253665107038227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一切，都沦于美好。 https://t.co/2aob28wHhj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1969253661919617024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1QxxZ9bIAAPSNV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969253661919617024"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1969253665107038227",
+        "created_at": "2025-09-20T04:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T05:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969253665107038227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2aob28wHhj",
+              "end": 33,
+              "expanded_url": "https://x.com/xingxing_byd/status/1969253665107038227/photo/1",
+              "media_key": "3_1969253661919617024",
+              "start": 10,
+              "url": "https://t.co/2aob28wHhj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969253665107038227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一切，都沦于美好。 https://t.co/2aob28wHhj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|碎碎念|日常|美食|生活推|岁月静好ing|拒绝不良内容|积极向上",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星系系统✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1952980636073115955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 120,
+          "like_count": 1500,
+          "listed_count": 1,
+          "media_count": 352,
+          "tweet_count": 1392
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

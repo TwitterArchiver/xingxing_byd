@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1977655833283690790",
+    "created_at": "2025-10-13T08:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T09:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977655833283690790"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zheguangyoucha…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/zheguangyouchai/status/1977538950236618933",
+          "start": 4,
+          "url": "https://t.co/U1SiLuHHE1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977655833283690790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977538950236618933",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有钱人 https://t.co/U1SiLuHHE1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977538947111858176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3GhMegaMAAPczd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1977655833283690790",
+        "created_at": "2025-10-13T08:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T09:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977655833283690790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zheguangyoucha…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/zheguangyouchai/status/1977538950236618933",
+              "start": 4,
+              "url": "https://t.co/U1SiLuHHE1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977655833283690790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977538950236618933",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有钱人 https://t.co/U1SiLuHHE1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977538947111858176"
+          ]
+        },
+        "author_id": "1546153784820129792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1977538950236618933",
+        "created_at": "2025-10-13T00:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T01:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977538950236618933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sbcKLfsXJo",
+              "end": 40,
+              "expanded_url": "https://x.com/zheguangyouchai/status/1977538950236618933/photo/1",
+              "media_key": "3_1977538947111858176",
+              "start": 17,
+              "url": "https://t.co/sbcKLfsXJo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977538950236618933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4091,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这手机壳居然卖749...... https://t.co/sbcKLfsXJo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|日常|生活推|有心理疾病‼️|会自残不od|更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1972676670990827762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 141,
+          "like_count": 1603,
+          "listed_count": 1,
+          "media_count": 370,
+          "tweet_count": 1449
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T15:26:20.000Z",
+        "description": "Politics🚫 \n摄影师 IIluminate Night, Follow Journey.",
+        "id": "1546153784820129792",
+        "name": "折光邮差",
+        "pinned_tweet_id": "1929757299926806612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954544991998803968/gx4Jl3ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8010,
+          "following_count": 183,
+          "like_count": 7918,
+          "listed_count": 53,
+          "media_count": 1236,
+          "tweet_count": 3672
+        },
+        "username": "zheguangyouchai",
+        "verified": false
+      }
+    ]
+  }
+}

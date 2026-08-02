@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2014036225523425524",
+    "created_at": "2026-01-21T18:03:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T19:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014036225523425524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jinningli74/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Jinningli74/status/2014014095029088747",
+          "start": 14,
+          "url": "https://t.co/ib2XRKVx8f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014036225523425524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014014095029088747",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "学理科最后从艺的苦命人已哭 https://t.co/ib2XRKVx8f"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2014036225523425524",
+        "created_at": "2026-01-21T18:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T19:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014036225523425524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jinningli74/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Jinningli74/status/2014014095029088747",
+              "start": 14,
+              "url": "https://t.co/ib2XRKVx8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014036225523425524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014014095029088747",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "学理科最后从艺的苦命人已哭 https://t.co/ib2XRKVx8f"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836751836893835264",
+        "conversation_id": "2013850240156115413",
+        "created_at": "2026-01-21T16:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014014095029088747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "28940967",
+              "start": 0,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014014095029088747",
+        "in_reply_to_user_id": "28940967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013850240156115413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidangzzz 我发现你完全不理解什么叫数学差，小学就数学差的，还选理科你是要逼死人，她连四则运算都困难，需要家长老师掰开了揉碎了往里面塞，这样的人根本就不适合死磕学习，家里有钱的送她读个轻松的书，没钱的趁早躺平，别白花钱最后学没学好身体搞不好，精神出问题，孩子哭家长哭。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012991233136754688/UQCWfzXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 182,
+          "like_count": 1531,
+          "listed_count": 0,
+          "media_count": 408,
+          "tweet_count": 1553
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T12:59:26.000Z",
+        "description": "",
+        "id": "1836751836893835264",
+        "name": "Jinning Li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836751957035479040/9snviFsj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 58,
+          "like_count": 32,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 440
+        },
+        "username": "Jinningli74",
+        "verified": false
+      }
+    ]
+  }
+}

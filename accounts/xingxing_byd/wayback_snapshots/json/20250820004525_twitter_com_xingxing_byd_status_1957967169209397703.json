@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1957967169209397703",
+    "created_at": "2025-08-20T00:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T01:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957967169209397703"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1957967169209397703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么在家里抽烟会被骂？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1957967169209397703",
+        "created_at": "2025-08-20T00:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T01:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957967169209397703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957967169209397703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么在家里抽烟会被骂？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "不要跟我说违法内容",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星系系统✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1952980636073115955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955489105514762240/nwrEcNd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 97,
+          "like_count": 1521,
+          "listed_count": 0,
+          "media_count": 338,
+          "tweet_count": 1356
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982771561003192320"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1982771565285843047",
+    "created_at": "2025-10-27T11:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T12:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982771565285843047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FMdnVi8Rga",
+          "end": 35,
+          "expanded_url": "https://x.com/xingxing_byd/status/1982771565285843047/photo/1",
+          "media_key": "3_1982771561003192320",
+          "start": 12,
+          "url": "https://t.co/FMdnVi8Rga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982771565285843047",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天其实吃了一堆好吃的 https://t.co/FMdnVi8Rga"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982771561003192320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Q4OsRXkAAsix5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982771561003192320"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1982771565285843047",
+        "created_at": "2025-10-27T11:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T12:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982771565285843047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FMdnVi8Rga",
+              "end": 35,
+              "expanded_url": "https://x.com/xingxing_byd/status/1982771565285843047/photo/1",
+              "media_key": "3_1982771561003192320",
+              "start": 12,
+              "url": "https://t.co/FMdnVi8Rga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982771565285843047",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天其实吃了一堆好吃的 https://t.co/FMdnVi8Rga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜极偶尔自残不od｜更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "1982380680886800563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 150,
+          "like_count": 1633,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 1483
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

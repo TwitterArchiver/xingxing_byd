@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069012632959336448"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "2069012637891825737",
+    "created_at": "2026-06-22T11:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T12:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069012637891825737"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z1eXZAgvVC",
+          "end": 33,
+          "expanded_url": "https://x.com/xingxing_byd/status/2069012637891825737/photo/1",
+          "media_key": "3_2069012632959336448",
+          "start": 10,
+          "url": "https://t.co/Z1eXZAgvVC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069012637891825737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "累（小熊挺好看的） https://t.co/Z1eXZAgvVC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069012632959336448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLacBw9WQAAbbZT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069012632959336448"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "2069012637891825737",
+        "created_at": "2026-06-22T11:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069012637891825737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z1eXZAgvVC",
+              "end": 33,
+              "expanded_url": "https://x.com/xingxing_byd/status/2069012637891825737/photo/1",
+              "media_key": "3_2069012632959336448",
+              "start": 10,
+              "url": "https://t.co/Z1eXZAgvVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069012637891825737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "累（小熊挺好看的） https://t.co/Z1eXZAgvVC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/改造自己中/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2066459240282329246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067973144640663552/qZOSGSqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 275,
+          "like_count": 1582,
+          "listed_count": 0,
+          "media_count": 466,
+          "tweet_count": 2010
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

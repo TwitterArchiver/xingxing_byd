@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1957106165453570133",
+    "created_at": "2025-08-18T03:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T04:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957288321211834665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896545514302443520",
+          "start": 0,
+          "username": "FengYinCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957288321211834665",
+    "in_reply_to_user_id": "1896545514302443520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957106165453570133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FengYinCC 没事，活着就有前进的可能。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1957106165453570133",
+        "created_at": "2025-08-18T03:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T04:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957288321211834665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896545514302443520",
+              "start": 0,
+              "username": "FengYinCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957288321211834665",
+        "in_reply_to_user_id": "1896545514302443520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957106165453570133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FengYinCC 没事，活着就有前进的可能。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896545514302443520",
+        "conversation_id": "1957106165453570133",
+        "created_at": "2025-08-17T15:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T16:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957106165453570133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957106165453570133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 233,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "负能警告⚠️\n- 学车，学习，找工作，游戏水平，感情，精神状态，身材与皮肤管理\n- 风吟一共有0条任务线在推进，甚至其中不少出现了倒退，比如想死的欲望上升了不少，重新变得恐惧、无力和虚弱，也有几天没和对象说话了x\n- 风吟或许真的在慢慢枯萎，就像过往六年一样「停滞不前」，真的还有变好的可能吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "不要跟我说违法内容",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星系系统✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1952980636073115955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955489105514762240/nwrEcNd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 97,
+          "like_count": 1521,
+          "listed_count": 0,
+          "media_count": 335,
+          "tweet_count": 1349
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T12:57:54.000Z",
+        "description": "请和我交朋友（注：不含糖的生理男哦，或许是非二元，我不知道）（如果说话让您感到奇怪，还请告诉我，我很抱歉）想要成为风呢ww",
+        "id": "1896545514302443520",
+        "location": "山的那边海的那边",
+        "name": "是风吟哦🍀",
+        "pinned_tweet_id": "1899366385337405562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935219395753820161/MqDR_nOd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 171,
+          "like_count": 27273,
+          "listed_count": 3,
+          "media_count": 478,
+          "tweet_count": 3249
+        },
+        "username": "FengYinCC",
+        "verified": false
+      }
+    ]
+  }
+}

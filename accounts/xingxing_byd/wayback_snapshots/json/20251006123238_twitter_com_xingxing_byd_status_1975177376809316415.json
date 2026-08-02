@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1975177300804292608",
+        "7_1975177331280117761",
+        "7_1975177358018859010"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1975177376809316415",
+    "created_at": "2025-10-06T12:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T13:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975177376809316415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/spPSBFUHzi",
+          "end": 31,
+          "expanded_url": "https://x.com/xingxing_byd/status/1975177376809316415/video/1",
+          "media_key": "7_1975177300804292608",
+          "start": 8,
+          "url": "https://t.co/spPSBFUHzi"
+        },
+        {
+          "display_url": "pic.x.com/spPSBFUHzi",
+          "end": 31,
+          "expanded_url": "https://x.com/xingxing_byd/status/1975177376809316415/video/1",
+          "media_key": "7_1975177331280117761",
+          "start": 8,
+          "url": "https://t.co/spPSBFUHzi"
+        },
+        {
+          "display_url": "pic.x.com/spPSBFUHzi",
+          "end": 31,
+          "expanded_url": "https://x.com/xingxing_byd/status/1975177376809316415/video/1",
+          "media_key": "7_1975177358018859010",
+          "start": 8,
+          "url": "https://t.co/spPSBFUHzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975177376809316415",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中秋吃减脂餐。 https://t.co/spPSBFUHzi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2995,
+        "height": 960,
+        "media_key": "7_1975177300804292608",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1975177300804292608/pu/img/-yozM8krHDZus2yj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975177300804292608/pu/vid/avc1/320x426/6_S1tmsrwdxaEJ9y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975177300804292608/pu/vid/avc1/480x640/OFpwUZ1jpJgHA_h2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975177300804292608/pu/vid/avc1/720x960/H6rXB2HUvG705_zx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1975177300804292608/pu/pl/MlrBA_PV1HQG1_1l.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 2950,
+        "height": 960,
+        "media_key": "7_1975177331280117761",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1975177331280117761/pu/img/Vz8z996rblh4azjZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975177331280117761/pu/vid/avc1/320x426/3Sf5GKb3Gyi36_JN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975177331280117761/pu/vid/avc1/480x640/fDFFDdkgtobhext2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975177331280117761/pu/vid/avc1/720x960/v-HBh_r9FmXDk-ft.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1975177331280117761/pu/pl/FvSVBEM1T5f7rtDC.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 2596,
+        "height": 720,
+        "media_key": "7_1975177358018859010",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1975177358018859010/pu/img/AoTqtmQKu2tlv00q.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975177358018859010/pu/vid/avc1/360x270/bCWGwW14QntqRAeb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975177358018859010/pu/vid/avc1/480x360/D0nZ6cj8p6WHv20m.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975177358018859010/pu/vid/avc1/960x720/4RhAlg8g86ITONQ1.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1975177358018859010/pu/pl/CACAnbfK0YiCqupr.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1975177300804292608",
+            "7_1975177331280117761",
+            "7_1975177358018859010"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1975177376809316415",
+        "created_at": "2025-10-06T12:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T13:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975177376809316415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/spPSBFUHzi",
+              "end": 31,
+              "expanded_url": "https://x.com/xingxing_byd/status/1975177376809316415/video/1",
+              "media_key": "7_1975177300804292608",
+              "start": 8,
+              "url": "https://t.co/spPSBFUHzi"
+            },
+            {
+              "display_url": "pic.x.com/spPSBFUHzi",
+              "end": 31,
+              "expanded_url": "https://x.com/xingxing_byd/status/1975177376809316415/video/1",
+              "media_key": "7_1975177331280117761",
+              "start": 8,
+              "url": "https://t.co/spPSBFUHzi"
+            },
+            {
+              "display_url": "pic.x.com/spPSBFUHzi",
+              "end": 31,
+              "expanded_url": "https://x.com/xingxing_byd/status/1975177376809316415/video/1",
+              "media_key": "7_1975177358018859010",
+              "start": 8,
+              "url": "https://t.co/spPSBFUHzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975177376809316415",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中秋吃减脂餐。 https://t.co/spPSBFUHzi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|碎碎念|日常|美食|生活推|岁月静好ing|奇思妙想|积极生活",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1972676670990827762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 122,
+          "like_count": 1575,
+          "listed_count": 1,
+          "media_count": 366,
+          "tweet_count": 1437
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

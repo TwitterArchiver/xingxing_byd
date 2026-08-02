@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1954985929560699243",
+    "created_at": "2025-08-12T02:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T03:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955095250684232059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "522147771",
+          "start": 0,
+          "username": "N_N_DET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955095250684232059",
+    "in_reply_to_user_id": "522147771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954985929560699243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N_N_DET 那还吸？后果很严重，活都活不下去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1954985929560699243",
+        "created_at": "2025-08-12T02:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T03:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955095250684232059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "522147771",
+              "start": 0,
+              "username": "N_N_DET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955095250684232059",
+        "in_reply_to_user_id": "522147771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954985929560699243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N_N_DET 那还吸？后果很严重，活都活不下去。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "522147771",
+        "conversation_id": "1954985929560699243",
+        "created_at": "2025-08-11T19:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T20:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954985929560699243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954985929560699243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吸毒被抓第一次拘留，第二次戒毒所两年，定期居住地派出所尿检。\n任何刷身份证的场合必定触发警察到场尿检+盘查。\n找工作警察会给工作单位告知涉毒情况。\n少数地区租房警察会给房东告知涉毒情况。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "爱我可以给我打钱！vx🚪55  在此刻 在某处 那个我 他很好 不要跟我说违法内容 尊法守法",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星系系统✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1952980636073115955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943517309751939072/FxpaGeBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 103,
+          "like_count": 1517,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 1331
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-12T10:46:19.000Z",
+        "description": "DET 是一种强效的致幻剂，作用于中枢神经系统，特别是 5-HT2A 受体，产生类似 DMT 的心理和感知效应。\n\n交流群:https://t.co/FJhZhgg6cY\n化学极乐百科:https://t.co/c6WOvYAeM8\n博客:https://t.co/kHjBLIUhZE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/nVUqUkwW",
+                "end": 85,
+                "expanded_url": "https://discord.gg/nVUqUkwW",
+                "start": 62,
+                "url": "https://t.co/FJhZhgg6cY"
+              },
+              {
+                "display_url": "overdose.day",
+                "end": 116,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 93,
+                "url": "https://t.co/c6WOvYAeM8"
+              },
+              {
+                "display_url": "blog.pr80.cn",
+                "end": 143,
+                "expanded_url": "https://blog.pr80.cn/",
+                "start": 120,
+                "url": "https://t.co/kHjBLIUhZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/c6WOvYAeM8"
+              }
+            ]
+          }
+        },
+        "id": "522147771",
+        "location": "天国",
+        "name": "N,N-二乙基色胺🔯",
+        "pinned_tweet_id": "1952928457475932357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951933777049165825/lU5YAFYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 419,
+          "like_count": 160,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 340
+        },
+        "url": "https://t.co/c6WOvYAeM8",
+        "username": "N_N_DET",
+        "verified": false
+      }
+    ]
+  }
+}

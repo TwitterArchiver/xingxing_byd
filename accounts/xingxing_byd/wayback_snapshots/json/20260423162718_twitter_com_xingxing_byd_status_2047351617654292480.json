@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047351602802262024",
+        "3_2047351602831622144",
+        "3_2047351602831622147"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2047351617654292480",
+    "created_at": "2026-04-23T16:27:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T17:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047351617654292480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0XlVwwYqLX",
+          "end": 63,
+          "expanded_url": "https://x.com/xingxing_byd/status/2047351617654292480/photo/1",
+          "media_key": "3_2047351602802262024",
+          "start": 40,
+          "url": "https://t.co/0XlVwwYqLX"
+        },
+        {
+          "display_url": "pic.x.com/0XlVwwYqLX",
+          "end": 63,
+          "expanded_url": "https://x.com/xingxing_byd/status/2047351617654292480/photo/1",
+          "media_key": "3_2047351602831622144",
+          "start": 40,
+          "url": "https://t.co/0XlVwwYqLX"
+        },
+        {
+          "display_url": "pic.x.com/0XlVwwYqLX",
+          "end": 63,
+          "expanded_url": "https://x.com/xingxing_byd/status/2047351617654292480/photo/1",
+          "media_key": "3_2047351602831622147",
+          "start": 40,
+          "url": "https://t.co/0XlVwwYqLX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047351617654292480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "丙戊酸钠1丁螺环酮2布南色林2氯硝西泮1\n膝盖疼久光贴用上\n期待罗盖菇素的普及 https://t.co/0XlVwwYqLX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047351602802262024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmnb3dbAAgDbpn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047351602831622144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmnb3kbAAA4ZUk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047351602831622147",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmnb3kbAAMm5I5.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047351602802262024",
+            "3_2047351602831622144",
+            "3_2047351602831622147"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047351617654292480",
+        "created_at": "2026-04-23T16:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047351617654292480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0XlVwwYqLX",
+              "end": 63,
+              "expanded_url": "https://x.com/xingxing_byd/status/2047351617654292480/photo/1",
+              "media_key": "3_2047351602802262024",
+              "start": 40,
+              "url": "https://t.co/0XlVwwYqLX"
+            },
+            {
+              "display_url": "pic.x.com/0XlVwwYqLX",
+              "end": 63,
+              "expanded_url": "https://x.com/xingxing_byd/status/2047351617654292480/photo/1",
+              "media_key": "3_2047351602831622144",
+              "start": 40,
+              "url": "https://t.co/0XlVwwYqLX"
+            },
+            {
+              "display_url": "pic.x.com/0XlVwwYqLX",
+              "end": 63,
+              "expanded_url": "https://x.com/xingxing_byd/status/2047351617654292480/photo/1",
+              "media_key": "3_2047351602831622147",
+              "start": 40,
+              "url": "https://t.co/0XlVwwYqLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047351617654292480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "丙戊酸钠1丁螺环酮2布南色林2氯硝西泮1\n膝盖疼久光贴用上\n期待罗盖菇素的普及 https://t.co/0XlVwwYqLX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046552171949518848/D-UP0xlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 242,
+          "like_count": 1577,
+          "listed_count": 0,
+          "media_count": 450,
+          "tweet_count": 1793
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2013928388294332416"
+      ],
+      "media_source_tweet_id": [
+        "2013928468866887851"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "2014032256940253495",
+    "created_at": "2026-01-21T17:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T18:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014032256940253495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879887585994215424",
+          "start": 3,
+          "username": "ma_ce73750"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tSnXBuSMtb",
+          "end": 65,
+          "expanded_url": "https://x.com/ma_ce73750/status/2013928468866887851/video/1",
+          "media_key": "7_2013928388294332416",
+          "start": 42,
+          "url": "https://t.co/tSnXBuSMtb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014032256940253495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013928468866887851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ma_ce73750: 多角度直击基建狂魔硬核清雪方队横推现场，超解压✌️ https://t.co/tSnXBuSMtb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20620,
+        "height": 1280,
+        "media_key": "7_2013928388294332416",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2013928388294332416/pu/img/5AtIr1eh6DEeCjW-.jpg",
+        "public_metrics": {
+          "view_count": 1084
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013928388294332416/pu/vid/avc1/320x568/qNWIYE81c5Y8jj37.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013928388294332416/pu/vid/avc1/480x852/OBm2lTsa40AHY-v3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013928388294332416/pu/vid/avc1/720x1280/v1bC0HJ_LBg42EOe.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2013928388294332416/pu/pl/2S8ACIcwMG_c8OcO.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2013928388294332416"
+          ],
+          "media_source_tweet_id": [
+            "2013928468866887851"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "2014032256940253495",
+        "created_at": "2026-01-21T17:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T18:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014032256940253495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879887585994215424",
+              "start": 3,
+              "username": "ma_ce73750"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tSnXBuSMtb",
+              "end": 65,
+              "expanded_url": "https://x.com/ma_ce73750/status/2013928468866887851/video/1",
+              "media_key": "7_2013928388294332416",
+              "start": 42,
+              "url": "https://t.co/tSnXBuSMtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014032256940253495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013928468866887851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ma_ce73750: 多角度直击基建狂魔硬核清雪方队横推现场，超解压✌️ https://t.co/tSnXBuSMtb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2013928388294332416"
+          ]
+        },
+        "author_id": "1879887585994215424",
+        "conversation_id": "2013928468866887851",
+        "created_at": "2026-01-21T10:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T11:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013928468866887851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tSnXBuSMtb",
+              "end": 49,
+              "expanded_url": "https://x.com/ma_ce73750/status/2013928468866887851/video/1",
+              "media_key": "7_2013928388294332416",
+              "start": 26,
+              "url": "https://t.co/tSnXBuSMtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013928468866887851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2519,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "多角度直击基建狂魔硬核清雪方队横推现场，超解压✌️ https://t.co/tSnXBuSMtb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012991233136754688/UQCWfzXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 182,
+          "like_count": 1529,
+          "listed_count": 0,
+          "media_count": 408,
+          "tweet_count": 1551
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T13:45:41.000Z",
+        "description": "日常趣事分享， 互 fo 必回，朋友圈信得过 fo 友。\n Share the scenery on the journey of life, interesting anecdotes in daily life, love and delicious food.Follow back 100% 🤗.",
+        "id": "1879887585994215424",
+        "name": "策马奔腾（互 fo 必回）",
+        "pinned_tweet_id": "1949119152511426824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879888095182782464/DdYV-rGE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13103,
+          "following_count": 6674,
+          "like_count": 47474,
+          "listed_count": 14,
+          "media_count": 939,
+          "tweet_count": 18153
+        },
+        "username": "ma_ce73750",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1991905722947518464"
+      ],
+      "media_source_tweet_id": [
+        "1991905808511045748"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1992177611418882260",
+    "created_at": "2025-11-22T10:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T11:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992177611418882260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1456243266186211332",
+          "start": 3,
+          "username": "CuplRusttt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G1klkZnkSJ",
+          "end": 44,
+          "expanded_url": "https://x.com/CuplRusttt/status/1991905808511045748/video/1",
+          "media_key": "13_1991905722947518464",
+          "start": 21,
+          "url": "https://t.co/G1klkZnkSJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992177611418882260",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991905808511045748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuplRusttt: 人，你好 https://t.co/G1klkZnkSJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9805,
+        "height": 1280,
+        "media_key": "13_1991905722947518464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1991905722947518464/img/okJLxPm7JMGy_2GL.jpg",
+        "public_metrics": {
+          "view_count": 6762
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991905722947518464/vid/avc1/320x568/rmOOqE9vGYeKP5VU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991905722947518464/vid/avc1/480x852/DqfgqBxBGEXFs3G-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991905722947518464/vid/avc1/720x1280/WeW3K_zRtu4SUOSn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1991905722947518464/pl/_K5TClC1-_-ToglH.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1991905722947518464"
+          ],
+          "media_source_tweet_id": [
+            "1991905808511045748"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1992177611418882260",
+        "created_at": "2025-11-22T10:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992177611418882260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1456243266186211332",
+              "start": 3,
+              "username": "CuplRusttt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1klkZnkSJ",
+              "end": 44,
+              "expanded_url": "https://x.com/CuplRusttt/status/1991905808511045748/video/1",
+              "media_key": "13_1991905722947518464",
+              "start": 21,
+              "url": "https://t.co/G1klkZnkSJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992177611418882260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991905808511045748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CuplRusttt: 人，你好 https://t.co/G1klkZnkSJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1991905722947518464"
+          ]
+        },
+        "author_id": "1456243266186211332",
+        "conversation_id": "1991905808511045748",
+        "created_at": "2025-11-21T16:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T17:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991905808511045748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1klkZnkSJ",
+              "end": 28,
+              "expanded_url": "https://x.com/CuplRusttt/status/1991905808511045748/video/1",
+              "media_key": "13_1991905722947518464",
+              "start": 5,
+              "url": "https://t.co/G1klkZnkSJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991905808511045748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 24718,
+          "like_count": 493,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "人，你好 https://t.co/G1klkZnkSJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "1982380680886800563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983791116177801216/Rnsx8aV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 187,
+          "like_count": 1712,
+          "listed_count": 0,
+          "media_count": 402,
+          "tweet_count": 1535
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:53:54.000Z",
+        "description": "北京/云南工作ing/⚖律师/赛博Bistro/喜欢发pussy",
+        "id": "1456243266186211332",
+        "name": "Rusttt",
+        "pinned_tweet_id": "1972167085515329772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658123289196101632/IInnJ6r5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5844,
+          "following_count": 404,
+          "like_count": 26324,
+          "listed_count": 22,
+          "media_count": 241,
+          "tweet_count": 2284
+        },
+        "username": "CuplRusttt",
+        "verified": false
+      }
+    ]
+  }
+}

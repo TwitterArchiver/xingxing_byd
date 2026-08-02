@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2047334687606206679",
+    "created_at": "2026-04-23T15:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047334687606206679"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainengine_202…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/rainengine_2024/status/2047322770665803943",
+          "start": 17,
+          "url": "https://t.co/njV0Jba7Hu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047334687606206679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047322770665803943",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要好奇去尝试，会惹上法律纠纷。 https://t.co/njV0Jba7Hu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2047322767515918336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmNNbpbIAAn4LZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2047334687606206679",
+        "created_at": "2026-04-23T15:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047334687606206679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainengine_202…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/rainengine_2024/status/2047322770665803943",
+              "start": 17,
+              "url": "https://t.co/njV0Jba7Hu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047334687606206679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047322770665803943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要好奇去尝试，会惹上法律纠纷。 https://t.co/njV0Jba7Hu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047322767515918336"
+          ]
+        },
+        "author_id": "1970857021588262912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047322770665803943",
+        "created_at": "2026-04-23T14:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047322770665803943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lzYE5trOyz",
+              "end": 33,
+              "expanded_url": "https://x.com/RainEngine_2024/status/2047322770665803943/photo/1",
+              "media_key": "3_2047322767515918336",
+              "start": 10,
+              "url": "https://t.co/lzYE5trOyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047322770665803943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 209,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是什么🤔好吃吗😋 https://t.co/lzYE5trOyz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046552171949518848/D-UP0xlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 238,
+          "like_count": 1575,
+          "listed_count": 0,
+          "media_count": 449,
+          "tweet_count": 1771
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "|11.13.2011|探索中?或许是MtX?|Hrt🍥01.28.2026，无证含糖|家长不管党，炸柜:03.12|oder|161cm52kg75A41码|INFP-T，重度社恐|初二牲，成绩倒数，想要休学😭|有点笨笨的🥺|同类互fo喵～|https://t.co/fG6XzUT3Y3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 145,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 122,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unk95011",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unk95011",
+                "start": 0,
+                "url": "https://t.co/SSpXxmbyYO"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "Hanchuan City, Hubei",
+        "name": "𝑼𝒏𝒌~🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2033121906224959578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040113410558603265/sbVfijwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2042,
+          "following_count": 1385,
+          "like_count": 15552,
+          "listed_count": 2,
+          "media_count": 481,
+          "tweet_count": 2481
+        },
+        "url": "https://t.co/SSpXxmbyYO",
+        "username": "RainEngine_2024",
+        "verified": false
+      }
+    ]
+  }
+}

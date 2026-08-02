@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1988590990794670481",
+    "created_at": "2025-11-12T12:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T13:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988590990794670481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "705777407794352129",
+          "start": 3,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988590990794670481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988531169034420527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ServalCandle: 在曼谷半个月了\n\n笨猫会觉得过滤花洒和Tempo卫生纸是带的最值得的_(:з」∠)_\n\n不知道为啥泰国好像找不到Tempo的卷纸…酒店给的纸又太硬…\n\n我和男朋友的话笨猫带了六卷\n还蛮好用\n\n过滤花洒半个月滤芯就黄了…\n感觉也很有带的必要…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1988590990794670481",
+        "created_at": "2025-11-12T12:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988590990794670481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "705777407794352129",
+              "start": 3,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988590990794670481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988531169034420527",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ServalCandle: 在曼谷半个月了\n\n笨猫会觉得过滤花洒和Tempo卫生纸是带的最值得的_(:з」∠)_\n\n不知道为啥泰国好像找不到Tempo的卷纸…酒店给的纸又太硬…\n\n我和男朋友的话笨猫带了六卷\n还蛮好用\n\n过滤花洒半个月滤芯就黄了…\n感觉也很有带的必要…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705777407794352129",
+        "conversation_id": "1988531169034420527",
+        "created_at": "2025-11-12T08:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T09:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988531169034420527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988531169034420527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在曼谷半个月了\n\n笨猫会觉得过滤花洒和Tempo卫生纸是带的最值得的_(:з」∠)_\n\n不知道为啥泰国好像找不到Tempo的卷纸…酒店给的纸又太硬…\n\n我和男朋友的话笨猫带了六卷\n还蛮好用\n\n过滤花洒半个月滤芯就黄了…\n感觉也很有带的必要\n\n然后就是泰国插座是横置美式，但是电压是220V的…北美电器要小心会爆炸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "1982380680886800563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983791116177801216/Rnsx8aV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 169,
+          "like_count": 1670,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 1511
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "癲貓精靈 笨貓不靈 (｡-_-｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "☃️La saison infinie de neige❄️",
+        "name": "🙀大笨貓𝕮𝖆𝖓𝖉𝖑𝖊🎃🍂",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988162210930327553/vrX8HPzD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32910,
+          "following_count": 344,
+          "like_count": 225799,
+          "listed_count": 103,
+          "media_count": 8316,
+          "tweet_count": 54822
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

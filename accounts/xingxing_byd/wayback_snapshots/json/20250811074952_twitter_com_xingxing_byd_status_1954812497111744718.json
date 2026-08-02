@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954812493966278656"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1954812497111744718",
+    "created_at": "2025-08-11T07:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T08:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954812497111744718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hu83TmaIi6",
+          "end": 23,
+          "expanded_url": "https://x.com/xingxing_byd/status/1954812497111744718/photo/1",
+          "media_key": "3_1954812493966278656",
+          "start": 0,
+          "url": "https://t.co/hu83TmaIi6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954812497111744718",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/hu83TmaIi6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954812493966278656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDjmzFbAAAJHY1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954812493966278656"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1954812497111744718",
+        "created_at": "2025-08-11T07:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T08:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954812497111744718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hu83TmaIi6",
+              "end": 23,
+              "expanded_url": "https://x.com/xingxing_byd/status/1954812497111744718/photo/1",
+              "media_key": "3_1954812493966278656",
+              "start": 0,
+              "url": "https://t.co/hu83TmaIi6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954812497111744718",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hu83TmaIi6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "爱我可以给我打钱！vx🚪55  在此刻 在某处 那个我 他很好 不要跟我说违法内容 尊法守法",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星系系统✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1952980636073115955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943517309751939072/FxpaGeBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 102,
+          "like_count": 1513,
+          "listed_count": 0,
+          "media_count": 330,
+          "tweet_count": 1323
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

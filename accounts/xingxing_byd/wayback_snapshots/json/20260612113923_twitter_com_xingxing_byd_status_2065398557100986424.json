@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2065326000926597313",
+    "created_at": "2026-06-12T11:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065398557100986424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2045598149704818688",
+          "start": 0,
+          "username": "Dodioibs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065398557100986424",
+    "in_reply_to_user_id": "2045598149704818688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065397520709406820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dodioibs 呜，老师不要伤害自己了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2065326000926597313",
+        "created_at": "2026-06-12T11:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065398557100986424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065398557100986424",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065397520709406820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 呜，老师不要伤害自己了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2065326000926597313",
+        "created_at": "2026-06-12T11:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065397520709406820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1776704652483891200",
+              "start": 0,
+              "username": "xingxing_byd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065397520709406820",
+        "in_reply_to_user_id": "1776704652483891200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065396147657826577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingxing_byd www谢谢你 😭😭😭😭我看到了 你真好啊 …我今天没割手也算是个好事了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053496659234185216/Qd9JXfn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 261,
+          "like_count": 1616,
+          "listed_count": 0,
+          "media_count": 454,
+          "tweet_count": 1926
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n女友@lyxtd3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "lyxtd3s"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2065326000926597313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 241,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 803
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

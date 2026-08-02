@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955094365283692544",
+        "3_1955094363048120321"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1955094368538206209",
+    "created_at": "2025-08-12T02:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T03:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955094368538206209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TwbUaKpSgN",
+          "end": 35,
+          "expanded_url": "https://x.com/xingxing_byd/status/1955094368538206209/photo/1",
+          "media_key": "3_1955094365283692544",
+          "start": 12,
+          "url": "https://t.co/TwbUaKpSgN"
+        },
+        {
+          "display_url": "pic.x.com/TwbUaKpSgN",
+          "end": 35,
+          "expanded_url": "https://x.com/xingxing_byd/status/1955094368538206209/photo/1",
+          "media_key": "3_1955094363048120321",
+          "start": 12,
+          "url": "https://t.co/TwbUaKpSgN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955094368538206209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有苹果手机我就不难受了 https://t.co/TwbUaKpSgN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955094365283692544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyHj93kaMAAc4JX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955094363048120321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyHj9vPaEAEu_X_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955094365283692544",
+            "3_1955094363048120321"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1955094368538206209",
+        "created_at": "2025-08-12T02:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T03:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955094368538206209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TwbUaKpSgN",
+              "end": 35,
+              "expanded_url": "https://x.com/xingxing_byd/status/1955094368538206209/photo/1",
+              "media_key": "3_1955094365283692544",
+              "start": 12,
+              "url": "https://t.co/TwbUaKpSgN"
+            },
+            {
+              "display_url": "pic.x.com/TwbUaKpSgN",
+              "end": 35,
+              "expanded_url": "https://x.com/xingxing_byd/status/1955094368538206209/photo/1",
+              "media_key": "3_1955094363048120321",
+              "start": 12,
+              "url": "https://t.co/TwbUaKpSgN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955094368538206209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有苹果手机我就不难受了 https://t.co/TwbUaKpSgN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "爱我可以给我打钱！vx🚪55  在此刻 在某处 那个我 他很好 不要跟我说违法内容 尊法守法",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星系系统✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1952980636073115955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943517309751939072/FxpaGeBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 103,
+          "like_count": 1517,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 1329
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

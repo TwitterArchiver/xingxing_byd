@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2074824235260756071",
+    "created_at": "2026-07-09T13:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T14:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075212708874686650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2056655773502160896",
+          "start": 0,
+          "username": "simaojie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075212708874686650",
+    "in_reply_to_user_id": "2056655773502160896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075199386506920405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@simaojie 是哒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2074824235260756071",
+        "created_at": "2026-07-09T13:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075212708874686650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056655773502160896",
+              "start": 0,
+              "username": "simaojie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075212708874686650",
+        "in_reply_to_user_id": "2056655773502160896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075199386506920405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@simaojie 是哒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056655773502160896",
+        "conversation_id": "2074824235260756071",
+        "created_at": "2026-07-09T12:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075199386506920405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1776704652483891200",
+              "start": 0,
+              "username": "xingxing_byd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075199386506920405",
+        "in_reply_to_user_id": "1776704652483891200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074824235260756071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingxing_byd 好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/瞎说区/改造自己中/生活推/确诊心理疾病‼️/戒o遵医嘱用药",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072667749525147648/s-Z_wu4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 303,
+          "like_count": 1613,
+          "listed_count": 0,
+          "media_count": 490,
+          "tweet_count": 2120
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T08:39:50.000Z",
+        "description": "你们可以叫我kaki/小卉\n会查成分回fo 直fo就是喜欢你🫶",
+        "id": "2056655773502160896",
+        "location": "不收门槛不接线下男的别骚扰别评论别私信",
+        "name": "Kaki",
+        "pinned_tweet_id": "2059672691880431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056656578166898688/pLNOT_SJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 158,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "simaojie",
+        "verified": false
+      }
+    ]
+  }
+}

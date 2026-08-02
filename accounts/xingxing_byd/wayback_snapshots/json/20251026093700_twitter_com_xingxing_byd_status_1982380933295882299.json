@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1982380933295882299",
+    "created_at": "2025-10-26T09:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T10:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982380933295882299"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xingxing_byd/s…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/xingxing_byd/status/1982378467758063840",
+          "start": 19,
+          "url": "https://t.co/MgeDJ4f0js"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982380933295882299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982378467758063840",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还好债务应该还清了，住家里没有房租。 https://t.co/MgeDJ4f0js"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1982380933295882299",
+        "created_at": "2025-10-26T09:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T10:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982380933295882299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xingxing_byd/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/xingxing_byd/status/1982378467758063840",
+              "start": 19,
+              "url": "https://t.co/MgeDJ4f0js"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982380933295882299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982378467758063840",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还好债务应该还清了，住家里没有房租。 https://t.co/MgeDJ4f0js"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1982378467758063840",
+        "created_at": "2025-10-26T09:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T10:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982378467758063840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982378467758063840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉医生给我开的药不太对，我好抑郁啊，好难受，如果，如果不让我知道这些就好了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜极偶尔自残不od｜更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "1971898320311538020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 149,
+          "like_count": 1634,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 1477
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

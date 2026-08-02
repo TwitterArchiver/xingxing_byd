@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2041426927807074458",
+    "created_at": "2026-04-07T14:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T15:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041528363341525226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041528363341525226",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041426927807074458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 已完成"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041426919800070144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSa97WaYAAB2NG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041426920567664640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSa9-Na8AAS4Y9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2041426927807074458",
+        "created_at": "2026-04-07T14:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041528363341525226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041528363341525226",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041426927807074458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 已完成"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041426919800070144",
+            "3_2041426920567664640"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041426927807074458",
+        "created_at": "2026-04-07T08:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041426927807074458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u2eCPErJnq",
+              "end": 37,
+              "expanded_url": "https://x.com/hg3551019177402/status/2041426927807074458/photo/1",
+              "media_key": "3_2041426919800070144",
+              "start": 14,
+              "url": "https://t.co/u2eCPErJnq"
+            },
+            {
+              "display_url": "pic.x.com/u2eCPErJnq",
+              "end": 37,
+              "expanded_url": "https://x.com/hg3551019177402/status/2041426927807074458/photo/1",
+              "media_key": "3_2041426920567664640",
+              "start": 14,
+              "url": "https://t.co/u2eCPErJnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041426927807074458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 508,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人，今日任务完成了吗？ https://t.co/u2eCPErJnq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2026997738622337393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039309570091425792/NwuNUk_k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 220,
+          "like_count": 1572,
+          "listed_count": 0,
+          "media_count": 440,
+          "tweet_count": 1716
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑圣徒和白罪女 我主人@Orion2588 药物治疗精神病中（每天吃很多就是了），每天直播一下精神病日常，我的语言自知门里下贱20万bei。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "Orion2588"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12大王",
+        "pinned_tweet_id": "2038962394987454574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039346571276656640/qD2Kl3Xn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 475,
+          "like_count": 18511,
+          "listed_count": 0,
+          "media_count": 431,
+          "tweet_count": 7911
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

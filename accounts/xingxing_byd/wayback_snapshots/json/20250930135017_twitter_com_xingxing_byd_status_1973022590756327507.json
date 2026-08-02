@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1973020818222563484",
+    "created_at": "2025-09-30T13:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T14:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973022590756327507"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "躺的平平",
+          "probability": 0.4664,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1203040313574473729",
+          "start": 0,
+          "username": "PHOTOBYRaymondG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973022590756327507",
+    "in_reply_to_user_id": "1203040313574473729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973020818222563484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PHOTOBYRaymondG 躺的平平的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1973020795338440704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2GT9bibQAA5cnu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1973020818222563484",
+        "created_at": "2025-09-30T13:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T14:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973022590756327507"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "躺的平平",
+              "probability": 0.4664,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1203040313574473729",
+              "start": 0,
+              "username": "PHOTOBYRaymondG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973022590756327507",
+        "in_reply_to_user_id": "1203040313574473729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973020818222563484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PHOTOBYRaymondG 躺的平平的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973020795338440704"
+          ]
+        },
+        "author_id": "1203040313574473729",
+        "conversation_id": "1973020818222563484",
+        "created_at": "2025-09-30T13:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T14:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973020818222563484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TwrZRqZNFj",
+              "end": 38,
+              "expanded_url": "https://x.com/PHOTOBYRaymondG/status/1973020818222563484/photo/1",
+              "media_key": "3_1973020795338440704",
+              "start": 15,
+              "url": "https://t.co/TwrZRqZNFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973020818222563484",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都躺下了嘛？只有我在加班嘛～ https://t.co/TwrZRqZNFj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|碎碎念|日常|美食|生活推|岁月静好ing|奇思妙想|积极生活",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1972676670990827762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 118,
+          "like_count": 1550,
+          "listed_count": 1,
+          "media_count": 360,
+          "tweet_count": 1423
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-06T19:55:52.000Z",
+        "description": "旅行攻略✈️｜探店打卡💡｜美食分享🥢｜摄影扫街📷｜infj 🙋🏻‍♂️｜树洞🌲 欢迎骚扰🌝立志做一个粉丝超多的摄影博主📸 https://t.co/Db7DdNiAZj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/RaymondGao",
+                "end": 84,
+                "expanded_url": "https://t.me/RaymondGao",
+                "start": 61,
+                "url": "https://t.co/Db7DdNiAZj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ray35259",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ray35259",
+                "start": 0,
+                "url": "https://t.co/TwsBAyRsLI"
+              }
+            ]
+          }
+        },
+        "id": "1203040313574473729",
+        "location": "匿名提问🙆🏻‍♂️🙆🏻‍♀️➡️",
+        "name": "Raymond-高高",
+        "pinned_tweet_id": "1909639580548235707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899092149712683008/dNKVlGtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 143,
+          "like_count": 810,
+          "listed_count": 2,
+          "media_count": 563,
+          "tweet_count": 2911
+        },
+        "url": "https://t.co/TwsBAyRsLI",
+        "username": "PHOTOBYRaymondG",
+        "verified": false
+      }
+    ]
+  }
+}

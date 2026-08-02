@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2067416780365262983",
+    "created_at": "2026-06-18T11:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067563871640949227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "1212s1212bs1242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067563871640949227",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067416780365262983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1212s1212bs1242 龟龟吃肉，你买一小把肉"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3364,
+        "height": 1280,
+        "media_key": "7_2067416744860463104",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067416744860463104/pu/img/BFS10viwspoVzU8f.jpg",
+        "public_metrics": {
+          "view_count": 93
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067416744860463104/pu/vid/avc1/320x568/eKAlbKL_D3Jwtp9K.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067416744860463104/pu/vid/avc1/480x852/wLeCusUyC6mHy1F4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067416744860463104/pu/vid/avc1/720x1280/ylIqpkaIW0g4iaUj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067416744860463104/pu/pl/sLBdDD_r0SYQNG1t.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2067416780365262983",
+        "created_at": "2026-06-18T11:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067563871640949227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067563871640949227",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067416780365262983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 龟龟吃肉，你买一小把肉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2067416744860463104"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2067416780365262983",
+        "created_at": "2026-06-18T01:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067416780365262983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lDVV6chiak",
+              "end": 48,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2067416780365262983/video/1",
+              "media_key": "7_2067416744860463104",
+              "start": 25,
+              "url": "https://t.co/lDVV6chiak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067416780365262983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "龟粮还在路上，龟龟挨饿中，抓了把麦片不知道吃不吃 https://t.co/lDVV6chiak"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/改造自己中/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2066459240282329246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053496659234185216/Qd9JXfn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 267,
+          "like_count": 1651,
+          "listed_count": 0,
+          "media_count": 458,
+          "tweet_count": 1984
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟代，d电子烟，韩产小甜烟d/我要养只小乌龟/12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟13",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066730626359975937/f_62LuDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 938,
+          "like_count": 17227,
+          "listed_count": 1,
+          "media_count": 907,
+          "tweet_count": 10098
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980066833391661056"
+      ],
+      "media_source_tweet_id": [
+        "1980066854866714637"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1982264879030612202",
+    "created_at": "2025-10-26T01:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T02:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982264879030612202"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 33,
+          "tag": "大美中国"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1511624625989767177",
+          "start": 3,
+          "username": "lavine90451045"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y1nXa8a5s0",
+          "end": 62,
+          "expanded_url": "https://x.com/lavine90451045/status/1980066854866714637/photo/1",
+          "media_key": "3_1980066833391661056",
+          "start": 39,
+          "url": "https://t.co/Y1nXa8a5s0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982264879030612202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980066854866714637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lavine90451045: 故宫的秋天，金黄的银杏叶。#大美中国 https://t.co/Y1nXa8a5s0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1590,
+        "media_key": "3_1980066833391661056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3qcS0vXsAAc5pz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980066833391661056"
+          ],
+          "media_source_tweet_id": [
+            "1980066854866714637"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1982264879030612202",
+        "created_at": "2025-10-26T01:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T02:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982264879030612202"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "大美中国"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1511624625989767177",
+              "start": 3,
+              "username": "lavine90451045"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y1nXa8a5s0",
+              "end": 62,
+              "expanded_url": "https://x.com/lavine90451045/status/1980066854866714637/photo/1",
+              "media_key": "3_1980066833391661056",
+              "start": 39,
+              "url": "https://t.co/Y1nXa8a5s0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982264879030612202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980066854866714637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lavine90451045: 故宫的秋天，金黄的银杏叶。#大美中国 https://t.co/Y1nXa8a5s0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980066833391661056"
+          ]
+        },
+        "author_id": "1511624625989767177",
+        "conversation_id": "1980066854866714637",
+        "created_at": "2025-10-20T00:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980066854866714637"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "大美中国"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y1nXa8a5s0",
+              "end": 42,
+              "expanded_url": "https://x.com/lavine90451045/status/1980066854866714637/photo/1",
+              "media_key": "3_1980066833391661056",
+              "start": 19,
+              "url": "https://t.co/Y1nXa8a5s0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980066854866714637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 73133,
+          "like_count": 668,
+          "quote_count": 21,
+          "reply_count": 45,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "故宫的秋天，金黄的银杏叶。#大美中国 https://t.co/Y1nXa8a5s0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜极偶尔自残不od｜更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "1971898320311538020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 149,
+          "like_count": 1626,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 1474
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T08:40:24.000Z",
+        "description": "中国风景很美！热爱祖国，热爱生活，热爱旅行，分享生活的每一个瞬间。",
+        "id": "1511624625989767177",
+        "name": "大果仁🇨🇳（100%互fo互赞前十条）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654821716529651713/eL5Q5rv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17376,
+          "following_count": 7653,
+          "like_count": 7971,
+          "listed_count": 29,
+          "media_count": 937,
+          "tweet_count": 2924
+        },
+        "username": "lavine90451045",
+        "verified": false
+      }
+    ]
+  }
+}

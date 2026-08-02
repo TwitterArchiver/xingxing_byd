@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052968839819022336"
+      ],
+      "media_source_tweet_id": [
+        "2052968845930049844"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "2067145692678942880",
+    "created_at": "2026-06-17T07:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T08:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067145692678942880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1776704652483891200",
+          "start": 3,
+          "username": "xingxing_byd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AkCCJjuO4I",
+          "end": 46,
+          "expanded_url": "https://x.com/xingxing_byd/status/2052968845930049844/photo/1",
+          "media_key": "3_2052968839819022336",
+          "start": 23,
+          "url": "https://t.co/AkCCJjuO4I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067145692678942880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052968845930049844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xingxing_byd: 含个糖🍬 https://t.co/AkCCJjuO4I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2052968839819022336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2cSGBb0AA2tZb.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052968839819022336"
+          ],
+          "media_source_tweet_id": [
+            "2052968845930049844"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "2067145692678942880",
+        "created_at": "2026-06-17T07:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067145692678942880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776704652483891200",
+              "start": 3,
+              "username": "xingxing_byd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AkCCJjuO4I",
+              "end": 46,
+              "expanded_url": "https://x.com/xingxing_byd/status/2052968845930049844/photo/1",
+              "media_key": "3_2052968839819022336",
+              "start": 23,
+              "url": "https://t.co/AkCCJjuO4I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067145692678942880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052968845930049844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xingxing_byd: 含个糖🍬 https://t.co/AkCCJjuO4I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052968839819022336"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "2052968845930049844",
+        "created_at": "2026-05-09T04:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052968845930049844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AkCCJjuO4I",
+              "end": 28,
+              "expanded_url": "https://x.com/xingxing_byd/status/2052968845930049844/photo/1",
+              "media_key": "3_2052968839819022336",
+              "start": 5,
+              "url": "https://t.co/AkCCJjuO4I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052968845930049844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "含个糖🍬 https://t.co/AkCCJjuO4I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/改造自己中/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2066459240282329246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053496659234185216/Qd9JXfn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 267,
+          "like_count": 1649,
+          "listed_count": 0,
+          "media_count": 458,
+          "tweet_count": 1981
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

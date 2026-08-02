@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1977692037932835001",
+    "created_at": "2025-10-13T13:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T14:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977734338776010937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977734338776010937",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977692037932835001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 好好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2398,
+        "media_key": "3_1977692028197814272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Isa9_aQAAaX3Q.jpg",
+        "width": 1798
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1977692037932835001",
+        "created_at": "2025-10-13T13:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T14:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977734338776010937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977734338776010937",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977692037932835001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977692028197814272"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "conversation_id": "1977692037932835001",
+        "created_at": "2025-10-13T11:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T12:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977692037932835001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C07dyTbz2k",
+              "end": 62,
+              "expanded_url": "https://x.com/ServalCandle/status/1977692037932835001/photo/1",
+              "media_key": "3_1977692028197814272",
+              "start": 39,
+              "url": "https://t.co/C07dyTbz2k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977692037932835001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1121,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新买的棕靴子终于到货了_(:з」∠)_\n\n今天穿出去试了一下感觉还不错（（（ https://t.co/C07dyTbz2k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|日常|生活推|有心理疾病‼️|会自残不od|更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1972676670990827762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 141,
+          "like_count": 1606,
+          "listed_count": 1,
+          "media_count": 370,
+          "tweet_count": 1451
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "癲貓精靈 笨貓不靈 (｡-_-｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "☃️La saison infinie de neige❄️",
+        "name": "🙀大笨貓𝕮𝖆𝖓𝖉𝖑𝖊🎃🍂",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944028998826438657/emzjxQ4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32738,
+          "following_count": 345,
+          "like_count": 225623,
+          "listed_count": 100,
+          "media_count": 8245,
+          "tweet_count": 54507
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

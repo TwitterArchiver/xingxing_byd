@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2034278328929341904",
+    "created_at": "2026-03-18T14:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T15:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034278328929341904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916824571128287232",
+          "start": 3,
+          "username": "fayoubaike666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034278328929341904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034159164688372154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fayoubaike666: 药物滥用没有“安全剂量”，没有“试试无妨”。\n\n尤其是追求“解离”“致幻”“逃避现实”时，一不小心就是不可逆的神经损伤、器官衰竭、死亡。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2034278328929341904",
+        "created_at": "2026-03-18T14:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T15:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034278328929341904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916824571128287232",
+              "start": 3,
+              "username": "fayoubaike666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034278328929341904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034159164688372154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fayoubaike666: 药物滥用没有“安全剂量”，没有“试试无妨”。\n\n尤其是追求“解离”“致幻”“逃避现实”时，一不小心就是不可逆的神经损伤、器官衰竭、死亡。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916824571128287232",
+        "conversation_id": "2034159164688372154",
+        "created_at": "2026-03-18T06:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T07:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034159164688372154"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034159164688372154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3756,
+          "like_count": 77,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "药物滥用没有“安全剂量”，没有“试试无妨”。\n\n尤其是追求“解离”“致幻”“逃避现实”时，一不小心就是不可逆的神经损伤、器官衰竭、死亡。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2025101983989043315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 205,
+          "like_count": 1560,
+          "listed_count": 0,
+          "media_count": 426,
+          "tweet_count": 1654
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "由法友百科Sakura与Meng运营\n博客：https://t.co/N5OWFEYlEo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pr80.bid",
+                "end": 45,
+                "expanded_url": "https://pr80.bid/",
+                "start": 22,
+                "url": "https://t.co/N5OWFEYlEo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.bid",
+                "end": 23,
+                "expanded_url": "https://pr80.bid/",
+                "start": 0,
+                "url": "https://t.co/N5OWFEYlEo"
+              }
+            ]
+          }
+        },
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "法友百科",
+        "pinned_tweet_id": "2034211481508794436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031290772440641536/QNkKbty9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 433,
+          "like_count": 251,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 452
+        },
+        "url": "https://t.co/N5OWFEYlEo",
+        "username": "fayoubaike666",
+        "verified": false
+      }
+    ]
+  }
+}

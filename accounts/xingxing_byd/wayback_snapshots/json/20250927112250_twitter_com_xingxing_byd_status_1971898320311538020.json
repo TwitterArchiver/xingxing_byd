@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1971898320311538020",
+    "created_at": "2025-09-27T11:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T12:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971898320311538020"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1971898320311538020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实吧，我最近才认识到一个事。以前我总想移民啥的，现在我只认为自己是中国人，我也不是粉红，我也不想参与任何讨论，我只是在做这个国家允许的一些行为。遵纪守法这一块。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1971898320311538020",
+        "created_at": "2025-09-27T11:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T12:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971898320311538020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971898320311538020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实吧，我最近才认识到一个事。以前我总想移民啥的，现在我只认为自己是中国人，我也不是粉红，我也不想参与任何讨论，我只是在做这个国家允许的一些行为。遵纪守法这一块。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|碎碎念|日常|美食|生活推|岁月静好ing|奇思妙想|积极生活",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1969253665107038227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 131,
+          "like_count": 1530,
+          "listed_count": 1,
+          "media_count": 356,
+          "tweet_count": 1417
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

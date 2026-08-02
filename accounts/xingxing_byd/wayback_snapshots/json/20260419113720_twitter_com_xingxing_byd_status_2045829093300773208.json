@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2045827830475592150",
+    "created_at": "2026-04-19T11:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T12:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045829093300773208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045829093300773208",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045827830475592150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 露天市场是会上瘾的！很显然笨猫上瘾了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2045827814440779776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQ9jtdbQAA-9fG.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2045827814440783872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQ9jtdbUAAhmr3.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2045827814449201152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQ9jtfbwAAxtcO.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2045827830475592150",
+        "created_at": "2026-04-19T11:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045829093300773208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045829093300773208",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045827830475592150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 露天市场是会上瘾的！很显然笨猫上瘾了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045827814440779776",
+            "3_2045827814440783872",
+            "3_2045827814449201152"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "conversation_id": "2045827830475592150",
+        "created_at": "2026-04-19T11:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045827830475592150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m4HjFu2jkB",
+              "end": 156,
+              "expanded_url": "https://x.com/ServalCandle/status/2045827830475592150/photo/1",
+              "media_key": "3_2045827814440779776",
+              "start": 133,
+              "url": "https://t.co/m4HjFu2jkB"
+            },
+            {
+              "display_url": "pic.x.com/m4HjFu2jkB",
+              "end": 156,
+              "expanded_url": "https://x.com/ServalCandle/status/2045827830475592150/photo/1",
+              "media_key": "3_2045827814440783872",
+              "start": 133,
+              "url": "https://t.co/m4HjFu2jkB"
+            },
+            {
+              "display_url": "pic.x.com/m4HjFu2jkB",
+              "end": 156,
+              "expanded_url": "https://x.com/ServalCandle/status/2045827830475592150/photo/1",
+              "media_key": "3_2045827814449201152",
+              "start": 133,
+              "url": "https://t.co/m4HjFu2jkB"
+            },
+            {
+              "display_url": "x.com/servalcandle/s…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/servalcandle/status/2044415798173938161",
+              "start": 157,
+              "url": "https://t.co/AO89thnney"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045827830475592150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044415798173938161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笨猫又又去了这个露天大商场_(:з」∠)_\n\n还发现了超便宜猪肉串店家\n\n买了一堆塑料袋装的蓝莓香肠和蛋饼（（（\n\n最近有点露天商场上瘾了\n\n但是也不能天天往河北跑啊…(＞人＜;)\n北京又没有这种露天大超市\n\n笨猫在和男朋友沟通\n不如直接搬去河北租房不在北京住算了 https://t.co/m4HjFu2jkB https://t.co/AO89thnney"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2043388366423830731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043389441889443841/BHqrLPNw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 224,
+          "like_count": 1573,
+          "listed_count": 0,
+          "media_count": 446,
+          "tweet_count": 1742
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "頭像是自拍 / 身分證性別女/ Only block who blocked me / 癲貓精靈 咪咪超行(*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🌸猫宮すみか🎀🫪",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024879161932918784/w21cnpHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33370,
+          "following_count": 413,
+          "like_count": 234352,
+          "listed_count": 104,
+          "media_count": 9055,
+          "tweet_count": 58836
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971980742327783425"
+      ],
+      "media_source_tweet_id": [
+        "1971982315397304447"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1972239160724582871",
+    "created_at": "2025-09-28T09:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T10:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972239160724582871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896175390005342208",
+          "start": 3,
+          "username": "Chufeinya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ld0Yzxrcc5",
+          "end": 99,
+          "expanded_url": "https://x.com/Chufeinya/status/1971982315397304447/photo/1",
+          "media_key": "3_1971980742327783425",
+          "start": 76,
+          "url": "https://t.co/ld0Yzxrcc5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972239160724582871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971982315397304447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chufeinya: 成功人士的一餐，满足了人体所必需营养的摄入，并提供了充分的咖啡因，这可以让人感到精神振奋，注意力集中，提高了工作效率👍🏻 https://t.co/ld0Yzxrcc5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1971980742327783425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13iCYJb0AE7SwT.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971980742327783425"
+          ],
+          "media_source_tweet_id": [
+            "1971982315397304447"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1972239160724582871",
+        "created_at": "2025-09-28T09:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T10:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972239160724582871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896175390005342208",
+              "start": 3,
+              "username": "Chufeinya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ld0Yzxrcc5",
+              "end": 99,
+              "expanded_url": "https://x.com/Chufeinya/status/1971982315397304447/photo/1",
+              "media_key": "3_1971980742327783425",
+              "start": 76,
+              "url": "https://t.co/ld0Yzxrcc5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972239160724582871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971982315397304447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chufeinya: 成功人士的一餐，满足了人体所必需营养的摄入，并提供了充分的咖啡因，这可以让人感到精神振奋，注意力集中，提高了工作效率👍🏻 https://t.co/ld0Yzxrcc5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971980742327783425"
+          ]
+        },
+        "author_id": "1896175390005342208",
+        "conversation_id": "1971982315397304447",
+        "created_at": "2025-09-27T16:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T17:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971982315397304447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ld0Yzxrcc5",
+              "end": 84,
+              "expanded_url": "https://x.com/Chufeinya/status/1971982315397304447/photo/1",
+              "media_key": "3_1971980742327783425",
+              "start": 61,
+              "url": "https://t.co/ld0Yzxrcc5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971982315397304447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "成功人士的一餐，满足了人体所必需营养的摄入，并提供了充分的咖啡因，这可以让人感到精神振奋，注意力集中，提高了工作效率👍🏻 https://t.co/ld0Yzxrcc5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|碎碎念|日常|美食|生活推|岁月静好ing|奇思妙想|积极生活",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1969253665107038227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 116,
+          "like_count": 1537,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 1419
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T12:27:09.000Z",
+        "description": "连夜梦觉｜❤️恋人：@Haruhi_LAP，🍧闺蜜：@CuteKittenO3O",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Haruhi_LAP"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "CuteKittenO3O"
+              }
+            ]
+          }
+        },
+        "id": "1896175390005342208",
+        "location": "青岛地铁13号线",
+        "name": "初菲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943719684911845376/4TIxDZo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1505,
+          "like_count": 14582,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 806
+        },
+        "username": "Chufeinya",
+        "verified": false
+      }
+    ]
+  }
+}

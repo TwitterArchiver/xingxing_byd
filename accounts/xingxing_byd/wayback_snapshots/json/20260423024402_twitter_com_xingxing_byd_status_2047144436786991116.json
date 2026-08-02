@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2025101669944680857",
+    "created_at": "2026-04-23T02:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T03:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047144436786991116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2014001860924100608",
+          "start": 0,
+          "username": "mm5202012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047144436786991116",
+    "in_reply_to_user_id": "2014001860924100608",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047114008554328549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mm5202012 0.1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2025101669944680857",
+        "created_at": "2026-04-23T02:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047144436786991116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2014001860924100608",
+              "start": 0,
+              "username": "mm5202012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047144436786991116",
+        "in_reply_to_user_id": "2014001860924100608",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047114008554328549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mm5202012 0.1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014001860924100608",
+        "conversation_id": "2025101669944680857",
+        "created_at": "2026-04-23T00:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T01:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047114008554328549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1776704652483891200",
+              "start": 0,
+              "username": "xingxing_byd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047114008554328549",
+        "in_reply_to_user_id": "1776704652483891200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025101669944680857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingxing_byd 宝宝服药的是什么牌的加巴喷丁 每粒含量多少 求求"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046552171949518848/D-UP0xlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 238,
+          "like_count": 1575,
+          "listed_count": 0,
+          "media_count": 448,
+          "tweet_count": 1764
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T15:47:31.000Z",
+        "description": "",
+        "id": "2014001860924100608",
+        "name": "Yoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033136578638581760/6ra79Efa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 101,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 39
+        },
+        "username": "mm5202012",
+        "verified": false
+      }
+    ]
+  }
+}

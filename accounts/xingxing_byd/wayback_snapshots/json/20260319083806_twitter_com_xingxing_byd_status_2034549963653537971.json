@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2034549963653537971",
+    "created_at": "2026-03-19T08:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T09:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034549963653537971"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 108,
+          "start": 97,
+          "tag": "EVANGELION"
+        },
+        {
+          "end": 115,
+          "start": 110,
+          "tag": "綾波レイ"
+        },
+        {
+          "end": 120,
+          "start": 116,
+          "tag": "エヴァ"
+        },
+        {
+          "end": 129,
+          "start": 121,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1994853283907997698",
+          "start": 3,
+          "username": "kateamine66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034549963653537971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029616235428843772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kateamine66: 連身衣就是脫起來太麻煩了，壞處是只能蹭蹭揉揉，好處是可以有充分的理由尿褲子和選擇打脖子🥹拍了好多好多照片和影片，每過50轉發就我po一組新的😘。長影片放最後。\n#EVANGELION  #綾波レイ #エヴァ #cosplay https://t…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2034549963653537971].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2034549963653537971",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2034549963653537971"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13213,
+        "height": 540,
+        "media_key": "13_2029614703312523264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029614703312523264/img/oMBVRTnbdLsoU38z.jpg",
+        "public_metrics": {
+          "view_count": 6017
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029614703312523264/vid/avc1/480x270/j6ssDvbCFYHWcyEC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029614703312523264/vid/avc1/640x360/l3laQDS8yQTOb506.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029614703312523264/vid/avc1/960x540/JzCeLkmewsk1vBXs.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029614703312523264/pl/rUqWkmbZYIDczhEd.m3u8?tag=14"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "height": 960,
+        "media_key": "3_2029616185239818240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCqlKseaUAAGWel.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029614703312523264",
+            "3_2029616185239818240"
+          ]
+        },
+        "author_id": "1994853283907997698",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2029616235428843772",
+        "created_at": "2026-03-05T17:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T18:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029616235428843772"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 80,
+              "tag": "EVANGELION"
+            },
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "綾波レイ"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "エヴァ"
+            },
+            {
+              "end": 112,
+              "start": 104,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NdiVUCRcL5",
+              "end": 136,
+              "expanded_url": "https://x.com/kateamine66/status/2029616235428843772/video/1",
+              "media_key": "13_2029614703312523264",
+              "start": 113,
+              "url": "https://t.co/NdiVUCRcL5"
+            },
+            {
+              "display_url": "pic.x.com/NdiVUCRcL5",
+              "end": 136,
+              "expanded_url": "https://x.com/kateamine66/status/2029616235428843772/video/1",
+              "media_key": "3_2029616185239818240",
+              "start": 113,
+              "url": "https://t.co/NdiVUCRcL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029616235428843772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 14415,
+          "like_count": 139,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "連身衣就是脫起來太麻煩了，壞處是只能蹭蹭揉揉，好處是可以有充分的理由尿褲子和選擇打脖子🥹拍了好多好多照片和影片，每過50轉發就我po一組新的😘。長影片放最後。\n#EVANGELION  #綾波レイ #エヴァ #cosplay https://t.co/NdiVUCRcL5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2025101983989043315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 205,
+          "like_count": 1560,
+          "listed_count": 0,
+          "media_count": 427,
+          "tweet_count": 1656
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T19:37:51.000Z",
+        "description": "曾經擁有4萬粉絲的小網紅努力戒毒中，勵志成爲擁有好多好多粉絲的網紅或者地偶！小號@kateamine149062，奇怪的内容放在小號",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "kateamine149062"
+              }
+            ]
+          }
+        },
+        "id": "1994853283907997698",
+        "location": "臺中",
+        "name": "Kateamine66",
+        "pinned_tweet_id": "2029616235428843772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000614275040317440/sQCImXwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3603,
+          "following_count": 18,
+          "like_count": 4,
+          "listed_count": 7,
+          "media_count": 59,
+          "tweet_count": 430
+        },
+        "username": "kateamine66",
+        "verified": false
+      }
+    ]
+  }
+}

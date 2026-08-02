@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2036403234311643136"
+      ],
+      "media_source_tweet_id": [
+        "2036403287617139145"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "2036452870766338359",
+    "created_at": "2026-03-24T14:39:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T15:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036452870766338359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1221617765519282176",
+          "start": 3,
+          "username": "AriXZone"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J4Rp3icONN",
+          "end": 88,
+          "expanded_url": "https://x.com/AriXZone/status/2036403287617139145/video/1",
+          "media_key": "7_2036403234311643136",
+          "start": 65,
+          "url": "https://t.co/J4Rp3icONN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036452870766338359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036403287617139145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AriXZone: 医生从病人动脉血管里取出的血栓，硬得用手都捏不动。\n\n什么洋葱红酒溶栓，听听就算了，别信，都是扯淡。 https://t.co/J4Rp3icONN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18261,
+        "height": 960,
+        "media_key": "7_2036403234311643136",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2036403234311643136/pu/img/ZeaK2FK_W-JimIBe.jpg",
+        "public_metrics": {
+          "view_count": 175859
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036403234311643136/pu/vid/avc1/320x426/yjreTp8lhuU2oYxR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036403234311643136/pu/vid/avc1/480x640/BfelZg_Bg63fVgut.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036403234311643136/pu/vid/avc1/720x960/CP_zgdRxlWLvndJI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2036403234311643136/pu/pl/3-K2qE_mNVxeMRXi.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2036403234311643136"
+          ],
+          "media_source_tweet_id": [
+            "2036403287617139145"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "2036452870766338359",
+        "created_at": "2026-03-24T14:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T15:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036452870766338359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1221617765519282176",
+              "start": 3,
+              "username": "AriXZone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J4Rp3icONN",
+              "end": 88,
+              "expanded_url": "https://x.com/AriXZone/status/2036403287617139145/video/1",
+              "media_key": "7_2036403234311643136",
+              "start": 65,
+              "url": "https://t.co/J4Rp3icONN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036452870766338359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036403287617139145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AriXZone: 医生从病人动脉血管里取出的血栓，硬得用手都捏不动。\n\n什么洋葱红酒溶栓，听听就算了，别信，都是扯淡。 https://t.co/J4Rp3icONN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2036403234311643136"
+          ]
+        },
+        "author_id": "1221617765519282176",
+        "conversation_id": "2036403287617139145",
+        "created_at": "2026-03-24T11:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:20:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036402854651629639",
+          "2036403287617139145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J4Rp3icONN",
+              "end": 74,
+              "expanded_url": "https://x.com/AriXZone/status/2036403287617139145/video/1",
+              "media_key": "7_2036403234311643136",
+              "start": 51,
+              "url": "https://t.co/J4Rp3icONN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036403287617139145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 200,
+          "impression_count": 304957,
+          "like_count": 407,
+          "quote_count": 1,
+          "reply_count": 115,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "医生从病人动脉血管里取出的血栓，硬得用手都捏不动。\n\n什么洋葱红酒溶栓，听听就算了，别信，都是扯淡。 https://t.co/J4Rp3icONN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2026997738622337393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 206,
+          "like_count": 1564,
+          "listed_count": 0,
+          "media_count": 430,
+          "tweet_count": 1668
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-27T02:16:06.000Z",
+        "description": "AI应用实践者 | 科技前沿观察者 | 创新驱动者 | 基于AI的领域应用落地探索者 |  科普 | 趣事分享",
+        "id": "1221617765519282176",
+        "name": "魔都老猿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748977294448955392/yYvT5hTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29653,
+          "following_count": 4312,
+          "like_count": 73527,
+          "listed_count": 99,
+          "media_count": 3602,
+          "tweet_count": 39048
+        },
+        "username": "AriXZone",
+        "verified": true
+      }
+    ]
+  }
+}

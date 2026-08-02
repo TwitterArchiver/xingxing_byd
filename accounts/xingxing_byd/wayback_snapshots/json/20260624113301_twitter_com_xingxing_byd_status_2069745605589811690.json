@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069715531075289089"
+      ],
+      "media_source_tweet_id": [
+        "2069715550989897789"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "2069745605589811690",
+    "created_at": "2026-06-24T11:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069745605589811690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2067890605670518784",
+          "start": 3,
+          "username": "Chrnqklak"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kM4FpqJji4",
+          "end": 83,
+          "expanded_url": "https://x.com/Chrnqklak/status/2069715550989897789/photo/1",
+          "media_key": "3_2069715531075289089",
+          "start": 60,
+          "url": "https://t.co/kM4FpqJji4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069745605589811690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069715550989897789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chrnqklak: 请记住，最温暖也最聪明的方式，是在负责任的医生或者药师的帮助下，正确使用适合自己的药物。 https://t.co/kM4FpqJji4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1799,
+        "media_key": "3_2069715531075289089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkbT0faAAERwUO.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069715531075289089"
+          ],
+          "media_source_tweet_id": [
+            "2069715550989897789"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "2069745605589811690",
+        "created_at": "2026-06-24T11:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069745605589811690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2067890605670518784",
+              "start": 3,
+              "username": "Chrnqklak"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kM4FpqJji4",
+              "end": 83,
+              "expanded_url": "https://x.com/Chrnqklak/status/2069715550989897789/photo/1",
+              "media_key": "3_2069715531075289089",
+              "start": 60,
+              "url": "https://t.co/kM4FpqJji4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069745605589811690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069715550989897789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chrnqklak: 请记住，最温暖也最聪明的方式，是在负责任的医生或者药师的帮助下，正确使用适合自己的药物。 https://t.co/kM4FpqJji4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069715531075289089"
+          ]
+        },
+        "author_id": "2067890605670518784",
+        "conversation_id": "2069715550989897789",
+        "created_at": "2026-06-24T09:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069715550989897789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kM4FpqJji4",
+              "end": 68,
+              "expanded_url": "https://x.com/Chrnqklak/status/2069715550989897789/photo/1",
+              "media_key": "3_2069715531075289089",
+              "start": 45,
+              "url": "https://t.co/kM4FpqJji4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069715550989897789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "请记住，最温暖也最聪明的方式，是在负责任的医生或者药师的帮助下，正确使用适合自己的药物。 https://t.co/kM4FpqJji4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/改造自己中/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞天星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069048254038503424/3zbCNuPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 303,
+          "like_count": 1597,
+          "listed_count": 0,
+          "media_count": 477,
+          "tweet_count": 2064
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T08:42:46.000Z",
+        "description": "有机化学爱好者/\n\nhttps://t.co/OE1NrppKMc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/anan995555",
+                "end": 33,
+                "expanded_url": "https://t.me/anan995555",
+                "start": 10,
+                "url": "https://t.co/OE1NrppKMc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/anan995555",
+                "end": 23,
+                "expanded_url": "https://t.me/anan995555",
+                "start": 0,
+                "url": "https://t.co/OE1NrppKMc"
+              }
+            ]
+          }
+        },
+        "id": "2067890605670518784",
+        "location": "哈尔滨",
+        "name": "戒掉4-ho-met回归正常-永久抵制阿片类",
+        "pinned_tweet_id": "2067906497582096575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067891161940058112/ZWrrnrd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 520,
+          "like_count": 645,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 68
+        },
+        "url": "https://t.co/OE1NrppKMc",
+        "username": "Chrnqklak",
+        "verified": false
+      }
+    ]
+  }
+}

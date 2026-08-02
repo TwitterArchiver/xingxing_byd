@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2022941257144873439",
+    "created_at": "2026-02-19T10:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T11:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024425608730808721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024425608730808721",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022941257144873439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 节哀妹妹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2069,
+        "media_key": "3_2022941248433389568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLuWPJbgAAJFQn.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2022941257144873439",
+        "created_at": "2026-02-19T10:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T11:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024425608730808721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024425608730808721",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022941257144873439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 节哀妹妹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022941248433389568"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "conversation_id": "2022941257144873439",
+        "created_at": "2026-02-15T07:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T08:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022941257144873439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFERsp7jIi",
+              "end": 107,
+              "expanded_url": "https://x.com/ServalCandle/status/2022941257144873439/photo/1",
+              "media_key": "3_2022941248433389568",
+              "start": 84,
+              "url": "https://t.co/uFERsp7jIi"
+            },
+            {
+              "display_url": "x.com/servalcandle/s…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/servalcandle/status/2022917303571288198",
+              "start": 108,
+              "url": "https://t.co/dEI7N5x14A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022941257144873439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 56137,
+          "like_count": 141,
+          "quote_count": 8,
+          "reply_count": 18,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022917303571288198",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以为我不会再觉得震撼了\n\n但这实锤了咴咴不是真的想死\n\n我不敢再去看那个影片…\n第一次看可能也忽略了这个细节\n\n但是卧槽她妈的看得我想杀人\n\n她真的不想死啊！！！！ https://t.co/uFERsp7jIi https://t.co/dEI7N5x14A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012991233136754688/UQCWfzXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 190,
+          "like_count": 1533,
+          "listed_count": 0,
+          "media_count": 411,
+          "tweet_count": 1564
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "頭像是自拍 / 癲貓精靈 笨貓不靈 (｡-_-｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🌸猫宮すみか🎀🎍",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016599737370365954/FsaeDbNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33521,
+          "following_count": 350,
+          "like_count": 229769,
+          "listed_count": 106,
+          "media_count": 8752,
+          "tweet_count": 56993
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

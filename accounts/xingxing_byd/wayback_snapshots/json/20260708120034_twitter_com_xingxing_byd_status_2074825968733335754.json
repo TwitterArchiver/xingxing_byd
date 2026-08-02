@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2074398718426857870",
+    "created_at": "2026-07-08T12:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074825968733335754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1560129932524544000",
+          "start": 0,
+          "username": "xijiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074825968733335754",
+    "in_reply_to_user_id": "1560129932524544000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074398718426857870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijiu_ 哈哈哈那很善良了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2074398718426857870",
+        "created_at": "2026-07-08T12:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074825968733335754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560129932524544000",
+              "start": 0,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074825968733335754",
+        "in_reply_to_user_id": "1560129932524544000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074398718426857870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijiu_ 哈哈哈那很善良了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560129932524544000",
+        "conversation_id": "2074398718426857870",
+        "created_at": "2026-07-07T07:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074398718426857870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074398718426857870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天晚上o断片了之后振臂高呼『我要把有限的生命投入到无限的为人民服务的事业中去』🫣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/瞎说区/改造自己中/生活推/确诊心理疾病‼️/戒o遵医嘱用药",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072667749525147648/s-Z_wu4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 304,
+          "like_count": 1610,
+          "listed_count": 0,
+          "media_count": 490,
+          "tweet_count": 2115
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "🏳️‍⚧️|生命久如暗室，不妨碍我明写春诗|I’m Nicy , a freshman majoring in chemistry from China.| The Jesus loves us equally.",
+        "id": "1560129932524544000",
+        "location": "被有机实验室炸飞的电化学实验室",
+        "name": "希玖.",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3668,
+          "following_count": 858,
+          "like_count": 204360,
+          "listed_count": 3,
+          "media_count": 700,
+          "tweet_count": 9721
+        },
+        "url": "",
+        "username": "xijiu_",
+        "verified": false
+      }
+    ]
+  }
+}

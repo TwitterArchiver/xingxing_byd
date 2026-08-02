@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030246097822810112"
+      ],
+      "media_source_tweet_id": [
+        "2030246111345045813"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2030560473423471021",
+    "created_at": "2026-03-08T08:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T09:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030560473423471021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1505130271821152265",
+          "start": 3,
+          "username": "Outfit_Luxy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Xbu89FVbw",
+          "end": 40,
+          "expanded_url": "https://x.com/Outfit_Luxy/status/2030246111345045813/photo/1",
+          "media_key": "3_2030246097822810112",
+          "start": 17,
+          "url": "https://t.co/6Xbu89FVbw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030560473423471021",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 547
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030246111345045813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Outfit_Luxy: https://t.co/6Xbu89FVbw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2030246097822810112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCziEbtaAAAEK3K.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030246097822810112"
+          ],
+          "media_source_tweet_id": [
+            "2030246111345045813"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030560473423471021",
+        "created_at": "2026-03-08T08:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T09:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030560473423471021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1505130271821152265",
+              "start": 3,
+              "username": "Outfit_Luxy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Xbu89FVbw",
+              "end": 40,
+              "expanded_url": "https://x.com/Outfit_Luxy/status/2030246111345045813/photo/1",
+              "media_key": "3_2030246097822810112",
+              "start": 17,
+              "url": "https://t.co/6Xbu89FVbw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030560473423471021",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 547
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030246111345045813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Outfit_Luxy: https://t.co/6Xbu89FVbw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030246097822810112"
+          ]
+        },
+        "author_id": "1505130271821152265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030246111345045813",
+        "created_at": "2026-03-07T11:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030246111345045813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Xbu89FVbw",
+              "end": 23,
+              "expanded_url": "https://x.com/Outfit_Luxy/status/2030246111345045813/photo/1",
+              "media_key": "3_2030246097822810112",
+              "start": 0,
+              "url": "https://t.co/6Xbu89FVbw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030246111345045813",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 415,
+          "impression_count": 75908,
+          "like_count": 8866,
+          "quote_count": 48,
+          "reply_count": 2,
+          "retweet_count": 547
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6Xbu89FVbw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2025101983989043315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 204,
+          "like_count": 1553,
+          "listed_count": 0,
+          "media_count": 424,
+          "tweet_count": 1623
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T10:33:37.000Z",
+        "description": "𝗙𝗮𝘀𝗵𝗶𝗼𝗻 𝗹𝗼𝘃𝗲𝗿 / 𝗮𝗹𝗹 𝘁𝗵𝗶𝗻𝗴𝘀 𝗮𝗲𝘀𝘁𝗵𝗲𝘁𝗶𝗰\n                                           𝗙𝗼𝗹𝗹𝗼𝘄  𝗺𝗲 & 𝗮𝗰𝘁𝗶𝘃𝗲 𝘁𝗵𝗲  🔔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/SihamMeftah939…",
+                "end": 23,
+                "expanded_url": "https://paypal.me/SihamMeftah9391?country.x=FR&locale.x=fr_FR",
+                "start": 0,
+                "url": "https://t.co/TW1ar88106"
+              }
+            ]
+          }
+        },
+        "id": "1505130271821152265",
+        "location": "DM FOR  RT , PROMO 💌",
+        "name": "Beauty ✨",
+        "pinned_tweet_id": "1873446699487969685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551094472343261186/dhLMtNzM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395295,
+          "following_count": 2,
+          "like_count": 50461,
+          "listed_count": 228,
+          "media_count": 34207,
+          "tweet_count": 69038
+        },
+        "url": "https://t.co/TW1ar88106",
+        "username": "Outfit_Luxy",
+        "verified": true
+      }
+    ]
+  }
+}

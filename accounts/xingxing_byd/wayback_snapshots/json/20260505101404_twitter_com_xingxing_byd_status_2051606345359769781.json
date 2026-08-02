@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2051516933342937304",
+    "created_at": "2026-05-05T10:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T11:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051606345359769781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1662439435726905344",
+          "start": 0,
+          "username": "ShiroSkura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051606345359769781",
+    "in_reply_to_user_id": "1662439435726905344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051520606881861791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiroSkura 一瓶，建议一瓶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2051516933342937304",
+        "created_at": "2026-05-05T10:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051606345359769781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1662439435726905344",
+              "start": 0,
+              "username": "ShiroSkura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051606345359769781",
+        "in_reply_to_user_id": "1662439435726905344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051520606881861791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiroSkura 一瓶，建议一瓶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662439435726905344",
+        "conversation_id": "2051516933342937304",
+        "created_at": "2026-05-05T04:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051520606881861791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1776704652483891200",
+              "start": 0,
+              "username": "xingxing_byd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051520606881861791",
+        "in_reply_to_user_id": "1776704652483891200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051518974589108726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingxing_byd 第一次吃42会有效果吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046552171949518848/D-UP0xlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 269,
+          "like_count": 1608,
+          "listed_count": 0,
+          "media_count": 452,
+          "tweet_count": 1871
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "当日常分享生活的号用了/副业是化学品需要的可以联系TG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+kbiFvS7eC4k3Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+kbiFvS7eC4k3YzNl",
+                "start": 0,
+                "url": "https://t.co/BhUcaEgN6z"
+              }
+            ]
+          }
+        },
+        "id": "1662439435726905344",
+        "location": "➡️",
+        "name": "白",
+        "pinned_tweet_id": "1999157411341570111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049910725519298560/vD65zElg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 38,
+          "like_count": 10013,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 47
+        },
+        "url": "https://t.co/BhUcaEgN6z",
+        "username": "ShiroSkura",
+        "verified": false
+      }
+    ]
+  }
+}

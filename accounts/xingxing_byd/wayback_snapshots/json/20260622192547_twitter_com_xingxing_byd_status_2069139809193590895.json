@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2068695875149578614",
+    "created_at": "2026-06-22T19:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T20:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069139809193590895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1803795783315296257",
+          "start": 0,
+          "username": "KK07Okira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069139809193590895",
+    "in_reply_to_user_id": "1803795783315296257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068695875149578614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK07Okira 你真可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2068695867243266048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV77ktagAAk0DK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2068695875149578614",
+        "created_at": "2026-06-22T19:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T20:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069139809193590895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1803795783315296257",
+              "start": 0,
+              "username": "KK07Okira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069139809193590895",
+        "in_reply_to_user_id": "1803795783315296257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068695875149578614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK07Okira 你真可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068695867243266048"
+          ]
+        },
+        "author_id": "1803795783315296257",
+        "conversation_id": "2068695875149578614",
+        "created_at": "2026-06-21T14:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068695875149578614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/if0dzAZwMc",
+              "end": 35,
+              "expanded_url": "https://x.com/KK07Okira/status/2068695875149578614/photo/1",
+              "media_key": "3_2068695867243266048",
+              "start": 12,
+              "url": "https://t.co/if0dzAZwMc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068695875149578614",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6061,
+          "like_count": 194,
+          "quote_count": 0,
+          "reply_count": 66,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Σ(๑°꒳°๑)ᵎᵎᵎ https://t.co/if0dzAZwMc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/改造自己中/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞天星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069048254038503424/3zbCNuPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 292,
+          "like_count": 1591,
+          "listed_count": 0,
+          "media_count": 472,
+          "tweet_count": 2036
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T14:23:34.000Z",
+        "description": "我玻璃心｜无tg｜我有男朋友｜不卖号不接广不玩Q群不扩列不玩任何交友软件不加联系方式｜只有这一个账号",
+        "id": "1803795783315296257",
+        "name": "KK拯救世界",
+        "pinned_tweet_id": "1985912414106431675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030565973850521600/_NdRI8r5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13397,
+          "following_count": 279,
+          "like_count": 4150,
+          "listed_count": 25,
+          "media_count": 249,
+          "tweet_count": 1977
+        },
+        "url": "",
+        "username": "KK07Okira",
+        "verified": false
+      }
+    ]
+  }
+}

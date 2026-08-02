@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2013815264354189313"
+      ],
+      "media_source_tweet_id": [
+        "2013815308436357571"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "2014034440888987910",
+    "created_at": "2026-01-21T17:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T18:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014034440888987910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1498576737155928067",
+          "start": 3,
+          "username": "Chunyu_China"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cn4MUKdKnk",
+          "end": 75,
+          "expanded_url": "https://x.com/Chunyu_China/status/2013815308436357571/video/1",
+          "media_key": "7_2013815264354189313",
+          "start": 52,
+          "url": "https://t.co/Cn4MUKdKnk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014034440888987910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013815308436357571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chunyu_China: “没办法了，脱衣服！”零下5℃民警果断入水救出坠湖老人！辛苦了❤️ https://t.co/Cn4MUKdKnk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18227,
+        "height": 1280,
+        "media_key": "7_2013815264354189313",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2013815264354189313/pu/img/V3ajO_HQVUf4mDj-.jpg",
+        "public_metrics": {
+          "view_count": 476
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013815264354189313/pu/vid/avc1/320x568/Kr11VlwW0hv3iFBb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013815264354189313/pu/vid/avc1/480x852/elOUlOHKUV4ZQoXw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013815264354189313/pu/vid/avc1/720x1280/eeyazNgGAZZ8H7zY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2013815264354189313/pu/pl/Uj0KgGARJsugB2vz.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2013815264354189313"
+          ],
+          "media_source_tweet_id": [
+            "2013815308436357571"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "2014034440888987910",
+        "created_at": "2026-01-21T17:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T18:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014034440888987910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498576737155928067",
+              "start": 3,
+              "username": "Chunyu_China"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cn4MUKdKnk",
+              "end": 75,
+              "expanded_url": "https://x.com/Chunyu_China/status/2013815308436357571/video/1",
+              "media_key": "7_2013815264354189313",
+              "start": 52,
+              "url": "https://t.co/Cn4MUKdKnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014034440888987910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013815308436357571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chunyu_China: “没办法了，脱衣服！”零下5℃民警果断入水救出坠湖老人！辛苦了❤️ https://t.co/Cn4MUKdKnk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2013815264354189313"
+          ]
+        },
+        "author_id": "1498576737155928067",
+        "conversation_id": "2013815308436357571",
+        "created_at": "2026-01-21T03:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T04:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013815308436357571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cn4MUKdKnk",
+              "end": 57,
+              "expanded_url": "https://x.com/Chunyu_China/status/2013815308436357571/video/1",
+              "media_key": "7_2013815264354189313",
+              "start": 34,
+              "url": "https://t.co/Cn4MUKdKnk"
+            },
+            {
+              "display_url": "x.com/Chunyu_China/s…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/Chunyu_China/status/2013421446627029221",
+              "start": 58,
+              "url": "https://t.co/JmmA5MR5k1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013815308436357571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1252,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013421446627029221",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“没办法了，脱衣服！”零下5℃民警果断入水救出坠湖老人！辛苦了❤️ https://t.co/Cn4MUKdKnk https://t.co/JmmA5MR5k1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012991233136754688/UQCWfzXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 182,
+          "like_count": 1530,
+          "listed_count": 0,
+          "media_count": 408,
+          "tweet_count": 1552
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-01T08:34:35.000Z",
+        "description": "I am a journalist, telling Chinese stories well, spreading Chinese voice well, and showing the real and three-dimensional China🇨🇳🇨🇳🇨🇳",
+        "id": "1498576737155928067",
+        "location": "中国🇨🇳内蒙古",
+        "name": "Chunyu 春雨",
+        "pinned_tweet_id": "2006334204410556737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595772949583249408/qfxqqAoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100548,
+          "following_count": 9618,
+          "like_count": 106280,
+          "listed_count": 204,
+          "media_count": 32286,
+          "tweet_count": 99926
+        },
+        "username": "Chunyu_China",
+        "verified": false
+      }
+    ]
+  }
+}

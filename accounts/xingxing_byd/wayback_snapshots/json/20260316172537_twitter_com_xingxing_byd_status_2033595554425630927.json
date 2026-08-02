@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2033394541873774592"
+      ],
+      "media_source_tweet_id": [
+        "2033394775056158815"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2033595554425630927",
+    "created_at": "2026-03-16T17:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T18:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033595554425630927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1630175470867349511",
+          "start": 3,
+          "username": "wlwi18305532"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OU3rwL5cn3",
+          "end": 61,
+          "expanded_url": "https://x.com/wlwi18305532/status/2033394775056158815/video/1",
+          "media_key": "13_2033394541873774592",
+          "start": 38,
+          "url": "https://t.co/OU3rwL5cn3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033595554425630927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033394775056158815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wlwi18305532: 干炸蘑菇的魅力就是，隔几天就想吃一次！ https://t.co/OU3rwL5cn3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32466,
+        "height": 1280,
+        "media_key": "13_2033394541873774592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033394541873774592/img/LMuCFKkMiwnFJOXU.jpg",
+        "public_metrics": {
+          "view_count": 17443
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033394541873774592/vid/avc1/320x568/x3lMjKXHFLLqP0Ms.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033394541873774592/vid/avc1/480x852/ZgAS_2_coHJPqPld.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033394541873774592/vid/avc1/720x1280/BMYHXKbtBc5QmoiS.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033394541873774592/pl/5_5V9usNYOqlJ_vw.m3u8?tag=14&v=05e"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033394541873774592"
+          ],
+          "media_source_tweet_id": [
+            "2033394775056158815"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2033595554425630927",
+        "created_at": "2026-03-16T17:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T18:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033595554425630927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1630175470867349511",
+              "start": 3,
+              "username": "wlwi18305532"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OU3rwL5cn3",
+              "end": 61,
+              "expanded_url": "https://x.com/wlwi18305532/status/2033394775056158815/video/1",
+              "media_key": "13_2033394541873774592",
+              "start": 38,
+              "url": "https://t.co/OU3rwL5cn3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033595554425630927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033394775056158815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wlwi18305532: 干炸蘑菇的魅力就是，隔几天就想吃一次！ https://t.co/OU3rwL5cn3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033394541873774592"
+          ]
+        },
+        "author_id": "1630175470867349511",
+        "conversation_id": "2033394775056158815",
+        "created_at": "2026-03-16T04:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033394775056158815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OU3rwL5cn3",
+              "end": 43,
+              "expanded_url": "https://x.com/wlwi18305532/status/2033394775056158815/video/1",
+              "media_key": "13_2033394541873774592",
+              "start": 20,
+              "url": "https://t.co/OU3rwL5cn3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033394775056158815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 36286,
+          "like_count": 160,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "干炸蘑菇的魅力就是，隔几天就想吃一次！ https://t.co/OU3rwL5cn3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2025101983989043315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 205,
+          "like_count": 1559,
+          "listed_count": 0,
+          "media_count": 426,
+          "tweet_count": 1645
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-27T11:58:52.000Z",
+        "description": "一枚小吃货😁😁😁\n喜欢分享中华美食和日常生活趣事(🇨🇳^‿^)/🎉\n欢迎大家互 FO 、互赞、互评❤️٩(๑^o^๑)۶❤️\n希望和大家成为好朋友👭👭👭\n不要取消关注，如果不小心漏关了，私信我，奖励前十条点赞👍✧٩(ˊωˋ*)و✧\n定期清理不回关者🙅",
+        "id": "1630175470867349511",
+        "name": "武丽伟🇨🇳",
+        "pinned_tweet_id": "2030477514129416579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805983222591090688/ScZcs9CV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15970,
+          "following_count": 15056,
+          "like_count": 79500,
+          "listed_count": 37,
+          "media_count": 2979,
+          "tweet_count": 7072
+        },
+        "username": "wlwi18305532",
+        "verified": false
+      }
+    ]
+  }
+}

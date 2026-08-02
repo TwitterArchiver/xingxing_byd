@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2013855827552333824"
+      ],
+      "media_source_tweet_id": [
+        "2013855968468275240"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2014023398314352863",
+    "created_at": "2026-01-21T17:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T18:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014023398314352863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1725033215843581952",
+          "start": 3,
+          "username": "Moon106605"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FrSwGNmMof",
+          "end": 81,
+          "expanded_url": "https://x.com/Moon106605/status/2013855968468275240/video/1",
+          "media_key": "7_2013855827552333824",
+          "start": 58,
+          "url": "https://t.co/FrSwGNmMof"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014023398314352863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013855968468275240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Moon106605: 大连儿童公园明泽湖上，一只大鹅被冻住了！工作人员熟练救鹅，三只鹅低头行礼表示感谢。 https://t.co/FrSwGNmMof"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20921,
+        "height": 720,
+        "media_key": "7_2013855827552333824",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2013855827552333824/pu/img/NP7jj6FI_rrVud4e.jpg",
+        "public_metrics": {
+          "view_count": 1623
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013855827552333824/pu/vid/avc1/480x270/ZZwnnDhPvZeoJ2Ke.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013855827552333824/pu/vid/avc1/640x360/sLjbpxGDpjhfL4Pl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013855827552333824/pu/vid/avc1/1280x720/C2fKXobHsBL5pO8N.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2013855827552333824/pu/pl/l6HL4dBmC87lNCAp.m3u8?tag=12&v=7da"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2013855827552333824"
+          ],
+          "media_source_tweet_id": [
+            "2013855968468275240"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014023398314352863",
+        "created_at": "2026-01-21T17:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T18:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014023398314352863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1725033215843581952",
+              "start": 3,
+              "username": "Moon106605"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FrSwGNmMof",
+              "end": 81,
+              "expanded_url": "https://x.com/Moon106605/status/2013855968468275240/video/1",
+              "media_key": "7_2013855827552333824",
+              "start": 58,
+              "url": "https://t.co/FrSwGNmMof"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014023398314352863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013855968468275240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Moon106605: 大连儿童公园明泽湖上，一只大鹅被冻住了！工作人员熟练救鹅，三只鹅低头行礼表示感谢。 https://t.co/FrSwGNmMof"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2013855827552333824"
+          ]
+        },
+        "author_id": "1725033215843581952",
+        "conversation_id": "2013855968468275240",
+        "created_at": "2026-01-21T06:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T07:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013855968468275240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FrSwGNmMof",
+              "end": 65,
+              "expanded_url": "https://x.com/Moon106605/status/2013855968468275240/video/1",
+              "media_key": "7_2013855827552333824",
+              "start": 42,
+              "url": "https://t.co/FrSwGNmMof"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013855968468275240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3078,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大连儿童公园明泽湖上，一只大鹅被冻住了！工作人员熟练救鹅，三只鹅低头行礼表示感谢。 https://t.co/FrSwGNmMof"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012991233136754688/UQCWfzXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 181,
+          "like_count": 1529,
+          "listed_count": 0,
+          "media_count": 408,
+          "tweet_count": 1549
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-16T06:09:16.000Z",
+        "description": "愿世界充满爱🕊",
+        "id": "1725033215843581952",
+        "location": "塔河湾",
+        "name": "qishan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753237035694137344/1d64n7rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3602,
+          "following_count": 3117,
+          "like_count": 157309,
+          "listed_count": 9,
+          "media_count": 1301,
+          "tweet_count": 2207
+        },
+        "username": "Moon106605",
+        "verified": false
+      }
+    ]
+  }
+}

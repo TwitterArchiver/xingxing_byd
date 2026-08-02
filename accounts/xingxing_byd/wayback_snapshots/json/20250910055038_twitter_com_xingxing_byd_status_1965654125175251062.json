@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965654121874423810",
+        "3_1965654119080927232"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1965654125175251062",
+    "created_at": "2025-09-10T05:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T06:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965654125175251062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XdfoWGkIFT",
+          "end": 34,
+          "expanded_url": "https://x.com/xingxing_byd/status/1965654125175251062/photo/1",
+          "media_key": "3_1965654121874423810",
+          "start": 11,
+          "url": "https://t.co/XdfoWGkIFT"
+        },
+        {
+          "display_url": "pic.x.com/XdfoWGkIFT",
+          "end": 34,
+          "expanded_url": "https://x.com/xingxing_byd/status/1965654125175251062/photo/1",
+          "media_key": "3_1965654119080927232",
+          "start": 11,
+          "url": "https://t.co/XdfoWGkIFT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965654125175251062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天喝到了说脏话牛奶 https://t.co/XdfoWGkIFT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965654121874423810",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0doAmWbgAI5yyd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 450,
+        "media_key": "3_1965654119080927232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0doAb8aIAA1WVd.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965654121874423810",
+            "3_1965654119080927232"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1965654125175251062",
+        "created_at": "2025-09-10T05:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T06:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965654125175251062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XdfoWGkIFT",
+              "end": 34,
+              "expanded_url": "https://x.com/xingxing_byd/status/1965654125175251062/photo/1",
+              "media_key": "3_1965654121874423810",
+              "start": 11,
+              "url": "https://t.co/XdfoWGkIFT"
+            },
+            {
+              "display_url": "pic.x.com/XdfoWGkIFT",
+              "end": 34,
+              "expanded_url": "https://x.com/xingxing_byd/status/1965654125175251062/photo/1",
+              "media_key": "3_1965654119080927232",
+              "start": 11,
+              "url": "https://t.co/XdfoWGkIFT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965654125175251062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天喝到了说脏话牛奶 https://t.co/XdfoWGkIFT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|碎碎念|日常|美食|生活推|岁月静好ing|拒绝不良内容|积极向上",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星系系统✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1952980636073115955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955489105514762240/nwrEcNd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 105,
+          "like_count": 1495,
+          "listed_count": 1,
+          "media_count": 344,
+          "tweet_count": 1368
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

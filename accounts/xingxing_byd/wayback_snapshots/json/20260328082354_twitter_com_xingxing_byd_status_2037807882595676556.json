@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2037807882595676556",
+    "created_at": "2026-03-28T08:23:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T09:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037807882595676556"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sweety7968/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/sweety7968/status/2037510544278839710",
+          "start": 7,
+          "url": "https://t.co/c44QwTPQms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037807882595676556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037510544278839710",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个真馋了🤤 https://t.co/c44QwTPQms"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1436,
+        "media_key": "3_2037510345104011264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEaw3RobsAAKRTM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2037807882595676556",
+        "created_at": "2026-03-28T08:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037807882595676556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sweety7968/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/sweety7968/status/2037510544278839710",
+              "start": 7,
+              "url": "https://t.co/c44QwTPQms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037807882595676556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037510544278839710",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个真馋了🤤 https://t.co/c44QwTPQms"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037510345104011264"
+          ]
+        },
+        "author_id": "1993984602978045954",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037510544278839710",
+        "created_at": "2026-03-27T12:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037510544278839710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Xsg8hGXZN",
+              "end": 45,
+              "expanded_url": "https://x.com/sweety7968/status/2037510544278839710/photo/1",
+              "media_key": "3_2037510345104011264",
+              "start": 22,
+              "url": "https://t.co/8Xsg8hGXZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037510544278839710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 506,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "实在太好吃了，何其有幸，吃到这么好吃的小排 https://t.co/8Xsg8hGXZN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2026997738622337393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 205,
+          "like_count": 1567,
+          "listed_count": 0,
+          "media_count": 431,
+          "tweet_count": 1677
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-27T10:06:15.000Z",
+        "description": "分享日常，喜欢抽象，缓解压力的方式是睡觉和听音乐。互关互赞100%哦\n部分段子来自网络，主打一个分享，如有侵权，请联系删除",
+        "id": "1993984602978045954",
+        "name": "sweety❤️互fo100%",
+        "pinned_tweet_id": "2036807445813862568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994042172966936576/qogjzUxS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4179,
+          "following_count": 5446,
+          "like_count": 8693,
+          "listed_count": 7,
+          "media_count": 720,
+          "tweet_count": 2015
+        },
+        "username": "sweety7968",
+        "verified": false
+      }
+    ]
+  }
+}

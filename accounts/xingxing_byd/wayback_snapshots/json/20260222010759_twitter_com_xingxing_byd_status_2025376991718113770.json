@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2025376991718113770",
+    "created_at": "2026-02-22T01:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T02:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025376991718113770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1965448764686303235",
+          "start": 3,
+          "username": "mio_negimeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025376991718113770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025066055618756930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mio_negimeow: 曾经受到一些所谓“地雷”文化的影响在最难受的时候沾染过一段时间，滥用右美沙芬，我很庆幸没有接触到更可怕的东西，我内心的不安让我逼着自己戒掉了。\n我一贯的立场，不支持，也绝对反对药物滥用的行为，在退推一年后的现在，我仍然想把这句话严肃地呐喊出来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2025376991718113770",
+        "created_at": "2026-02-22T01:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T02:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025376991718113770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1965448764686303235",
+              "start": 3,
+              "username": "mio_negimeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025376991718113770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025066055618756930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mio_negimeow: 曾经受到一些所谓“地雷”文化的影响在最难受的时候沾染过一段时间，滥用右美沙芬，我很庆幸没有接触到更可怕的东西，我内心的不安让我逼着自己戒掉了。\n我一贯的立场，不支持，也绝对反对药物滥用的行为，在退推一年后的现在，我仍然想把这句话严肃地呐喊出来。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965448764686303235",
+        "conversation_id": "2025066055618756930",
+        "created_at": "2026-02-21T04:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T05:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025066055618756930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EleanorAnatida…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/EleanorAnatidae/status/2025060712335438221",
+              "start": 123,
+              "url": "https://t.co/pWhvVtLN6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025066055618756930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2070,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025060712335438221",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "曾经受到一些所谓“地雷”文化的影响在最难受的时候沾染过一段时间，滥用右美沙芬，我很庆幸没有接触到更可怕的东西，我内心的不安让我逼着自己戒掉了。\n我一贯的立场，不支持，也绝对反对药物滥用的行为，在退推一年后的现在，我仍然想把这句话严肃地呐喊出来。 https://t.co/pWhvVtLN6e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2025101983989043315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 201,
+          "like_count": 1541,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 1592
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T16:14:58.000Z",
+        "description": "aka. Snowmiku❄️ ｜ les ｜ 日常 \n是什么呢？顾名思义是一只葱，那为什么是酱葱呢，因为葱酱很可爱！（无端//）",
+        "id": "1965448764686303235",
+        "name": "酱葱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993376877587972104/nec22BPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 39,
+          "like_count": 225,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 147
+        },
+        "username": "mio_negimeow",
+        "verified": false
+      }
+    ]
+  }
+}

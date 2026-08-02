@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966032988715757570"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1966032993149137315",
+    "created_at": "2025-09-11T06:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T07:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966032993149137315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pMRS5KD8kT",
+          "end": 23,
+          "expanded_url": "https://x.com/xingxing_byd/status/1966032993149137315/photo/1",
+          "media_key": "3_1966032988715757570",
+          "start": 0,
+          "url": "https://t.co/pMRS5KD8kT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966032993149137315",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/pMRS5KD8kT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1966032993149137315].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1966032993149137315",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1966032993149137315"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966032988715757570",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0jAljUaMAIE-1K.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|碎碎念|日常|美食|生活推|岁月静好ing|拒绝不良内容|积极向上",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星系系统✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1952980636073115955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955489105514762240/nwrEcNd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 105,
+          "like_count": 1495,
+          "listed_count": 1,
+          "media_count": 345,
+          "tweet_count": 1369
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

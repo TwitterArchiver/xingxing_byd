@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069068086767149056"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "2069068092538540337",
+    "created_at": "2026-06-22T14:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069068092538540337"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/geb3CnN8eo",
+          "end": 34,
+          "expanded_url": "https://x.com/xingxing_byd/status/2069068092538540337/photo/1",
+          "media_key": "3_2069068086767149056",
+          "start": 11,
+          "url": "https://t.co/geb3CnN8eo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069068092538540337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "耶耶又发现免费梯子了 https://t.co/geb3CnN8eo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069068086767149056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbOdmfaYAAvE9B.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069068086767149056"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "2069068092538540337",
+        "created_at": "2026-06-22T14:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069068092538540337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/geb3CnN8eo",
+              "end": 34,
+              "expanded_url": "https://x.com/xingxing_byd/status/2069068092538540337/photo/1",
+              "media_key": "3_2069068086767149056",
+              "start": 11,
+              "url": "https://t.co/geb3CnN8eo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069068092538540337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耶耶又发现免费梯子了 https://t.co/geb3CnN8eo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/改造自己中/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2066459240282329246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069048254038503424/3zbCNuPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 276,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 468,
+          "tweet_count": 2015
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2069317246560985454",
+    "created_at": "2026-06-23T07:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069318253948608687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1440983154131488774",
+          "start": 0,
+          "username": "daisy38193824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069318253948608687",
+    "in_reply_to_user_id": "1440983154131488774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069317246560985454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daisy38193824 姐妹，对自己好点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1994,
+        "media_key": "3_2069317234158354432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLexD42aQAAb3K1.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2069317246560985454",
+        "created_at": "2026-06-23T07:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069318253948608687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1440983154131488774",
+              "start": 0,
+              "username": "daisy38193824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069318253948608687",
+        "in_reply_to_user_id": "1440983154131488774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069317246560985454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daisy38193824 姐妹，对自己好点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069317234158354432"
+          ]
+        },
+        "author_id": "1440983154131488774",
+        "conversation_id": "2069317246560985454",
+        "created_at": "2026-06-23T07:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069317246560985454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hFTwVKpTNY",
+              "end": 44,
+              "expanded_url": "https://x.com/daisy38193824/status/2069317246560985454/photo/1",
+              "media_key": "3_2069317234158354432",
+              "start": 21,
+              "url": "https://t.co/hFTwVKpTNY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069317246560985454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三块钱的烟酰胺精华买回来看看能不能用.. https://t.co/hFTwVKpTNY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/改造自己中/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞天星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069048254038503424/3zbCNuPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 300,
+          "like_count": 1596,
+          "listed_count": 0,
+          "media_count": 476,
+          "tweet_count": 2053
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-23T10:15:39.000Z",
+        "description": "无证含糖中|HRT：2026/3/19｜ INFP-T｜\n比较内向社恐｜喜欢可爱的小动物｜爱玩mc cs2 lol 各种galgame | 爱看治愈/治愈/催泪类型的动漫｜ 粤语/日语流行/摇滚/后摇/欧美流行/二次元/古典/爵士/金属｜小号@fallin2624",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 121,
+                "username": "fallin2624"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fallin22938",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fallin22938",
+                "start": 0,
+                "url": "https://t.co/wx8CXSpu18"
+              }
+            ]
+          }
+        },
+        "id": "1440983154131488774",
+        "location": "湖北省武汉市",
+        "name": "𝓕𝓪𝓵𝓵𝓲𝓷'🍥",
+        "pinned_tweet_id": "2060595280031240663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061869210842943488/9BfKk5cR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 808,
+          "like_count": 2784,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 612
+        },
+        "url": "https://t.co/wx8CXSpu18",
+        "username": "daisy38193824",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1952980636073115955",
+    "created_at": "2025-08-11T23:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T00:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955046438439735553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1560434375195369474",
+          "start": 0,
+          "username": "xuzi40104"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955046438439735553",
+    "in_reply_to_user_id": "1560434375195369474",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954955762306019720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuzi40104 OK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1952980636073115955",
+        "created_at": "2025-08-11T23:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T00:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955046438439735553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1560434375195369474",
+              "start": 0,
+              "username": "xuzi40104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955046438439735553",
+        "in_reply_to_user_id": "1560434375195369474",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954955762306019720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuzi40104 OK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560434375195369474",
+        "conversation_id": "1952980636073115955",
+        "created_at": "2025-08-11T17:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T18:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954955762306019720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1776704652483891200",
+              "start": 0,
+              "username": "xingxing_byd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954955762306019720",
+        "in_reply_to_user_id": "1776704652483891200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952980636073115955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingxing_byd 不要点我发的私信链接，我就是点了一个才自动群发的，现在私信上限了只能来这里通知你们了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "爱我可以给我打钱！vx🚪55  在此刻 在某处 那个我 他很好 不要跟我说违法内容 尊法守法",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星系系统✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1952980636073115955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943517309751939072/FxpaGeBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 103,
+          "like_count": 1517,
+          "listed_count": 0,
+          "media_count": 330,
+          "tweet_count": 1327
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T01:12:18.000Z",
+        "description": "雪绪",
+        "id": "1560434375195369474",
+        "location": "距离你401m",
+        "name": "不要点我发的链接",
+        "pinned_tweet_id": "1954963547198505439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619516314405707776/HUYfmVL0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4504
+        },
+        "username": "xuzi40104",
+        "verified": false
+      }
+    ]
+  }
+}

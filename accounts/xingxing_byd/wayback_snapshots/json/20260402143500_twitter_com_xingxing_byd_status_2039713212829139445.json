@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039341532097253376"
+      ],
+      "media_source_tweet_id": [
+        "2039341537554022751"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "2039713212829139445",
+    "created_at": "2026-04-02T14:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T15:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039713212829139445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934281927152005121",
+          "start": 3,
+          "username": "hil_cos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gx4l5Lb0gV",
+          "end": 62,
+          "expanded_url": "https://x.com/hil_cos/status/2039341537554022751/photo/1",
+          "media_key": "3_2039341532097253376",
+          "start": 39,
+          "url": "https://t.co/Gx4l5Lb0gV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039713212829139445",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 249
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039341537554022751",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hil_cos: なんか  きもちおうて  ふわふあすゆ  きもちい https://t.co/Gx4l5Lb0gV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2603,
+        "media_key": "3_2039341532097253376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0yUYxbkAA0h5w.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039341532097253376"
+          ],
+          "media_source_tweet_id": [
+            "2039341537554022751"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "2039713212829139445",
+        "created_at": "2026-04-02T14:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039713212829139445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934281927152005121",
+              "start": 3,
+              "username": "hil_cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gx4l5Lb0gV",
+              "end": 62,
+              "expanded_url": "https://x.com/hil_cos/status/2039341537554022751/photo/1",
+              "media_key": "3_2039341532097253376",
+              "start": 39,
+              "url": "https://t.co/Gx4l5Lb0gV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039713212829139445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 249
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039341537554022751",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hil_cos: なんか  きもちおうて  ふわふあすゆ  きもちい https://t.co/Gx4l5Lb0gV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039341532097253376"
+          ]
+        },
+        "author_id": "1934281927152005121",
+        "conversation_id": "2039341537554022751",
+        "created_at": "2026-04-01T13:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039341537554022751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gx4l5Lb0gV",
+              "end": 49,
+              "expanded_url": "https://x.com/hil_cos/status/2039341537554022751/photo/1",
+              "media_key": "3_2039341532097253376",
+              "start": 26,
+              "url": "https://t.co/Gx4l5Lb0gV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039341537554022751",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 176,
+          "impression_count": 21831,
+          "like_count": 3105,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 249
+        },
+        "reply_settings": "everyone",
+        "text": "なんか  きもちおうて  ふわふあすゆ  きもちい https://t.co/Gx4l5Lb0gV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2026997738622337393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039309570091425792/NwuNUk_k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 213,
+          "like_count": 1575,
+          "listed_count": 0,
+          "media_count": 436,
+          "tweet_count": 1698
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T16:08:48.000Z",
+        "description": "cos 重加工",
+        "id": "1934281927152005121",
+        "name": "ひなた",
+        "pinned_tweet_id": "1942877691964994005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999066899314098176/wP8bZm2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5798,
+          "following_count": 49,
+          "like_count": 1486,
+          "listed_count": 29,
+          "media_count": 41,
+          "tweet_count": 224
+        },
+        "username": "hil_cos",
+        "verified": false
+      }
+    ]
+  }
+}

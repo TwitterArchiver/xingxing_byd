@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2040271755911344211",
+    "created_at": "2026-04-04T03:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T04:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040271755911344211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lvjin1993/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/lvjin1993/status/2039926109576560894",
+          "start": 15,
+          "url": "https://t.co/hXx663RASs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040271755911344211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039926109576560894",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这也太少了吧…工人功德无量！ https://t.co/hXx663RASs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14815,
+        "height": 1280,
+        "media_key": "7_2039926079457267712",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2039926079457267712/pu/img/GMl_MLkhgY4ossQk.jpg",
+        "public_metrics": {
+          "view_count": 47394
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039926079457267712/pu/vid/avc1/320x568/3B59fLPz3LOhOG0n.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039926079457267712/pu/vid/avc1/480x852/RYT3AMKG_3-qK6Bk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039926079457267712/pu/vid/avc1/720x1280/HuGCA-nmsyBk0Hl8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2039926079457267712/pu/pl/pKgvuviLiwZ-Idvu.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2040271755911344211",
+        "created_at": "2026-04-04T03:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T04:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040271755911344211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lvjin1993/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/lvjin1993/status/2039926109576560894",
+              "start": 15,
+              "url": "https://t.co/hXx663RASs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040271755911344211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039926109576560894",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这也太少了吧…工人功德无量！ https://t.co/hXx663RASs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2039926079457267712"
+          ]
+        },
+        "author_id": "1437318233883701249",
+        "conversation_id": "2039926109576560894",
+        "created_at": "2026-04-03T04:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039926109576560894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xj0MnmxZQ",
+              "end": 65,
+              "expanded_url": "https://x.com/lvjin1993/status/2039926109576560894/video/1",
+              "media_key": "7_2039926079457267712",
+              "start": 42,
+              "url": "https://t.co/8xj0MnmxZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039926109576560894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 95505,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 38,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "车间着火工人举动救了整个工厂，工人反应迅速徒手抱走火源。“老板感动奖励了100元” https://t.co/8xj0MnmxZQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2026997738622337393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039309570091425792/NwuNUk_k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 222,
+          "like_count": 1573,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 1712
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-13T07:33:07.000Z",
+        "description": "热爱祖国 小城卖茶 鲜果采摘  江边夜跑 爱猫人士 老物件迷 幽默搞笑 游山玩水 谢绝闲聊 请您谅解！",
+        "id": "1437318233883701249",
+        "name": "李梦白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021405798950371331/kZizNwsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200755,
+          "following_count": 61770,
+          "like_count": 84748,
+          "listed_count": 199,
+          "media_count": 25282,
+          "tweet_count": 35786
+        },
+        "url": "",
+        "username": "lvjin1993",
+        "verified": true
+      }
+    ]
+  }
+}

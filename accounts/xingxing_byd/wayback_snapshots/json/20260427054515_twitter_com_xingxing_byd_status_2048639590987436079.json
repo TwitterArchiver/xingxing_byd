@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2048594408183075006",
+    "created_at": "2026-04-27T05:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T06:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048639590987436079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2021440134743273472",
+          "start": 0,
+          "username": "DZunome"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048639590987436079",
+    "in_reply_to_user_id": "2021440134743273472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048622987251700003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DZunome 嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2048594408183075006",
+        "created_at": "2026-04-27T05:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048639590987436079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2021440134743273472",
+              "start": 0,
+              "username": "DZunome"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048639590987436079",
+        "in_reply_to_user_id": "2021440134743273472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048622987251700003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DZunome 嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021440134743273472",
+        "conversation_id": "2048594408183075006",
+        "created_at": "2026-04-27T04:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048622987251700003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1776704652483891200",
+              "start": 0,
+              "username": "xingxing_byd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048622987251700003",
+        "in_reply_to_user_id": "1776704652483891200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048594408183075006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingxing_byd 好耶 很顺利吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046552171949518848/D-UP0xlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 254,
+          "like_count": 1592,
+          "listed_count": 0,
+          "media_count": 451,
+          "tweet_count": 1834
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T04:24:34.000Z",
+        "description": "",
+        "id": "2021440134743273472",
+        "name": "David Zhao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048392107325579264/oa5DB2y4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "username": "DZunome",
+        "verified": false
+      }
+    ]
+  }
+}

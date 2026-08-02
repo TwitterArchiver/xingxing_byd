@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2044756577115324601",
+    "created_at": "2026-04-16T12:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T13:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044756577115324601"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/f0odhub/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/f0odhub/status/2044383210340065700",
+          "start": 3,
+          "url": "https://t.co/yJ9ogRPfQe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044756577115324601",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044383210340065700",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "香🤤 https://t.co/yJ9ogRPfQe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2044383207806623744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8bsiYWYAAvA__.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2044756577115324601",
+        "created_at": "2026-04-16T12:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T13:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044756577115324601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/f0odhub/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/f0odhub/status/2044383210340065700",
+              "start": 3,
+              "url": "https://t.co/yJ9ogRPfQe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044756577115324601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044383210340065700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "香🤤 https://t.co/yJ9ogRPfQe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044383207806623744"
+          ]
+        },
+        "author_id": "1786413884473008128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044383210340065700",
+        "created_at": "2026-04-15T11:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044383210340065700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xF7LRur9sG",
+              "end": 57,
+              "expanded_url": "https://x.com/F0ODHub/status/2044383210340065700/photo/1",
+              "media_key": "3_2044383207806623744",
+              "start": 34,
+              "url": "https://t.co/xF7LRur9sG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044383210340065700",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 71660,
+          "like_count": 2818,
+          "quote_count": 217,
+          "reply_count": 402,
+          "retweet_count": 193
+        },
+        "reply_settings": "everyone",
+        "text": "What drink goes best with this? 🤔 https://t.co/xF7LRur9sG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2043388366423830731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043389441889443841/BHqrLPNw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 223,
+          "like_count": 1573,
+          "listed_count": 0,
+          "media_count": 444,
+          "tweet_count": 1738
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T15:14:17.000Z",
+        "description": "Serving up deliciousness one plate at a time. From recipes to food trends, join us on a flavorful journey!",
+        "id": "1786413884473008128",
+        "location": "Egypt",
+        "name": "Food Hub",
+        "pinned_tweet_id": "2040380337725878325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913567752981250048/cQPKQ_IA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131815,
+          "following_count": 6092,
+          "like_count": 481,
+          "listed_count": 166,
+          "media_count": 3624,
+          "tweet_count": 4603
+        },
+        "username": "F0ODHub",
+        "verified": true
+      }
+    ]
+  }
+}

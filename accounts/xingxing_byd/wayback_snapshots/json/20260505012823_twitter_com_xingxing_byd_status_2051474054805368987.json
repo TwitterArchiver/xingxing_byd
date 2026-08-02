@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2051474054805368987",
+    "created_at": "2026-05-05T01:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T02:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051474054805368987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1476198137589268480",
+          "start": 3,
+          "username": "N3kuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051474054805368987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051310209037992031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N3kuv: 普瑞巴林的成瘾性：\n一周吃一次 略微的心瘾 没有规律用药可断崖式戒断\n一周吃两到三次 成瘾性增加 心瘾加重 建议阶梯式戒断\n隔一天吃一次 成瘾性加强 心瘾加重 \n可能会出现生理性戒断反应（如失眠和癫痫） 必须阶梯式戒断"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2051474054805368987",
+        "created_at": "2026-05-05T01:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T02:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051474054805368987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1476198137589268480",
+              "start": 3,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051474054805368987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051310209037992031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N3kuv: 普瑞巴林的成瘾性：\n一周吃一次 略微的心瘾 没有规律用药可断崖式戒断\n一周吃两到三次 成瘾性增加 心瘾加重 建议阶梯式戒断\n隔一天吃一次 成瘾性加强 心瘾加重 \n可能会出现生理性戒断反应（如失眠和癫痫） 必须阶梯式戒断"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476198137589268480",
+        "conversation_id": "2051310209037992031",
+        "created_at": "2026-05-04T14:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T15:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051310209037992031"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051310209037992031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 980,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林的成瘾性：\n一周吃一次 略微的心瘾 没有规律用药可断崖式戒断\n一周吃两到三次 成瘾性增加 心瘾加重 建议阶梯式戒断\n隔一天吃一次 成瘾性加强 心瘾加重 \n可能会出现生理性戒断反应（如失眠和癫痫） 必须阶梯式戒断"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046552171949518848/D-UP0xlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 264,
+          "like_count": 1606,
+          "listed_count": 0,
+          "media_count": 452,
+          "tweet_count": 1862
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "嗯就是pr戒断中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekuv",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekuv",
+                "start": 0,
+                "url": "https://t.co/N9ufw9zWMx"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "location": "问题咨询请进提问箱：",
+        "name": "马戏猫普瑞戒断号",
+        "pinned_tweet_id": "2047967882492187005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047525381545349120/HO-tdnCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 305,
+          "like_count": 4010,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1083
+        },
+        "url": "https://t.co/N9ufw9zWMx",
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

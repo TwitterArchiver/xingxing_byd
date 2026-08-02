@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980261368600170496"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1980261372287123736",
+    "created_at": "2025-10-20T13:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T14:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980261372287123736"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UXFQZf3fy5",
+          "end": 41,
+          "expanded_url": "https://x.com/xingxing_byd/status/1980261372287123736/photo/1",
+          "media_key": "3_1980261368600170496",
+          "start": 18,
+          "url": "https://t.co/UXFQZf3fy5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980261372287123736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小谷买的娃包，是他给我的生日礼物。 https://t.co/UXFQZf3fy5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_1980261368600170496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3tNOQ3XkAAmN29.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980261368600170496"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1980261372287123736",
+        "created_at": "2025-10-20T13:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T14:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980261372287123736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UXFQZf3fy5",
+              "end": 41,
+              "expanded_url": "https://x.com/xingxing_byd/status/1980261372287123736/photo/1",
+              "media_key": "3_1980261368600170496",
+              "start": 18,
+              "url": "https://t.co/UXFQZf3fy5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980261372287123736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小谷买的娃包，是他给我的生日礼物。 https://t.co/UXFQZf3fy5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜会自残不od｜更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "1971898320311538020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 156,
+          "like_count": 1635,
+          "listed_count": 0,
+          "media_count": 375,
+          "tweet_count": 1468
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

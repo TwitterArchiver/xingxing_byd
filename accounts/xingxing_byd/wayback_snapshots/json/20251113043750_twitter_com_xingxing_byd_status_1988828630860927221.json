@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988558549098852352"
+      ],
+      "media_source_tweet_id": [
+        "1988558560700010531"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1988828630860927221",
+    "created_at": "2025-11-13T04:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T05:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988828630860927221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883157644711796736",
+          "start": 3,
+          "username": "TvTbreak"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LblE6XJutk",
+          "end": 50,
+          "expanded_url": "https://x.com/TvTbreak/status/1988558560700010531/photo/1",
+          "media_key": "3_1988558549098852352",
+          "start": 27,
+          "url": "https://t.co/LblE6XJutk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988828630860927221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988558560700010531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TvTbreak: 你带给我的只有心上的淤青 https://t.co/LblE6XJutk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1773,
+        "media_key": "3_1988558549098852352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jHdu4acAAE5Ui.jpg",
+        "width": 1773
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988558549098852352"
+          ],
+          "media_source_tweet_id": [
+            "1988558560700010531"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1988828630860927221",
+        "created_at": "2025-11-13T04:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T05:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988828630860927221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883157644711796736",
+              "start": 3,
+              "username": "TvTbreak"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LblE6XJutk",
+              "end": 50,
+              "expanded_url": "https://x.com/TvTbreak/status/1988558560700010531/photo/1",
+              "media_key": "3_1988558549098852352",
+              "start": 27,
+              "url": "https://t.co/LblE6XJutk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988828630860927221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988558560700010531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TvTbreak: 你带给我的只有心上的淤青 https://t.co/LblE6XJutk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988558549098852352"
+          ]
+        },
+        "author_id": "1883157644711796736",
+        "conversation_id": "1988558560700010531",
+        "created_at": "2025-11-12T10:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988558560700010531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LblE6XJutk",
+              "end": 36,
+              "expanded_url": "https://x.com/TvTbreak/status/1988558560700010531/photo/1",
+              "media_key": "3_1988558549098852352",
+              "start": 13,
+              "url": "https://t.co/LblE6XJutk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988558560700010531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12706,
+          "like_count": 360,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "你带给我的只有心上的淤青 https://t.co/LblE6XJutk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "1982380680886800563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983791116177801216/Rnsx8aV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 171,
+          "like_count": 1678,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 1520
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T14:19:15.000Z",
+        "description": "毕竟我这种萌物可是手慢无啊  自用蜂鸟VPN https://t.co/5o1eC7Z22W",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sachlife.com/#/register?cod…",
+                "end": 46,
+                "expanded_url": "https://www.sachlife.com/#/register?code=IHEpF9v1",
+                "start": 23,
+                "url": "https://t.co/5o1eC7Z22W"
+              }
+            ]
+          }
+        },
+        "id": "1883157644711796736",
+        "location": "请埋葬我所有的痛和悲",
+        "name": "死非絕命",
+        "pinned_tweet_id": "1974349235505279243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987689376470769664/b5JUjgSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5373,
+          "following_count": 143,
+          "like_count": 7763,
+          "listed_count": 19,
+          "media_count": 120,
+          "tweet_count": 3412
+        },
+        "username": "TvTbreak",
+        "verified": false
+      }
+    ]
+  }
+}

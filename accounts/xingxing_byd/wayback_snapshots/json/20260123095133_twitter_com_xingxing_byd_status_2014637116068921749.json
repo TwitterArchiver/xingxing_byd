@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014277912246026240",
+        "3_2014278331038859265"
+      ],
+      "media_source_tweet_id": [
+        "2014278349976379444",
+        "2014278349976379444"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "2014637116068921749",
+    "created_at": "2026-01-23T09:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T10:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014637116068921749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874844129840226305",
+          "start": 3,
+          "username": "Gulmira1017"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VgMUtj5le6",
+          "end": 45,
+          "expanded_url": "https://x.com/Gulmira1017/status/2014278349976379444/photo/1",
+          "media_key": "3_2014277912246026240",
+          "start": 22,
+          "url": "https://t.co/VgMUtj5le6"
+        },
+        {
+          "display_url": "pic.x.com/VgMUtj5le6",
+          "end": 45,
+          "expanded_url": "https://x.com/Gulmira1017/status/2014278349976379444/photo/1",
+          "media_key": "3_2014278331038859265",
+          "start": 22,
+          "url": "https://t.co/VgMUtj5le6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014637116068921749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014278349976379444",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gulmira1017: 爱我中华 https://t.co/VgMUtj5le6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "3_2014277912246026240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_QnFs5XAAAuFjF.jpg",
+        "width": 887
+      },
+      {
+        "height": 1797,
+        "media_key": "3_2014278331038859265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_QneFBWgAESWSd.jpg",
+        "width": 1348
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014277912246026240",
+            "3_2014278331038859265"
+          ],
+          "media_source_tweet_id": [
+            "2014278349976379444",
+            "2014278349976379444"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "2014637116068921749",
+        "created_at": "2026-01-23T09:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T10:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014637116068921749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874844129840226305",
+              "start": 3,
+              "username": "Gulmira1017"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VgMUtj5le6",
+              "end": 45,
+              "expanded_url": "https://x.com/Gulmira1017/status/2014278349976379444/photo/1",
+              "media_key": "3_2014277912246026240",
+              "start": 22,
+              "url": "https://t.co/VgMUtj5le6"
+            },
+            {
+              "display_url": "pic.x.com/VgMUtj5le6",
+              "end": 45,
+              "expanded_url": "https://x.com/Gulmira1017/status/2014278349976379444/photo/1",
+              "media_key": "3_2014278331038859265",
+              "start": 22,
+              "url": "https://t.co/VgMUtj5le6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014637116068921749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014278349976379444",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gulmira1017: 爱我中华 https://t.co/VgMUtj5le6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014277912246026240",
+            "3_2014278331038859265"
+          ]
+        },
+        "author_id": "1874844129840226305",
+        "conversation_id": "2014278349976379444",
+        "created_at": "2026-01-22T10:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T11:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014278349976379444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VgMUtj5le6",
+              "end": 28,
+              "expanded_url": "https://x.com/Gulmira1017/status/2014278349976379444/photo/1",
+              "media_key": "3_2014277912246026240",
+              "start": 5,
+              "url": "https://t.co/VgMUtj5le6"
+            },
+            {
+              "display_url": "pic.x.com/VgMUtj5le6",
+              "end": 28,
+              "expanded_url": "https://x.com/Gulmira1017/status/2014278349976379444/photo/1",
+              "media_key": "3_2014278331038859265",
+              "start": 5,
+              "url": "https://t.co/VgMUtj5le6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014278349976379444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8356,
+          "like_count": 234,
+          "quote_count": 3,
+          "reply_count": 48,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "爱我中华 https://t.co/VgMUtj5le6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012991233136754688/UQCWfzXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 183,
+          "like_count": 1534,
+          "listed_count": 0,
+          "media_count": 408,
+          "tweet_count": 1558
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T15:44:19.000Z",
+        "description": "A Uyghur beauty living in Xinjiang, China\nfollow me follow you,thank you all❤️",
+        "id": "1874844129840226305",
+        "location": "Xinjiang China",
+        "name": "Gulmira 🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874845122644623360/g65IeolG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12704,
+          "following_count": 3117,
+          "like_count": 2141,
+          "listed_count": 36,
+          "media_count": 391,
+          "tweet_count": 3323
+        },
+        "username": "Gulmira1017",
+        "verified": false
+      }
+    ]
+  }
+}

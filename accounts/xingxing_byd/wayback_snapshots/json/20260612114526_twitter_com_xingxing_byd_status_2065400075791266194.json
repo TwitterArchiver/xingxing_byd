@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2065400075791266194",
+    "created_at": "2026-06-12T11:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065400075791266194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LizhiQtian/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/LizhiQtian/status/2064986404069974406",
+          "start": 5,
+          "url": "https://t.co/9KFj6q6bWg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065400075791266194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064986404069974406",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老干妈🤫 https://t.co/9KFj6q6bWg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1740,
+        "media_key": "3_2064986387309326336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhOLbGW8AAOE0-.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2065400075791266194",
+        "created_at": "2026-06-12T11:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065400075791266194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LizhiQtian/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/LizhiQtian/status/2064986404069974406",
+              "start": 5,
+              "url": "https://t.co/9KFj6q6bWg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065400075791266194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064986404069974406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老干妈🤫 https://t.co/9KFj6q6bWg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064986387309326336"
+          ]
+        },
+        "author_id": "1699333846297456640",
+        "conversation_id": "2064986404069974406",
+        "created_at": "2026-06-11T08:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064986404069974406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xcrJ8EPQLu",
+              "end": 32,
+              "expanded_url": "https://x.com/LizhiQtian/status/2064986404069974406/photo/1",
+              "media_key": "3_2064986387309326336",
+              "start": 9,
+              "url": "https://t.co/xcrJ8EPQLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064986404069974406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 25371,
+          "like_count": 114,
+          "quote_count": 10,
+          "reply_count": 274,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "米饭配什么好吃？ https://t.co/xcrJ8EPQLu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053496659234185216/Qd9JXfn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 261,
+          "like_count": 1619,
+          "listed_count": 0,
+          "media_count": 454,
+          "tweet_count": 1929
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T08:09:08.000Z",
+        "description": "跨过星河迈过月亮去迎接更好的自己。\n互fo\nCross the stars over the moon to meet your betterself.\n(部分图片来源网站，如侵联删)",
+        "id": "1699333846297456640",
+        "name": "荔枝Q甜(互fo)",
+        "pinned_tweet_id": "2001097867822555270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699679567143968768/Six19y-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18121,
+          "following_count": 14530,
+          "like_count": 56124,
+          "listed_count": 27,
+          "media_count": 8622,
+          "tweet_count": 10946
+        },
+        "username": "LizhiQtian",
+        "verified": false
+      }
+    ]
+  }
+}

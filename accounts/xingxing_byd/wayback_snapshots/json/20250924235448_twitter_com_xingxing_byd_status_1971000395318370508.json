@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1970880473976172707",
+    "created_at": "2025-09-24T23:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T00:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971000395318370508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1768447580961398784",
+          "start": 0,
+          "username": "aloner_second"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971000395318370508",
+    "in_reply_to_user_id": "1768447580961398784",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970880866701410469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aloner_second 😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1076,
+        "media_key": "3_1970880863790362624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1n5tBTW8AAiQU6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1970880473976172707",
+        "created_at": "2025-09-24T23:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T00:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971000395318370508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768447580961398784",
+              "start": 0,
+              "username": "aloner_second"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971000395318370508",
+        "in_reply_to_user_id": "1768447580961398784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970880866701410469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aloner_second 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970880863790362624"
+          ]
+        },
+        "author_id": "1768447580961398784",
+        "conversation_id": "1970880473976172707",
+        "created_at": "2025-09-24T15:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970880866701410469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1776704652483891200",
+              "start": 0,
+              "username": "xingxing_byd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KMr8VvRi00",
+              "end": 55,
+              "expanded_url": "https://x.com/aloner_second/status/1970880866701410469/photo/1",
+              "media_key": "3_1970880863790362624",
+              "start": 32,
+              "url": "https://t.co/KMr8VvRi00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970880866701410469",
+        "in_reply_to_user_id": "1776704652483891200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970880473976172707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingxing_byd 不要再划了………不是刚跟你说过吗。 https://t.co/KMr8VvRi00"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|碎碎念|日常|美食|生活推|岁月静好ing|奇思妙想|积极生活",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1969253665107038227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 124,
+          "like_count": 1520,
+          "listed_count": 1,
+          "media_count": 354,
+          "tweet_count": 1408
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T01:22:21.000Z",
+        "description": "匿名提问箱https://t.co/5hBrDwUpLR\n想死的心止不住。但是懒得动弹所以还活着。抑郁障碍。\n有时候刚刚发泄玩然后就去互动是因为想转移一下注意力。不是装出来的。\n到处fo人是因为想互fo了，想认识更多朋友。\n取关请双取。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aloner_second/",
+                "end": 28,
+                "expanded_url": "https://ngl.link/aloner_second/",
+                "start": 5,
+                "url": "https://t.co/5hBrDwUpLR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aloner_second",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aloner_second",
+                "start": 0,
+                "url": "https://t.co/RsRpqym80k"
+              }
+            ]
+          }
+        },
+        "id": "1768447580961398784",
+        "name": "贰号唱片",
+        "pinned_tweet_id": "1927170107253391680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924397863477370880/qktz4hTw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 359,
+          "like_count": 6155,
+          "listed_count": 1,
+          "media_count": 1127,
+          "tweet_count": 3662
+        },
+        "url": "https://t.co/RsRpqym80k",
+        "username": "aloner_second",
+        "verified": false
+      }
+    ]
+  }
+}

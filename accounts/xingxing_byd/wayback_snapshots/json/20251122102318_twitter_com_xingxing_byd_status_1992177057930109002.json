@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1992155115059646560",
+    "created_at": "2025-11-22T10:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T11:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992177057930109002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992177057930109002",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992155115059646560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 希望你以后越来越好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1992155115059646560",
+        "created_at": "2025-11-22T10:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992177057930109002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992177057930109002",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992155115059646560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 希望你以后越来越好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705777407794352129",
+        "conversation_id": "1992155115059646560",
+        "created_at": "2025-11-22T08:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T09:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992155115059646560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moriyomiko/sta…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/moriyomiko/status/1992065409416384791",
+              "start": 151,
+              "url": "https://t.co/3nKiHdezii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992155115059646560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 403,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992065409416384791",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "加拿大不是一个绝对坏的国家\n\n我在加拿大这些年，经历了背叛，白兔叶子蘑菇lsd药物滥用，然后又彻底戒掉它们\n\n自杀昏迷急救被逮捕乱七八糟的事情_(:з」∠)_\n\n当回到我的故乡北京，我更珍惜父母和我的男友，以及我的生活\n\n会有勇气面对问题\n因为和我加拿大的经历相比都不算什么\n\n还可以完全听懂印式英文 https://t.co/3nKiHdezii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "1982380680886800563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983791116177801216/Rnsx8aV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 186,
+          "like_count": 1711,
+          "listed_count": 0,
+          "media_count": 402,
+          "tweet_count": 1534
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "癲貓精靈 笨貓不靈 (｡-_-｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "☃️La saison infinie de neige❄️",
+        "name": "🙀大笨貓𝕮𝖆𝖓𝖉𝖑𝖊🎃🍂",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988162210930327553/vrX8HPzD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33046,
+          "following_count": 345,
+          "like_count": 226010,
+          "listed_count": 104,
+          "media_count": 8384,
+          "tweet_count": 55036
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

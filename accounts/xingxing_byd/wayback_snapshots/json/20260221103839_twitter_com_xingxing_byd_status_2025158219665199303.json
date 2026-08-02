@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2024513101580960076",
+    "created_at": "2026-02-21T10:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T11:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025158219665199303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2018652390891880448",
+          "start": 0,
+          "username": "futi999139732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025158219665199303",
+    "in_reply_to_user_id": "2018652390891880448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024513101580960076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@futi999139732 我试试吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2024513101580960076",
+        "created_at": "2026-02-21T10:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T11:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025158219665199303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2018652390891880448",
+              "start": 0,
+              "username": "futi999139732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025158219665199303",
+        "in_reply_to_user_id": "2018652390891880448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024513101580960076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@futi999139732 我试试吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2024513101580960076",
+        "created_at": "2026-02-19T15:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024513101580960076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024513101580960076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3427,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我是扶梯 这是第三世！\n欢迎互fo 接纳任何人\noder 清水推 \n重度抑郁➕季节性双相➕人格解体\n喜欢追求智慧的人 真诚的人\n脸熟我的请帮我转帖\n感恩有你的陪伴与支持\n就让我最后一次为你而存在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2025101983989043315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 198,
+          "like_count": 1534,
+          "listed_count": 0,
+          "media_count": 417,
+          "tweet_count": 1580
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 前世@futi78999 热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "futi78999"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018652507795542016/ddB5EpLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 393,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 88
+        },
+        "username": "futi999139732",
+        "verified": false
+      }
+    ]
+  }
+}

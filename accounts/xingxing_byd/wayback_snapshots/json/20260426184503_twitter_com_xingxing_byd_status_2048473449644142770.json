@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2048049100801859916",
+    "created_at": "2026-04-26T18:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T19:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048473449644142770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2032054522584199168",
+          "start": 0,
+          "username": "AngelaGamb29180"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048473449644142770",
+    "in_reply_to_user_id": "2032054522584199168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048435155811909655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngelaGamb29180 不要被骗😵‍💫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2048049100801859916",
+        "created_at": "2026-04-26T18:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T19:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048473449644142770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2032054522584199168",
+              "start": 0,
+              "username": "AngelaGamb29180"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048473449644142770",
+        "in_reply_to_user_id": "2032054522584199168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048435155811909655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelaGamb29180 不要被骗😵‍💫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032054522584199168",
+        "conversation_id": "2048049100801859916",
+        "created_at": "2026-04-26T16:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048435155811909655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1776704652483891200",
+              "start": 0,
+              "username": "xingxing_byd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048435155811909655",
+        "in_reply_to_user_id": "1776704652483891200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048049100801859916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingxing_byd 焦‌作呀 👌͏‌💚💕‌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046552171949518848/D-UP0xlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 247,
+          "like_count": 1589,
+          "listed_count": 0,
+          "media_count": 451,
+          "tweet_count": 1820
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T11:22:18.000Z",
+        "description": "💕个人兼职💕00后丄门服务💕诚信靠谱💕口嗨勿扰 🈷️丄门服务💕安全靠谱。飞机/电报：https://t.co/iivkeIWtQP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/linlin801",
+                "end": 65,
+                "expanded_url": "http://t.me/linlin801",
+                "start": 42,
+                "url": "https://t.co/iivkeIWtQP"
+              }
+            ]
+          }
+        },
+        "id": "2032054522584199168",
+        "location": "1.9km",
+        "name": "晨菲~❀同城上门",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048435164242673664/UqKZ4o8e_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 100
+        },
+        "username": "AngelaGamb29180",
+        "verified": false
+      }
+    ]
+  }
+}

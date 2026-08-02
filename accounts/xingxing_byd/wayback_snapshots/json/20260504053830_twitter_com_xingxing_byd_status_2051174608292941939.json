@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2051174608292941939",
+    "created_at": "2026-05-04T05:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T06:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051174608292941939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028205953380945920",
+          "start": 3,
+          "username": "psyopal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051174608292941939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039563603146420687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @psyopal: 这里是Opal小精灵，神必物质狂热爱好者。因为太无人在意所以来抽奖啦。\n\n关注➕评论➕转发参与抽奖。\n为保证公平公正会让Grok抽取。\n\n奖池：🌵x3，飞鸟x3，小咪x2，上升x2，今夜不再x2，DPTx200mg。（成分与效果在本人推特和频道可以找到…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2051174608292941939",
+        "created_at": "2026-05-04T05:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T06:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051174608292941939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028205953380945920",
+              "start": 3,
+              "username": "psyopal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051174608292941939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039563603146420687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @psyopal: 这里是Opal小精灵，神必物质狂热爱好者。因为太无人在意所以来抽奖啦。\n\n关注➕评论➕转发参与抽奖。\n为保证公平公正会让Grok抽取。\n\n奖池：🌵x3，飞鸟x3，小咪x2，上升x2，今夜不再x2，DPTx200mg。（成分与效果在本人推特和频道可以找到…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028205953380945920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2039563603146420687",
+        "created_at": "2026-04-02T04:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039563603146420687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039563603146420687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 31267,
+          "like_count": 116,
+          "quote_count": 7,
+          "reply_count": 140,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "这里是Opal小精灵，神必物质狂热爱好者。因为太无人在意所以来抽奖啦。\n\n关注➕评论➕转发参与抽奖。\n为保证公平公正会让Grok抽取。\n\n奖池：🌵x3，飞鸟x3，小咪x2，上升x2，今夜不再x2，DPTx200mg。（成分与效果在本人推特和频道可以找到）\n\n最后让我们看看是哪十三个幸运孩子获得夏日圣诞节礼物吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046552171949518848/D-UP0xlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 262,
+          "like_count": 1603,
+          "listed_count": 0,
+          "media_count": 451,
+          "tweet_count": 1850
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T20:29:23.000Z",
+        "description": "Moonshotlab复活介绍点https://t.co/RIbaVNCNdD\n飞机同ID，神必物质欢迎观看\n同类超级大友好，提问箱接受相关咨询，专业合法合规",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/auaquq",
+                "end": 39,
+                "expanded_url": "https://t.me/auaquq",
+                "start": 16,
+                "url": "https://t.co/RIbaVNCNdD"
+              }
+            ]
+          }
+        },
+        "id": "2028205953380945920",
+        "location": "提问箱https://ngl.link/psyopal",
+        "name": "psyopal",
+        "pinned_tweet_id": "2042673385277465010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038830668533334016/ktouiTat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 349,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 245
+        },
+        "username": "psyopal",
+        "verified": false
+      }
+    ]
+  }
+}

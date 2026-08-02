@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2047344179114873313",
+    "created_at": "2026-04-23T15:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047344179114873313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yamamotokorosh…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/yamamotokoroshi/status/2047289899322351833",
+          "start": 13,
+          "url": "https://t.co/708a3WWxTt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047344179114873313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047289899322351833",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好好活着吧，趁还能走出来 https://t.co/708a3WWxTt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047289876379516928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlvS6nawAAIJO9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047289876379566080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlvS6nbgAAEvMH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2047344179114873313",
+        "created_at": "2026-04-23T15:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047344179114873313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yamamotokorosh…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/yamamotokoroshi/status/2047289899322351833",
+              "start": 13,
+              "url": "https://t.co/708a3WWxTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047344179114873313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047289899322351833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好好活着吧，趁还能走出来 https://t.co/708a3WWxTt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047289876379516928",
+            "3_2047289876379566080"
+          ]
+        },
+        "author_id": "2047273781098639360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047289899322351833",
+        "created_at": "2026-04-23T12:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047289899322351833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5874CVY86",
+              "end": 97,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2047289899322351833/photo/1",
+              "media_key": "3_2047289876379516928",
+              "start": 74,
+              "url": "https://t.co/C5874CVY86"
+            },
+            {
+              "display_url": "pic.x.com/C5874CVY86",
+              "end": 97,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2047289899322351833/photo/1",
+              "media_key": "3_2047289876379566080",
+              "start": 74,
+              "url": "https://t.co/C5874CVY86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047289899322351833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我好像迷上了ym，为什么我迷上了之后它就死了，我原谅不了它恶心的味道，但我无法忘记，绚烂的烟花，闭眼看世界，世界颠倒，第三人称飞翔的内幻... https://t.co/C5874CVY86"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046552171949518848/D-UP0xlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 241,
+          "like_count": 1576,
+          "listed_count": 0,
+          "media_count": 449,
+          "tweet_count": 1785
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "@cVPrL20wIa42392二世）白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中🥰/随缘互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "cVPrL20wIa42392"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 55,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      }
+    ]
+  }
+}

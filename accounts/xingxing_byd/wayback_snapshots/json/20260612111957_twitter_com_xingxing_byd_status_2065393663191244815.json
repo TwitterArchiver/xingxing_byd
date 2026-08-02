@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2065352930623103455",
+    "created_at": "2026-06-12T11:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065393663191244815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1560129932524544000",
+          "start": 0,
+          "username": "xijiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065393663191244815",
+    "in_reply_to_user_id": "1560129932524544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065352930623103455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijiu_ 跟我一天开了一样的药💊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065352919512502272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmbiZ9b0AAnHuf.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065352919487311872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmbiZ3bcAAAOKg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2065352930623103455",
+        "created_at": "2026-06-12T11:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065393663191244815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560129932524544000",
+              "start": 0,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065393663191244815",
+        "in_reply_to_user_id": "1560129932524544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065352930623103455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijiu_ 跟我一天开了一样的药💊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065352919512502272",
+            "3_2065352919487311872"
+          ]
+        },
+        "author_id": "1560129932524544000",
+        "conversation_id": "2065352930623103455",
+        "created_at": "2026-06-12T08:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065352930623103455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oKUJYFO6fA",
+              "end": 42,
+              "expanded_url": "https://x.com/xijiu_/status/2065352930623103455/photo/1",
+              "media_key": "3_2065352919512502272",
+              "start": 19,
+              "url": "https://t.co/oKUJYFO6fA"
+            },
+            {
+              "display_url": "pic.x.com/oKUJYFO6fA",
+              "end": 42,
+              "expanded_url": "https://x.com/xijiu_/status/2065352930623103455/photo/1",
+              "media_key": "3_2065352919487311872",
+              "start": 19,
+              "url": "https://t.co/oKUJYFO6fA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065352930623103455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 407,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又开了新药\n原来思诺思那么小呀….. https://t.co/oKUJYFO6fA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053496659234185216/Qd9JXfn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 264,
+          "like_count": 1613,
+          "listed_count": 0,
+          "media_count": 453,
+          "tweet_count": 1916
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "🏳️‍⚧️|生命久如暗室，不妨碍我明写春诗|I’m Nicy , a freshman majoring in chemistry from China.| The Jesus loves us equally.",
+        "id": "1560129932524544000",
+        "location": "被有机实验室炸飞的电化学实验室",
+        "name": "希玖.",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3609,
+          "following_count": 855,
+          "like_count": 200450,
+          "listed_count": 3,
+          "media_count": 660,
+          "tweet_count": 9534
+        },
+        "username": "xijiu_",
+        "verified": false
+      }
+    ]
+  }
+}

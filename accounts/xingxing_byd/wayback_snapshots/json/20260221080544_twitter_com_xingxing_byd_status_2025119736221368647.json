@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025119733260197888"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2025119736221368647",
+    "created_at": "2026-02-21T08:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T09:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025119736221368647"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mRI9GXQ9Pr",
+          "end": 32,
+          "expanded_url": "https://x.com/xingxing_byd/status/2025119736221368647/photo/1",
+          "media_key": "3_2025119733260197888",
+          "start": 9,
+          "url": "https://t.co/mRI9GXQ9Pr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025119736221368647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "活着\n吃垃圾食品 https://t.co/mRI9GXQ9Pr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2025119733260197888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqrqviboAAnzUN.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025119733260197888"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2025119736221368647",
+        "created_at": "2026-02-21T08:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T09:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025119736221368647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mRI9GXQ9Pr",
+              "end": 32,
+              "expanded_url": "https://x.com/xingxing_byd/status/2025119736221368647/photo/1",
+              "media_key": "3_2025119733260197888",
+              "start": 9,
+              "url": "https://t.co/mRI9GXQ9Pr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025119736221368647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "活着\n吃垃圾食品 https://t.co/mRI9GXQ9Pr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2025101983989043315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 195,
+          "like_count": 1533,
+          "listed_count": 0,
+          "media_count": 415,
+          "tweet_count": 1570
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

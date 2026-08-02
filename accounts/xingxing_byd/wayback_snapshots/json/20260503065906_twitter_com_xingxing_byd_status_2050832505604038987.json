@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2050832505604038987",
+    "created_at": "2026-05-03T06:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T07:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050832505604038987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "839543419072499712",
+          "start": 3,
+          "username": "xYsfknBXPT6M0jo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050832505604038987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050483867325485217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xYsfknBXPT6M0jo: FDA 在 2020 年试图禁止这种补充剂。\n\n大型制药公司花费数百万美元进行游说，以将其从货架上撤下。\n\nNAC 是你健康的作弊码，并且在医院中使用已超过 50 年。\n\n以下是他们不想让你知道的事情：\n\nNAC 是 N-乙酰半胱氨酸的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 794,
+        "media_key": "3_2050483860350369792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTINQHbAAArGQz.jpg",
+        "width": 390
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2050832505604038987",
+        "created_at": "2026-05-03T06:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T07:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050832505604038987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "839543419072499712",
+              "start": 3,
+              "username": "xYsfknBXPT6M0jo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050832505604038987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050483867325485217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xYsfknBXPT6M0jo: FDA 在 2020 年试图禁止这种补充剂。\n\n大型制药公司花费数百万美元进行游说，以将其从货架上撤下。\n\nNAC 是你健康的作弊码，并且在医院中使用已超过 50 年。\n\n以下是他们不想让你知道的事情：\n\nNAC 是 N-乙酰半胱氨酸的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050483860350369792"
+          ]
+        },
+        "author_id": "839543419072499712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2050483867325485217",
+        "created_at": "2026-05-02T07:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050483867325485217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQz5e9QSo8",
+              "end": 172,
+              "expanded_url": "https://x.com/xYsfknBXPT6M0jo/status/2050483867325485217/photo/1",
+              "media_key": "3_2050483860350369792",
+              "start": 149,
+              "url": "https://t.co/hQz5e9QSo8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050483867325485217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "FDA 在 2020 年试图禁止这种补充剂。\n\n大型制药公司花费数百万美元进行游说，以将其从货架上撤下。\n\nNAC 是你健康的作弊码，并且在医院中使用已超过 50 年。\n\n以下是他们不想让你知道的事情：\n\nNAC 是 N-乙酰半胱氨酸的缩写。\n\n它是谷胱甘肽的前体，后者是你体内最强大的抗氧化剂。\n\n你的肝脏利用谷胱甘肽来中和毒素、对抗氧化应激，并促进健康细胞的生成。\n\n它有助于减缓衰老、疾病和炎症。\n\n那么，为什么 FDA 试图禁止它呢？\n\n2020 年，他们裁定，由于 NAC 首先被用作药物，它不能作为补充剂销售。\n\n现实情况？一种成本仅 20 美元的天然化合物正在威胁更昂贵的处方药……\n跟着钱走。\n\n以下是 NAC 在您体内的作用：\n\n- 补充谷胱甘肽（主要的抗氧化剂）\n- 分解肺部黏液\n- 支持肝脏解毒\n- 减少氧化应激和炎症\n- 有助于调节多巴胺和谷氨酸\n\n1) 护肝\n\n对泰诺过量服用和其他毒性问题的首选治疗方法。\n\n它可预防酒精、加工食品和环境毒素引起的急性和慢性肝衰竭。\n\n在当今世界比以往任何时候都更加重要。\n\n2) 呼吸系统健康\n\nNAC 能稀释粘液并减少气道炎症。\n\n这有助于治疗慢性支气管炎、COPD 和反复发作的呼吸道感染。它在 2020 年大火，因为它非常有效，尽管昂贵的药物被大力推广作为一线治疗。\n\n3) 心理健康和大脑功能\n\nNAC 调节谷氨酸，这是大脑的主要兴奋性神经递质。\n\n在一个过度刺激的世界中，这有助于缓解焦虑、抑郁和年龄相关的衰退。\n\n不是灵丹妙药，而是一个不错的工具箱里的工具。\n\n4) 胰岛素抵抗与代谢健康\n\n氧化应激是胰岛素抵抗的主要驱动因素，而NAC直接降低氧化应激。\n\n研究显示，它能降低A1c和空腹血糖，但每瓶20美元的价格，不太可能被推荐胜过处方药物选项。\n\n服用方法：\n\n剂量：每天 600 毫克至 1,200 毫克是常用的研究范围。\n\n大多数人从每晚 600 毫克开始，逐渐增加到每天两次 600 毫克。\n\n需要注意的事项：\n\nNAC 耐受性良好，但始终从小剂量开始。\n\n恶心是最常见的副作用。\n\n在较高剂量时，它具有血液稀释作用，因此未经监督不要与其他抗凝血剂联合使用，并且在怀孕或哺乳期间不要使用。\n\n你生活在一个充斥着加工食品、环境毒素、慢性压力和酒精的世界。\n\nNAC 作为一种每瓶 20 美元的非处方补充剂，直接有助于解决所有这些问题。\n\n难怪他们试图禁止它。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 10380,
+          "like_count": 168,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "FDA 在 2020 年试图禁止这种补充剂。\n\n大型制药公司花费数百万美元进行游说，以将其从货架上撤下。\n\nNAC 是你健康的作弊码，并且在医院中使用已超过 50 年。\n\n以下是他们不想让你知道的事情：\n\nNAC 是 N-乙酰半胱氨酸的缩写。\n\n它是谷胱甘肽的前体，后者是你体内最强大的抗氧化剂。 https://t.co/hQz5e9QSo8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046552171949518848/D-UP0xlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 257,
+          "like_count": 1597,
+          "listed_count": 0,
+          "media_count": 451,
+          "tweet_count": 1842
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-08T18:28:43.000Z",
+        "description": "我自悠悠立清格",
+        "id": "839543419072499712",
+        "location": "East Region, Singapore",
+        "name": "宇峒",
+        "pinned_tweet_id": "1618857040704864256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690945607844900864/NXyXyBYn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39034,
+          "following_count": 5897,
+          "like_count": 67164,
+          "listed_count": 143,
+          "media_count": 6733,
+          "tweet_count": 48997
+        },
+        "username": "xYsfknBXPT6M0jo",
+        "verified": true
+      }
+    ]
+  }
+}

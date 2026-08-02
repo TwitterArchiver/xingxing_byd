@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2051811328122368041",
+    "created_at": "2026-05-05T23:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T00:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051811328122368041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "467659726",
+          "start": 3,
+          "username": "WorstCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051811328122368041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051762849354244310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WorstCat: 多不要脸的企业把0.2一片的罗通定卖到5块钱一片，还吹无后遗症呢，锥体外系、严重的戒断反应、严重的呼吸抑制不算是吗？这个药缓解痛经也不如可乐定好用，淘汰很久了\n💊罗通定(左旋延胡索乙素)，中药延胡索的生物碱，压多巴胺D1D2的，很容易锥体外系和严重的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2051762846531522560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlTcC7bEAA0T3v.jpg",
+        "width": 800
+      },
+      {
+        "height": 693,
+        "media_key": "3_2051762846711898112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlTcDmbYAALYvo.jpg",
+        "width": 693
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2051811328122368041",
+        "created_at": "2026-05-05T23:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T00:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051811328122368041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "467659726",
+              "start": 3,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051811328122368041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051762849354244310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WorstCat: 多不要脸的企业把0.2一片的罗通定卖到5块钱一片，还吹无后遗症呢，锥体外系、严重的戒断反应、严重的呼吸抑制不算是吗？这个药缓解痛经也不如可乐定好用，淘汰很久了\n💊罗通定(左旋延胡索乙素)，中药延胡索的生物碱，压多巴胺D1D2的，很容易锥体外系和严重的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051762846531522560",
+            "3_2051762846711898112"
+          ]
+        },
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051762849354244310",
+        "created_at": "2026-05-05T20:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T21:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051762849354244310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3qdhWbExrw",
+              "end": 168,
+              "expanded_url": "https://x.com/WorstCat/status/2051762849354244310/photo/1",
+              "media_key": "3_2051762846531522560",
+              "start": 145,
+              "url": "https://t.co/3qdhWbExrw"
+            },
+            {
+              "display_url": "pic.x.com/3qdhWbExrw",
+              "end": 168,
+              "expanded_url": "https://x.com/WorstCat/status/2051762849354244310/photo/1",
+              "media_key": "3_2051762846711898112",
+              "start": 145,
+              "url": "https://t.co/3qdhWbExrw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051762849354244310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "多不要脸的企业把0.2一片的罗通定卖到5块钱一片，还吹无后遗症呢，锥体外系、严重的戒断反应、严重的呼吸抑制不算是吗？这个药缓解痛经也不如可乐定好用，淘汰很久了\n💊罗通定(左旋延胡索乙素)，中药延胡索的生物碱，压多巴胺D1D2的，很容易锥体外系和严重的戒断反应的，千万别吃，还不如喹硫平呢👿 https://t.co/3qdhWbExrw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046552171949518848/D-UP0xlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 270,
+          "like_count": 1608,
+          "listed_count": 0,
+          "media_count": 453,
+          "tweet_count": 1874
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2788,
+          "following_count": 9,
+          "like_count": 4470,
+          "listed_count": 4,
+          "media_count": 206,
+          "tweet_count": 927
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

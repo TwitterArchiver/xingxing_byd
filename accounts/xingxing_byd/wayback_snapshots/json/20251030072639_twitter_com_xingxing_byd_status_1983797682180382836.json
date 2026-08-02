@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983797679475113984"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1983797682180382836",
+    "created_at": "2025-10-30T07:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T08:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983797682180382836"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zl1J2qFaKL",
+          "end": 33,
+          "expanded_url": "https://x.com/xingxing_byd/status/1983797682180382836/photo/1",
+          "media_key": "3_1983797679475113984",
+          "start": 10,
+          "url": "https://t.co/Zl1J2qFaKL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983797682180382836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢小米算什么？😪 https://t.co/Zl1J2qFaKL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983797679475113984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4fdepdbwAAqpQU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983797679475113984"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1983797682180382836",
+        "created_at": "2025-10-30T07:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T08:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983797682180382836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zl1J2qFaKL",
+              "end": 33,
+              "expanded_url": "https://x.com/xingxing_byd/status/1983797682180382836/photo/1",
+              "media_key": "3_1983797679475113984",
+              "start": 10,
+              "url": "https://t.co/Zl1J2qFaKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983797682180382836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢小米算什么？😪 https://t.co/Zl1J2qFaKL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜极偶尔自残不od｜更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "1982380680886800563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983791116177801216/Rnsx8aV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 145,
+          "like_count": 1637,
+          "listed_count": 0,
+          "media_count": 384,
+          "tweet_count": 1491
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

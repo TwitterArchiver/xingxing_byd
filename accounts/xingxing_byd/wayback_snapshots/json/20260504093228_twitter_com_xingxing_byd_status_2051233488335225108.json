@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2051233488335225108",
+    "created_at": "2026-05-04T09:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T10:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051233488335225108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2044073101961412609",
+          "start": 3,
+          "username": "crow_kill_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051233488335225108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051231967375667229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crow_kill_snow: 根据目前已知的反馈，雪尘的耐受建立速度非常快且耐受高度很高，例如你连续吃了两天，第三天药效可能开始下降，第四天效果剧烈下降，第五天就没有任何药效了（好像抗焦虑欣快等不受这个影响，只针对解离效果），所以大家千万要注意这一点，两次使用间隔时间…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2051233488335225108",
+        "created_at": "2026-05-04T09:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051233488335225108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2044073101961412609",
+              "start": 3,
+              "username": "crow_kill_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051233488335225108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051231967375667229",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crow_kill_snow: 根据目前已知的反馈，雪尘的耐受建立速度非常快且耐受高度很高，例如你连续吃了两天，第三天药效可能开始下降，第四天效果剧烈下降，第五天就没有任何药效了（好像抗焦虑欣快等不受这个影响，只针对解离效果），所以大家千万要注意这一点，两次使用间隔时间…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044073101961412609",
+        "conversation_id": "2051231967375667229",
+        "created_at": "2026-05-04T09:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051231967375667229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051231967375667229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "根据目前已知的反馈，雪尘的耐受建立速度非常快且耐受高度很高，例如你连续吃了两天，第三天药效可能开始下降，第四天效果剧烈下降，第五天就没有任何药效了（好像抗焦虑欣快等不受这个影响，只针对解离效果），所以大家千万要注意这一点，两次使用间隔时间最少半周最好一周，祝大家玩的开心呢🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046552171949518848/D-UP0xlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 261,
+          "like_count": 1605,
+          "listed_count": 0,
+          "media_count": 451,
+          "tweet_count": 1855
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T15:25:24.000Z",
+        "description": "你的名字是一枚雪\n落在无人认领的墓碑上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Peckylarding",
+                "end": 23,
+                "expanded_url": "http://t.me/Peckylarding",
+                "start": 0,
+                "url": "https://t.co/D0VrWOdaPF"
+              }
+            ]
+          }
+        },
+        "id": "2044073101961412609",
+        "name": "鸦葬雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044288804094390274/S4DRM1oY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 181,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/D0VrWOdaPF",
+        "username": "crow_kill_snow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,800 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030470600519798784"
+      ],
+      "media_source_tweet_id": [
+        "2030470669474095611"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1093271119849635840",
+          "name": "Honkai series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1093271119849635840",
+          "name": "Honkai series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2030560943097430197",
+    "created_at": "2026-03-08T08:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T09:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030560943097430197"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "流萤"
+        },
+        {
+          "end": 26,
+          "start": 18,
+          "tag": "Firefly"
+        },
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "ホタル"
+        },
+        {
+          "end": 47,
+          "start": 32,
+          "tag": "HonkaiStarRail"
+        },
+        {
+          "end": 58,
+          "start": 49,
+          "tag": "崩壊スターレイル"
+        },
+        {
+          "end": 66,
+          "start": 59,
+          "tag": "AIイラスト"
+        },
+        {
+          "end": 73,
+          "start": 67,
+          "tag": "AIart"
+        },
+        {
+          "end": 84,
+          "start": 74,
+          "tag": "seedance2"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1601519778346438656",
+          "start": 3,
+          "username": "max80072"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qknmXmAnoA",
+          "end": 108,
+          "expanded_url": "https://x.com/max80072/status/2030470669474095611/video/1",
+          "media_key": "13_2030470600519798784",
+          "start": 85,
+          "url": "https://t.co/qknmXmAnoA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030560943097430197",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2135
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030470669474095611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @max80072: #流萤 #Firefly #ホタル #HonkaiStarRail📷 #崩壊スターレイル #AIイラスト #AIart #seedance2 https://t.co/qknmXmAnoA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15069,
+        "height": 1112,
+        "media_key": "13_2030470600519798784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030470600519798784/img/EtMKTnmuamJAWoQz.jpg",
+        "public_metrics": {
+          "view_count": 718872
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030470600519798784/vid/avc1/720x958/7Av3P0pRsm9UpUUS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030470600519798784/vid/avc1/480x640/ueJXqoUJdml9Bzrq.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030470600519798784/vid/avc1/834x1112/htYU6BTCPmxcVCX9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030470600519798784/pl/TFVeGtZo5sI-PZop.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030470600519798784/vid/avc1/320x426/gvGrnRAFMBqmxzMh.mp4"
+          }
+        ],
+        "width": 834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030470600519798784"
+          ],
+          "media_source_tweet_id": [
+            "2030470669474095611"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2030560943097430197",
+        "created_at": "2026-03-08T08:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T09:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030560943097430197"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "流萤"
+            },
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "Firefly"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "ホタル"
+            },
+            {
+              "end": 47,
+              "start": 32,
+              "tag": "HonkaiStarRail"
+            },
+            {
+              "end": 58,
+              "start": 49,
+              "tag": "崩壊スターレイル"
+            },
+            {
+              "end": 66,
+              "start": 59,
+              "tag": "AIイラスト"
+            },
+            {
+              "end": 73,
+              "start": 67,
+              "tag": "AIart"
+            },
+            {
+              "end": 84,
+              "start": 74,
+              "tag": "seedance2"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1601519778346438656",
+              "start": 3,
+              "username": "max80072"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qknmXmAnoA",
+              "end": 108,
+              "expanded_url": "https://x.com/max80072/status/2030470669474095611/video/1",
+              "media_key": "13_2030470600519798784",
+              "start": 85,
+              "url": "https://t.co/qknmXmAnoA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030560943097430197",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2135
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030470669474095611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @max80072: #流萤 #Firefly #ホタル #HonkaiStarRail📷 #崩壊スターレイル #AIイラスト #AIart #seedance2 https://t.co/qknmXmAnoA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030470600519798784"
+          ]
+        },
+        "author_id": "1601519778346438656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2030470669474095611",
+        "created_at": "2026-03-08T02:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T03:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030470669474095611"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "流萤"
+            },
+            {
+              "end": 12,
+              "start": 4,
+              "tag": "Firefly"
+            },
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "ホタル"
+            },
+            {
+              "end": 33,
+              "start": 18,
+              "tag": "HonkaiStarRail"
+            },
+            {
+              "end": 44,
+              "start": 35,
+              "tag": "崩壊スターレイル"
+            },
+            {
+              "end": 52,
+              "start": 45,
+              "tag": "AIイラスト"
+            },
+            {
+              "end": 59,
+              "start": 53,
+              "tag": "AIart"
+            },
+            {
+              "end": 70,
+              "start": 60,
+              "tag": "seedance2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qknmXmAnoA",
+              "end": 94,
+              "expanded_url": "https://x.com/max80072/status/2030470669474095611/video/1",
+              "media_key": "13_2030470600519798784",
+              "start": 71,
+              "url": "https://t.co/qknmXmAnoA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030470669474095611",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6503,
+          "impression_count": 1349691,
+          "like_count": 28828,
+          "quote_count": 83,
+          "reply_count": 76,
+          "retweet_count": 2135
+        },
+        "reply_settings": "everyone",
+        "text": "#流萤 #Firefly #ホタル #HonkaiStarRail📷 #崩壊スターレイル #AIイラスト #AIart #seedance2 https://t.co/qknmXmAnoA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2025101983989043315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 204,
+          "like_count": 1553,
+          "listed_count": 0,
+          "media_count": 424,
+          "tweet_count": 1624
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T10:11:31.000Z",
+        "description": "喜歡的話請幫忙多轉發，感謝。\n電子製造業工程師工作非常忙，評論都會看，比較少回應。\nNO NFT.\n商用(X)\n自用，轉載附來源(O)\n(AI出底稿+CSP塗改)。\nB站https://t.co/9W1Cif5Yoa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/391634082/",
+                "end": 108,
+                "expanded_url": "https://space.bilibili.com/391634082/",
+                "start": 85,
+                "url": "https://t.co/9W1Cif5Yoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "max80072.com",
+                "end": 23,
+                "expanded_url": "https://max80072.com/",
+                "start": 0,
+                "url": "https://t.co/nZuIqZ2CnO"
+              }
+            ]
+          }
+        },
+        "id": "1601519778346438656",
+        "location": "台灣",
+        "name": "小熊貓@AIart",
+        "pinned_tweet_id": "2007783704949866617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870845106691227648/FEFVn5IP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53716,
+          "following_count": 517,
+          "like_count": 542,
+          "listed_count": 141,
+          "media_count": 3096,
+          "tweet_count": 3271
+        },
+        "url": "https://t.co/nZuIqZ2CnO",
+        "username": "max80072",
+        "verified": true
+      }
+    ]
+  }
+}

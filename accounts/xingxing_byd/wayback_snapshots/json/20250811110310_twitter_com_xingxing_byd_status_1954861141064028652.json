@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1948726234999128102",
+    "created_at": "2025-08-11T11:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T12:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954861141064028652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1298038130063208449",
+          "start": 0,
+          "username": "yayadezahuopu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954861141064028652",
+    "in_reply_to_user_id": "1298038130063208449",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948726234999128102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yayadezahuopu_ 好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 759,
+        "media_key": "3_1948726185170796544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwtEI_-bgAAKUli.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1948726185124659205",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwtEI_zbgAUMlQK.jpg",
+        "width": 1811
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1948726185116270592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwtEI_xbgAAUojY.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1948726234999128102",
+        "created_at": "2025-08-11T11:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T12:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954861141064028652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1298038130063208449",
+              "start": 0,
+              "username": "yayadezahuopu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954861141064028652",
+        "in_reply_to_user_id": "1298038130063208449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948726234999128102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yayadezahuopu_ 好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948726185170796544",
+            "3_1948726185124659205",
+            "3_1948726185116270592"
+          ]
+        },
+        "author_id": "1298038130063208449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1948726234999128102",
+        "created_at": "2025-07-25T12:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T13:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948726234999128102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3oXxlghkkn",
+              "end": 153,
+              "expanded_url": "https://x.com/yayadezahuopu_/status/1948726234999128102/photo/1",
+              "media_key": "3_1948726185170796544",
+              "start": 130,
+              "url": "https://t.co/3oXxlghkkn"
+            },
+            {
+              "display_url": "pic.x.com/3oXxlghkkn",
+              "end": 153,
+              "expanded_url": "https://x.com/yayadezahuopu_/status/1948726234999128102/photo/1",
+              "media_key": "3_1948726185124659205",
+              "start": 130,
+              "url": "https://t.co/3oXxlghkkn"
+            },
+            {
+              "display_url": "pic.x.com/3oXxlghkkn",
+              "end": 153,
+              "expanded_url": "https://x.com/yayadezahuopu_/status/1948726234999128102/photo/1",
+              "media_key": "3_1948726185116270592",
+              "start": 130,
+              "url": "https://t.co/3oXxlghkkn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948726234999128102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 100082,
+          "like_count": 208,
+          "quote_count": 24,
+          "reply_count": 503,
+          "retweet_count": 442
+        },
+        "reply_settings": "everyone",
+        "text": "转发➕评论\n抽一个188🧧或店内玩具任选一个\n店里都是全新官方正品，授权请看图\n要看其他品牌授权可以找我要\n（从21年开始卖就有授权）\n都是从官方拿货，便宜点卖\n一爱情侣，在简介有说明\n承诺：有比我便宜的，就给大家改价格。\n说我卖二手\n造谣一张嘴，辟谣跑断腿 https://t.co/3oXxlghkkn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "爱我可以给我打钱！vx🚪55  在此刻 在某处 那个我 他很好 不要跟我说违法内容 尊法守法",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星系系统✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1952980636073115955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943517309751939072/FxpaGeBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 103,
+          "like_count": 1516,
+          "listed_count": 0,
+          "media_count": 330,
+          "tweet_count": 1325
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-24T23:23:11.000Z",
+        "description": "小玩具淘宝店：鸭鸭的杂货铺，可以发全球🌍，可以微信购买，需要推荐请私信，找客服说推特来的给大家优惠！！！有比我便宜，我就改价格，找我买吧！拜托拜托",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.tb.cn/h.UuRchai",
+                "end": 23,
+                "expanded_url": "https://m.tb.cn/h.UuRchai",
+                "start": 0,
+                "url": "https://t.co/Ts2WoiNFHb"
+              }
+            ]
+          }
+        },
+        "id": "1298038130063208449",
+        "location": "一爱情侣，玩具由女朋友测评，说性骚扰请举证",
+        "name": "🍑：鸭鸭的杂货铺（送对象，送优惠）",
+        "pinned_tweet_id": "1948726234999128102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800053920905244672/fWXFshAL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28112,
+          "following_count": 1331,
+          "like_count": 86166,
+          "listed_count": 33,
+          "media_count": 1152,
+          "tweet_count": 39506
+        },
+        "url": "https://t.co/Ts2WoiNFHb",
+        "username": "yayadezahuopu_",
+        "verified": true
+      }
+    ]
+  }
+}

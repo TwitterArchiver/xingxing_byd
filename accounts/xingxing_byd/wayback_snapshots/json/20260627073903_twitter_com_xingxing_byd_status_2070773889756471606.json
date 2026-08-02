@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2070368721684852771",
+    "created_at": "2026-06-27T07:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T08:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070773889756471606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1945331416528539649",
+          "start": 0,
+          "username": "bpmiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070773889756471606",
+    "in_reply_to_user_id": "1945331416528539649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070368721684852771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bpmiea 还小，可以慢慢来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2070368721684852771",
+        "created_at": "2026-06-27T07:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070773889756471606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1945331416528539649",
+              "start": 0,
+              "username": "bpmiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070773889756471606",
+        "in_reply_to_user_id": "1945331416528539649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070368721684852771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bpmiea 还小，可以慢慢来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945331416528539649",
+        "conversation_id": "2070368721684852771",
+        "created_at": "2026-06-26T04:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070368721684852771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070368721684852771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6365,
+          "like_count": 112,
+          "quote_count": 2,
+          "reply_count": 37,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谈判失败了…\n妈妈说 我还太小 这些我还没有想明白 我会后悔\n为什么会后悔呢\n我只是，想做自己啊\n糖全都被没收了 该怎么办\n我真的不想变回男的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/改造自己中/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞天星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069048254038503424/3zbCNuPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 305,
+          "like_count": 1600,
+          "listed_count": 0,
+          "media_count": 482,
+          "tweet_count": 2088
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T03:55:59.000Z",
+        "description": "MtF🏳️‍⚧️ | 无证🍥hrt from 2026.1 | 2011出厂 | 自恨党\n炸柜断糖中😭\n不吸毒不自残不键政不滥交 | archlinux | gfwfucker | Vibecoder | Vocaloid | 随缘发日常，欢迎同类互fo，私信都会回，平时上学周末复活喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bpmiea",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bpmiea",
+                "start": 0,
+                "url": "https://t.co/o0j8ZV1aqF"
+              }
+            ]
+          }
+        },
+        "id": "1945331416528539649",
+        "location": "Hamura-shi, Tokyo",
+        "name": "叶洛夜🍥𝓑.𝓜.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068571670647095296/OusQA34k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 501,
+          "like_count": 572,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 636
+        },
+        "url": "https://t.co/o0j8ZV1aqF",
+        "username": "bpmiea",
+        "verified": true
+      }
+    ]
+  }
+}

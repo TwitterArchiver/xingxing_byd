@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2037702068765622519",
+    "created_at": "2026-03-28T06:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T07:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037774193635528919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2037453052609769472",
+          "start": 0,
+          "username": "DiaoCan90062"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037774193635528919",
+    "in_reply_to_user_id": "2037453052609769472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037702068765622519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DiaoCan90062 控制一下🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037702053909377024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdfOMlaMAAkwCX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2037702053208920064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdfOJ-aEAA5h1p.jpg",
+        "width": 1706
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2037702054433767424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdfOOibwAA7bSp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2037702068765622519",
+        "created_at": "2026-03-28T06:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037774193635528919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2037453052609769472",
+              "start": 0,
+              "username": "DiaoCan90062"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037774193635528919",
+        "in_reply_to_user_id": "2037453052609769472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037702068765622519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DiaoCan90062 控制一下🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037702053909377024",
+            "3_2037702053208920064",
+            "3_2037702054433767424"
+          ]
+        },
+        "author_id": "2037453052609769472",
+        "conversation_id": "2037702068765622519",
+        "created_at": "2026-03-28T01:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T02:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037702068765622519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xFQlBoMYaM",
+              "end": 39,
+              "expanded_url": "https://x.com/DiaoCan90062/status/2037702068765622519/photo/1",
+              "media_key": "3_2037702053909377024",
+              "start": 16,
+              "url": "https://t.co/xFQlBoMYaM"
+            },
+            {
+              "display_url": "pic.x.com/xFQlBoMYaM",
+              "end": 39,
+              "expanded_url": "https://x.com/DiaoCan90062/status/2037702068765622519/photo/1",
+              "media_key": "3_2037702053208920064",
+              "start": 16,
+              "url": "https://t.co/xFQlBoMYaM"
+            },
+            {
+              "display_url": "pic.x.com/xFQlBoMYaM",
+              "end": 39,
+              "expanded_url": "https://x.com/DiaoCan90062/status/2037702068765622519/photo/1",
+              "media_key": "3_2037702054433767424",
+              "start": 16,
+              "url": "https://t.co/xFQlBoMYaM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037702068765622519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一刀又一刀 他妈的你怎么不去死 https://t.co/xFQlBoMYaM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2026997738622337393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 205,
+          "like_count": 1567,
+          "listed_count": 0,
+          "media_count": 431,
+          "tweet_count": 1674
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T09:21:02.000Z",
+        "description": "",
+        "id": "2037453052609769472",
+        "name": "秋山",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037495320993828864/Eoayao5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "DiaoCan90062",
+        "verified": false
+      }
+    ]
+  }
+}

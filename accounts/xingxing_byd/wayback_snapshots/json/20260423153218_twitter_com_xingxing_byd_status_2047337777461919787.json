@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2047337777461919787",
+    "created_at": "2026-04-23T15:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047337777461919787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maoxian1527/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/maoxian1527/status/2047324622266466574",
+          "start": 24,
+          "url": "https://t.co/gPgmvTYsVA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047337777461919787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047324622266466574",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虚假的药效是假健全，只有真正的治疗才能解决问题 https://t.co/gPgmvTYsVA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2047337777461919787",
+        "created_at": "2026-04-23T15:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047337777461919787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maoxian1527/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/maoxian1527/status/2047324622266466574",
+              "start": 24,
+              "url": "https://t.co/gPgmvTYsVA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047337777461919787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047324622266466574",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虚假的药效是假健全，只有真正的治疗才能解决问题 https://t.co/gPgmvTYsVA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929416262989557760",
+        "conversation_id": "2047324622266466574",
+        "created_at": "2026-04-23T14:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047324622266466574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047324622266466574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我只是想当一个健全的人。\n你们凭什么要伤害我。\n我做错了什么。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046552171949518848/D-UP0xlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 238,
+          "like_count": 1575,
+          "listed_count": 0,
+          "media_count": 449,
+          "tweet_count": 1774
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T05:54:41.000Z",
+        "description": "🤍2010.11.17🤍 | kitty live system | 碎碎念 | 🏳️‍⚧️友好 | 看心情互fo | 防走丢@maoxiansql | 诡秘@zqtlovekris99 | 白虚@Acmduemsks | 姐姐@OuO_QwQg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "maoxiansql"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "Acmduemsks"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "OuO_QwQg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianact.top",
+                "end": 23,
+                "expanded_url": "http://maoxianact.top/",
+                "start": 0,
+                "url": "https://t.co/BsriOOm0E4"
+              }
+            ]
+          }
+        },
+        "id": "1929416262989557760",
+        "location": "距离你5.2km",
+        "name": "猫弦nekogen🍥",
+        "pinned_tweet_id": "2041434241335230626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046150580238946304/KuhEOFBo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 270,
+          "like_count": 3793,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 2073
+        },
+        "url": "https://t.co/BsriOOm0E4",
+        "username": "maoxian1527",
+        "verified": true
+      }
+    ]
+  }
+}

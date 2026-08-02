@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2045827611910377972",
+    "created_at": "2026-04-19T11:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T12:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045827611910377972"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045827611910377972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的观点跟任何人无关，其实我也建议你们这么做。我准备好好治疗了，不磕药了，没条件吃药的起码按医学剂量服用药物，我们大家都要健康的活下去，这样才有幸福的可能🤔。（私人观点不代表大众观念）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2045827611910377972",
+        "created_at": "2026-04-19T11:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045827611910377972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045827611910377972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的观点跟任何人无关，其实我也建议你们这么做。我准备好好治疗了，不磕药了，没条件吃药的起码按医学剂量服用药物，我们大家都要健康的活下去，这样才有幸福的可能🤔。（私人观点不代表大众观念）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2043388366423830731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043389441889443841/BHqrLPNw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 224,
+          "like_count": 1573,
+          "listed_count": 0,
+          "media_count": 446,
+          "tweet_count": 1742
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065627210019684352",
+        "3_2065627210590109696"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "2065627245272846444",
+    "created_at": "2026-06-13T02:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T03:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065627245272846444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IQjmOrnyIU",
+          "end": 25,
+          "expanded_url": "https://x.com/xingxing_byd/status/2065627245272846444/photo/1",
+          "media_key": "3_2065627210019684352",
+          "start": 2,
+          "url": "https://t.co/IQjmOrnyIU"
+        },
+        {
+          "display_url": "pic.x.com/IQjmOrnyIU",
+          "end": 25,
+          "expanded_url": "https://x.com/xingxing_byd/status/2065627245272846444/photo/1",
+          "media_key": "3_2065627210590109696",
+          "start": 2,
+          "url": "https://t.co/IQjmOrnyIU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065627245272846444",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爽 https://t.co/IQjmOrnyIU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065627210019684352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqVANuawAAOp89.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065627210590109696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqVAP2awAAujNt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065627210019684352",
+            "3_2065627210590109696"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "2065627245272846444",
+        "created_at": "2026-06-13T02:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T03:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065627245272846444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQjmOrnyIU",
+              "end": 25,
+              "expanded_url": "https://x.com/xingxing_byd/status/2065627245272846444/photo/1",
+              "media_key": "3_2065627210019684352",
+              "start": 2,
+              "url": "https://t.co/IQjmOrnyIU"
+            },
+            {
+              "display_url": "pic.x.com/IQjmOrnyIU",
+              "end": 25,
+              "expanded_url": "https://x.com/xingxing_byd/status/2065627245272846444/photo/1",
+              "media_key": "3_2065627210590109696",
+              "start": 2,
+              "url": "https://t.co/IQjmOrnyIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065627245272846444",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爽 https://t.co/IQjmOrnyIU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053496659234185216/Qd9JXfn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 261,
+          "like_count": 1621,
+          "listed_count": 0,
+          "media_count": 456,
+          "tweet_count": 1936
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

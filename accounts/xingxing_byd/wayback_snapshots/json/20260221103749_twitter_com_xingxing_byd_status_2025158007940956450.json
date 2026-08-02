@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2025158007940956450",
+    "created_at": "2026-02-21T10:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T11:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025158007940956450"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xingxing_byd/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/xingxing_byd/status/2024792590474965153",
+          "start": 24,
+          "url": "https://t.co/S6AxnMpPnJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025158007940956450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024792590474965153",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "面对很多人的离去，我只能说一路走好，节哀顺变。 https://t.co/S6AxnMpPnJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2024792587408982016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmCIWRbQAA2l9O.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2025158007940956450",
+        "created_at": "2026-02-21T10:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T11:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025158007940956450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xingxing_byd/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/xingxing_byd/status/2024792590474965153",
+              "start": 24,
+              "url": "https://t.co/S6AxnMpPnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025158007940956450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024792590474965153",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "面对很多人的离去，我只能说一路走好，节哀顺变。 https://t.co/S6AxnMpPnJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024792587408982016"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "2024792590474965153",
+        "created_at": "2026-02-20T10:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024792590474965153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PafEuiwvRc",
+              "end": 31,
+              "expanded_url": "https://x.com/xingxing_byd/status/2024792590474965153/photo/1",
+              "media_key": "3_2024792587408982016",
+              "start": 8,
+              "url": "https://t.co/PafEuiwvRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024792590474965153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又能说什么呢 https://t.co/PafEuiwvRc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2025101983989043315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 197,
+          "like_count": 1534,
+          "listed_count": 0,
+          "media_count": 417,
+          "tweet_count": 1579
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

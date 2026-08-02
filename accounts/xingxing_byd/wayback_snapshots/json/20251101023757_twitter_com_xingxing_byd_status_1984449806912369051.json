@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984449768064761857",
+        "3_1984449771286007808",
+        "3_1984449769851478016",
+        "3_1984449770031890433"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1984449806912369051",
+    "created_at": "2025-11-01T02:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T03:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984449806912369051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/27LOizsjdo",
+          "end": 44,
+          "expanded_url": "https://x.com/xingxing_byd/status/1984449806912369051/photo/1",
+          "media_key": "3_1984449768064761857",
+          "start": 21,
+          "url": "https://t.co/27LOizsjdo"
+        },
+        {
+          "display_url": "pic.x.com/27LOizsjdo",
+          "end": 44,
+          "expanded_url": "https://x.com/xingxing_byd/status/1984449806912369051/photo/1",
+          "media_key": "3_1984449771286007808",
+          "start": 21,
+          "url": "https://t.co/27LOizsjdo"
+        },
+        {
+          "display_url": "pic.x.com/27LOizsjdo",
+          "end": 44,
+          "expanded_url": "https://x.com/xingxing_byd/status/1984449806912369051/photo/1",
+          "media_key": "3_1984449769851478016",
+          "start": 21,
+          "url": "https://t.co/27LOizsjdo"
+        },
+        {
+          "display_url": "pic.x.com/27LOizsjdo",
+          "end": 44,
+          "expanded_url": "https://x.com/xingxing_byd/status/1984449806912369051/photo/1",
+          "media_key": "3_1984449770031890433",
+          "start": 21,
+          "url": "https://t.co/27LOizsjdo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984449806912369051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天伙食依然挺硬，只是抽烟把手抽黄了。😔 https://t.co/27LOizsjdo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984449768064761857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4oujMwbQAE8guB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984449771286007808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4oujYwbkAAtnrL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984449769851478016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4oujTaaYAAHXvm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984449770031890433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4oujUFbQAEFP2C.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984449768064761857",
+            "3_1984449771286007808",
+            "3_1984449769851478016",
+            "3_1984449770031890433"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1984449806912369051",
+        "created_at": "2025-11-01T02:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T03:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984449806912369051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/27LOizsjdo",
+              "end": 44,
+              "expanded_url": "https://x.com/xingxing_byd/status/1984449806912369051/photo/1",
+              "media_key": "3_1984449768064761857",
+              "start": 21,
+              "url": "https://t.co/27LOizsjdo"
+            },
+            {
+              "display_url": "pic.x.com/27LOizsjdo",
+              "end": 44,
+              "expanded_url": "https://x.com/xingxing_byd/status/1984449806912369051/photo/1",
+              "media_key": "3_1984449771286007808",
+              "start": 21,
+              "url": "https://t.co/27LOizsjdo"
+            },
+            {
+              "display_url": "pic.x.com/27LOizsjdo",
+              "end": 44,
+              "expanded_url": "https://x.com/xingxing_byd/status/1984449806912369051/photo/1",
+              "media_key": "3_1984449769851478016",
+              "start": 21,
+              "url": "https://t.co/27LOizsjdo"
+            },
+            {
+              "display_url": "pic.x.com/27LOizsjdo",
+              "end": 44,
+              "expanded_url": "https://x.com/xingxing_byd/status/1984449806912369051/photo/1",
+              "media_key": "3_1984449770031890433",
+              "start": 21,
+              "url": "https://t.co/27LOizsjdo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984449806912369051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天伙食依然挺硬，只是抽烟把手抽黄了。😔 https://t.co/27LOizsjdo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "1982380680886800563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983791116177801216/Rnsx8aV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 141,
+          "like_count": 1644,
+          "listed_count": 0,
+          "media_count": 387,
+          "tweet_count": 1496
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

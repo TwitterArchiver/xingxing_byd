@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046809225050099712"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2046809239562444857",
+    "created_at": "2026-04-22T04:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T05:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046809239562444857"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8UdwvhC7O5",
+          "end": 38,
+          "expanded_url": "https://x.com/xingxing_byd/status/2046809239562444857/photo/1",
+          "media_key": "3_2046809225050099712",
+          "start": 15,
+          "url": "https://t.co/8UdwvhC7O5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046809239562444857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好难吃。。。虽然是自己做的。 https://t.co/8UdwvhC7O5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046809225050099712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGe6JU4akAAZDHo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046809225050099712"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2046809239562444857",
+        "created_at": "2026-04-22T04:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046809239562444857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8UdwvhC7O5",
+              "end": 38,
+              "expanded_url": "https://x.com/xingxing_byd/status/2046809239562444857/photo/1",
+              "media_key": "3_2046809225050099712",
+              "start": 15,
+              "url": "https://t.co/8UdwvhC7O5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046809239562444857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难吃。。。虽然是自己做的。 https://t.co/8UdwvhC7O5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046552171949518848/D-UP0xlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 231,
+          "like_count": 1573,
+          "listed_count": 0,
+          "media_count": 447,
+          "tweet_count": 1755
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

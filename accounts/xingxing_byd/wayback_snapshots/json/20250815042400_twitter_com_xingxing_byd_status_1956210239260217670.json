@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956210233786949635",
+        "3_1956210235674435584"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1956210239260217670",
+    "created_at": "2025-08-15T04:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T05:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956210239260217670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q9ln1TkIim",
+          "end": 29,
+          "expanded_url": "https://x.com/xingxing_byd/status/1956210239260217670/photo/1",
+          "media_key": "3_1956210233786949635",
+          "start": 6,
+          "url": "https://t.co/q9ln1TkIim"
+        },
+        {
+          "display_url": "pic.x.com/q9ln1TkIim",
+          "end": 29,
+          "expanded_url": "https://x.com/xingxing_byd/status/1956210239260217670/photo/1",
+          "media_key": "3_1956210235674435584",
+          "start": 6,
+          "url": "https://t.co/q9ln1TkIim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956210239260217670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开了俩新药 https://t.co/q9ln1TkIim"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956210233786949635",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyXa19ra4AMStVi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1956210235674435584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyXa2EtboAA8nyB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956210233786949635",
+            "3_1956210235674435584"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1956210239260217670",
+        "created_at": "2025-08-15T04:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T05:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956210239260217670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q9ln1TkIim",
+              "end": 29,
+              "expanded_url": "https://x.com/xingxing_byd/status/1956210239260217670/photo/1",
+              "media_key": "3_1956210233786949635",
+              "start": 6,
+              "url": "https://t.co/q9ln1TkIim"
+            },
+            {
+              "display_url": "pic.x.com/q9ln1TkIim",
+              "end": 29,
+              "expanded_url": "https://x.com/xingxing_byd/status/1956210239260217670/photo/1",
+              "media_key": "3_1956210235674435584",
+              "start": 6,
+              "url": "https://t.co/q9ln1TkIim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956210239260217670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开了俩新药 https://t.co/q9ln1TkIim"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "vx🚪55  在此刻 在某处 那个我 他很好 不要跟我说违法内容",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星系系统✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1952980636073115955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955489105514762240/nwrEcNd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 100,
+          "like_count": 1519,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 1336
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

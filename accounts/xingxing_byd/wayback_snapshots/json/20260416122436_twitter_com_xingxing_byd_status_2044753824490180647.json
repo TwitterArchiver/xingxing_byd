@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044753813916327936",
+        "3_2044753813895352320"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044753824490180647",
+    "created_at": "2026-04-16T12:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T13:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044753824490180647"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hRfBFBzaqo",
+          "end": 34,
+          "expanded_url": "https://x.com/xingxing_byd/status/2044753824490180647/photo/1",
+          "media_key": "3_2044753813916327936",
+          "start": 11,
+          "url": "https://t.co/hRfBFBzaqo"
+        },
+        {
+          "display_url": "pic.x.com/hRfBFBzaqo",
+          "end": 34,
+          "expanded_url": "https://x.com/xingxing_byd/status/2044753824490180647/photo/1",
+          "media_key": "3_2044753813895352320",
+          "start": 11,
+          "url": "https://t.co/hRfBFBzaqo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044753824490180647",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "住进精神病院了🫪🫪🫪 https://t.co/hRfBFBzaqo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044753813916327936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBswpuboAATHjv.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044753813895352320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBswppbkAAjSX2.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044753813916327936",
+            "3_2044753813895352320"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044753824490180647",
+        "created_at": "2026-04-16T12:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T13:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044753824490180647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRfBFBzaqo",
+              "end": 34,
+              "expanded_url": "https://x.com/xingxing_byd/status/2044753824490180647/photo/1",
+              "media_key": "3_2044753813916327936",
+              "start": 11,
+              "url": "https://t.co/hRfBFBzaqo"
+            },
+            {
+              "display_url": "pic.x.com/hRfBFBzaqo",
+              "end": 34,
+              "expanded_url": "https://x.com/xingxing_byd/status/2044753824490180647/photo/1",
+              "media_key": "3_2044753813895352320",
+              "start": 11,
+              "url": "https://t.co/hRfBFBzaqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044753824490180647",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "住进精神病院了🫪🫪🫪 https://t.co/hRfBFBzaqo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2043388366423830731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043389441889443841/BHqrLPNw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 223,
+          "like_count": 1573,
+          "listed_count": 0,
+          "media_count": 444,
+          "tweet_count": 1736
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

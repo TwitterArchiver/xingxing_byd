@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1980181019253952627",
+    "created_at": "2025-10-20T07:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T08:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980181019253952627"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AMAZINGCATSS/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/AMAZINGCATSS/status/1980159697421213889",
+          "start": 16,
+          "url": "https://t.co/qO3LBzhRJl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980181019253952627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980159697421213889",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这两天重感冒😷，睡醒了就是吃。 https://t.co/qO3LBzhRJl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5066,
+        "height": 1280,
+        "media_key": "7_1980159685358493697",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1980159685358493697/pu/img/T_FtCFpSDKg_itxs.jpg",
+        "public_metrics": {
+          "view_count": 142
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980159685358493697/pu/vid/avc1/320x568/xRxXIEQabUnKWazk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980159685358493697/pu/vid/avc1/480x852/wMUxsTJznJ-vlm1D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980159685358493697/pu/vid/avc1/720x1280/W0lhTVI9pvjPt0QI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1980159685358493697/pu/pl/QjifjUiR69bWnVgL.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1980181019253952627",
+        "created_at": "2025-10-20T07:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T08:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980181019253952627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AMAZINGCATSS/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/AMAZINGCATSS/status/1980159697421213889",
+              "start": 16,
+              "url": "https://t.co/qO3LBzhRJl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980181019253952627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980159697421213889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这两天重感冒😷，睡醒了就是吃。 https://t.co/qO3LBzhRJl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1980159685358493697"
+          ]
+        },
+        "author_id": "1590031072368111617",
+        "conversation_id": "1980159697421213889",
+        "created_at": "2025-10-20T06:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T07:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980159697421213889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRrOezBF60",
+              "end": 23,
+              "expanded_url": "https://x.com/AMAZINGCATSS/status/1980159697421213889/video/1",
+              "media_key": "7_1980159685358493697",
+              "start": 0,
+              "url": "https://t.co/TRrOezBF60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980159697421213889",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 415,
+          "like_count": 6,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TRrOezBF60"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|日常|生活推|有心理疾病‼️|会自残不od|更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1972676670990827762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 155,
+          "like_count": 1630,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 1465
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T17:19:10.000Z",
+        "description": "All my followers will be shown all kinds of pictures and videos of the cat every day. You all keep giving me love like this, thank you. (1)M❤️🙏🙏",
+        "id": "1590031072368111617",
+        "location": "United States",
+        "name": "Cat is Amazing 🐈‍⬛",
+        "pinned_tweet_id": "1977027208695713977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845207795945308160/ekE6GwiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17013,
+          "following_count": 1608,
+          "like_count": 323,
+          "listed_count": 74,
+          "media_count": 5302,
+          "tweet_count": 6654
+        },
+        "username": "AMAZINGCATSS",
+        "verified": true
+      }
+    ]
+  }
+}

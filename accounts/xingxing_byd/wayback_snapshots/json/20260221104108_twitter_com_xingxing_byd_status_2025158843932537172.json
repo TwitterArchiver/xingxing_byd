@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2025158843932537172",
+    "created_at": "2026-02-21T10:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T11:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025158843932537172"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ovozZQaQ/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/ovozZQaQ/status/2025117803859378350",
+          "start": 2,
+          "url": "https://t.co/XIaeEVXUHy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025158843932537172",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025117803859378350",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接 https://t.co/XIaeEVXUHy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1761,
+        "media_key": "3_2025117793163862016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqp50Ha4AA9_lm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2025158843932537172",
+        "created_at": "2026-02-21T10:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T11:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025158843932537172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ovozZQaQ/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/ovozZQaQ/status/2025117803859378350",
+              "start": 2,
+              "url": "https://t.co/XIaeEVXUHy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025158843932537172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025117803859378350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/XIaeEVXUHy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025117793163862016"
+          ]
+        },
+        "author_id": "1933366802593251328",
+        "conversation_id": "2025117803859378350",
+        "created_at": "2026-02-21T07:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025117803859378350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ztsl06nGmX",
+              "end": 36,
+              "expanded_url": "https://x.com/ovozZQaQ/status/2025117803859378350/photo/1",
+              "media_key": "3_2025117793163862016",
+              "start": 13,
+              "url": "https://t.co/Ztsl06nGmX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025117803859378350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 543,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "财神我接 祝大家都发财！ https://t.co/Ztsl06nGmX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2025101983989043315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 198,
+          "like_count": 1536,
+          "listed_count": 0,
+          "media_count": 417,
+          "tweet_count": 1583
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T03:32:29.000Z",
+        "description": "一起去屋顶看星星",
+        "id": "1933366802593251328",
+        "name": "蛋挞般脆弱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020201706957799424/CBxVWIdo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 105,
+          "like_count": 9359,
+          "listed_count": 5,
+          "media_count": 528,
+          "tweet_count": 3881
+        },
+        "username": "ovozZQaQ",
+        "verified": false
+      }
+    ]
+  }
+}

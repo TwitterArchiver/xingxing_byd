@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2069009465102524568",
+    "created_at": "2026-06-22T16:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T17:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069102917278404870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976313339224653828",
+          "start": 0,
+          "username": "Naiv46528_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069102917278404870",
+    "in_reply_to_user_id": "1976313339224653828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069009465102524568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naiv46528_ 我也覺得還可以，沒啥怪味啊，可能我喜歡消毒水味道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2069009465102524568",
+        "created_at": "2026-06-22T16:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069102917278404870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976313339224653828",
+              "start": 0,
+              "username": "Naiv46528_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069102917278404870",
+        "in_reply_to_user_id": "1976313339224653828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069009465102524568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naiv46528_ 我也覺得還可以，沒啥怪味啊，可能我喜歡消毒水味道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976313339224653828",
+        "conversation_id": "2069009465102524568",
+        "created_at": "2026-06-22T10:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069009465102524568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069009465102524568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都说碳酸锂很难吃但我觉得还行啊？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/改造自己中/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞天星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069048254038503424/3zbCNuPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 286,
+          "like_count": 1587,
+          "listed_count": 0,
+          "media_count": 470,
+          "tweet_count": 2029
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T15:46:43.000Z",
+        "description": "我🟰蓝，除中文外皆为机翻，请多关照！生理心理女，目前不登校\n❕双相｜od｜自伤。情绪不稳定❕但是我很好相处，欢迎找我玩。🏳️‍🌈友好。会看成分互fo。",
+        "id": "1976313339224653828",
+        "name": "嗳寺藍Naiv",
+        "pinned_tweet_id": "2053313608876999060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067847899216740352/nLLgj08i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 120,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "Naiv46528_",
+        "verified": false
+      }
+    ]
+  }
+}

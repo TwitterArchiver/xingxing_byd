@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2025767631161303070",
+    "created_at": "2026-02-23T03:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T04:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025767631161303070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/2025764625598628009",
+          "start": 31,
+          "url": "https://t.co/sCA4CouuVp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025767631161303070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025764625598628009",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以廉价的物价和彻底的服务让我很舒适，当然我也尊重服务人员。 https://t.co/sCA4CouuVp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2025764622046031872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBz2MNebcAABpP1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025764622406750208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBz2MO0bkAAaxSm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2025764622884909056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBz2MQmbsAADNOt.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2025764622624870400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBz2MPob0AAOFB0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2025767631161303070",
+        "created_at": "2026-02-23T03:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T04:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025767631161303070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2025764625598628009",
+              "start": 31,
+              "url": "https://t.co/sCA4CouuVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025767631161303070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025764625598628009",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以廉价的物价和彻底的服务让我很舒适，当然我也尊重服务人员。 https://t.co/sCA4CouuVp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025764622046031872",
+            "3_2025764622406750208",
+            "3_2025764622884909056",
+            "3_2025764622624870400"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025764625598628009",
+        "created_at": "2026-02-23T02:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T03:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025764625598628009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y3CKbZCPvP",
+              "end": 92,
+              "expanded_url": "https://x.com/Idontselldrug/status/2025764625598628009/photo/1",
+              "media_key": "3_2025764622046031872",
+              "start": 69,
+              "url": "https://t.co/Y3CKbZCPvP"
+            },
+            {
+              "display_url": "pic.x.com/Y3CKbZCPvP",
+              "end": 92,
+              "expanded_url": "https://x.com/Idontselldrug/status/2025764625598628009/photo/1",
+              "media_key": "3_2025764622406750208",
+              "start": 69,
+              "url": "https://t.co/Y3CKbZCPvP"
+            },
+            {
+              "display_url": "pic.x.com/Y3CKbZCPvP",
+              "end": 92,
+              "expanded_url": "https://x.com/Idontselldrug/status/2025764625598628009/photo/1",
+              "media_key": "3_2025764622884909056",
+              "start": 69,
+              "url": "https://t.co/Y3CKbZCPvP"
+            },
+            {
+              "display_url": "pic.x.com/Y3CKbZCPvP",
+              "end": 92,
+              "expanded_url": "https://x.com/Idontselldrug/status/2025764625598628009/photo/1",
+              "media_key": "3_2025764622624870400",
+              "start": 69,
+              "url": "https://t.co/Y3CKbZCPvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025764625598628009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "700人民币在中国住的万豪比500刀在加拿大住的费尔蒙还要好，真流汗了\n万豪的人还会帮忙叠衣服，还送早餐，虽然早餐人很挤，晚来了还要排队 https://t.co/Y3CKbZCPvP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2025101983989043315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 200,
+          "like_count": 1541,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 1596
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 227,
+          "like_count": 1152,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 1776
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

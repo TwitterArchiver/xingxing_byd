@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980183804674240512",
+        "3_1980183808507809792",
+        "3_1980183804217114624"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1980183812886999291",
+    "created_at": "2025-10-20T08:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T09:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980183812886999291"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OkQsoyMJEk",
+          "end": 70,
+          "expanded_url": "https://x.com/xingxing_byd/status/1980183812886999291/photo/1",
+          "media_key": "3_1980183804674240512",
+          "start": 47,
+          "url": "https://t.co/OkQsoyMJEk"
+        },
+        {
+          "display_url": "pic.x.com/OkQsoyMJEk",
+          "end": 70,
+          "expanded_url": "https://x.com/xingxing_byd/status/1980183812886999291/photo/1",
+          "media_key": "3_1980183808507809792",
+          "start": 47,
+          "url": "https://t.co/OkQsoyMJEk"
+        },
+        {
+          "display_url": "pic.x.com/OkQsoyMJEk",
+          "end": 70,
+          "expanded_url": "https://x.com/xingxing_byd/status/1980183812886999291/photo/1",
+          "media_key": "3_1980183804217114624",
+          "start": 47,
+          "url": "https://t.co/OkQsoyMJEk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980183812886999291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "东北初雪10.15 但我感冒了。重感冒，越来越好了。感谢国家给了一个温暖的窝，谢谢父母照顾。 https://t.co/OkQsoyMJEk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980183804674240512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3sGrcuW8AAIhcW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980183808507809792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3sGrrAWkAAefTa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980183804217114624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3sGrbBXwAAHfmV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980183804674240512",
+            "3_1980183808507809792",
+            "3_1980183804217114624"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1980183812886999291",
+        "created_at": "2025-10-20T08:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T09:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980183812886999291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OkQsoyMJEk",
+              "end": 70,
+              "expanded_url": "https://x.com/xingxing_byd/status/1980183812886999291/photo/1",
+              "media_key": "3_1980183804674240512",
+              "start": 47,
+              "url": "https://t.co/OkQsoyMJEk"
+            },
+            {
+              "display_url": "pic.x.com/OkQsoyMJEk",
+              "end": 70,
+              "expanded_url": "https://x.com/xingxing_byd/status/1980183812886999291/photo/1",
+              "media_key": "3_1980183808507809792",
+              "start": 47,
+              "url": "https://t.co/OkQsoyMJEk"
+            },
+            {
+              "display_url": "pic.x.com/OkQsoyMJEk",
+              "end": 70,
+              "expanded_url": "https://x.com/xingxing_byd/status/1980183812886999291/photo/1",
+              "media_key": "3_1980183804217114624",
+              "start": 47,
+              "url": "https://t.co/OkQsoyMJEk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980183812886999291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "东北初雪10.15 但我感冒了。重感冒，越来越好了。感谢国家给了一个温暖的窝，谢谢父母照顾。 https://t.co/OkQsoyMJEk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜会自残不od｜更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "1971898320311538020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 156,
+          "like_count": 1633,
+          "listed_count": 0,
+          "media_count": 373,
+          "tweet_count": 1465
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2065396868713164972",
+    "created_at": "2026-06-12T11:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065396868713164972"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/silentbleeding…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/silentbleeding1/status/2064955620340719927",
+          "start": 3,
+          "url": "https://t.co/BwHWuOTsJz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065396868713164972",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064955620340719927",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想抽 https://t.co/BwHWuOTsJz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2064955607032160257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgyLxoaYAEWvYc.jpg",
+        "width": 576
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2064955607309066240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgyLyqboAAaHQM.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2065396868713164972",
+        "created_at": "2026-06-12T11:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065396868713164972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/silentbleeding…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/silentbleeding1/status/2064955620340719927",
+              "start": 3,
+              "url": "https://t.co/BwHWuOTsJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065396868713164972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064955620340719927",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想抽 https://t.co/BwHWuOTsJz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064955607032160257",
+            "3_2064955607309066240"
+          ]
+        },
+        "author_id": "2046990809908879368",
+        "conversation_id": "2064955620340719927",
+        "created_at": "2026-06-11T06:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064955620340719927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/skyRJJghJA",
+              "end": 59,
+              "expanded_url": "https://x.com/silentbleeding1/status/2064955620340719927/photo/1",
+              "media_key": "3_2064955607032160257",
+              "start": 36,
+              "url": "https://t.co/skyRJJghJA"
+            },
+            {
+              "display_url": "pic.x.com/skyRJJghJA",
+              "end": 59,
+              "expanded_url": "https://x.com/silentbleeding1/status/2064955620340719927/photo/1",
+              "media_key": "3_2064955607309066240",
+              "start": 36,
+              "url": "https://t.co/skyRJJghJA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064955620340719927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4796,
+          "like_count": 113,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不愧是正宗14mg👍\n这真是我抽过劲最大的烟了，一根下去晕得像嗨了一样 https://t.co/skyRJJghJA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053496659234185216/Qd9JXfn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 261,
+          "like_count": 1615,
+          "listed_count": 0,
+          "media_count": 454,
+          "tweet_count": 1924
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "前世@Lizzy_522 \n08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，公路车，日本文学/拉康精神分析，钢琴，硬/前卫/蓝调/独立摇滚，负能，日常发神经吐苦水，友所有群体，查成分回fo。里推@pillsandblood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Lizzy_522"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "pillsandblood"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060729372013895680/wVCe3wl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 429,
+          "like_count": 4263,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1179
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      }
+    ]
+  }
+}

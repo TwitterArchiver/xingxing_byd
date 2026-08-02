@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2070574522231656701",
+    "created_at": "2026-06-27T07:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T08:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070774471334429161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1618313409707008018",
+          "start": 0,
+          "username": "X_uanxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070774471334429161",
+    "in_reply_to_user_id": "1618313409707008018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070574522231656701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X_uanxx 加油！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2070574501050396672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwoidAXMAAlMiI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2070574522231656701",
+        "created_at": "2026-06-27T07:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070774471334429161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618313409707008018",
+              "start": 0,
+              "username": "X_uanxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070774471334429161",
+        "in_reply_to_user_id": "1618313409707008018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070574522231656701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X_uanxx 加油！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070574501050396672"
+          ]
+        },
+        "author_id": "1618313409707008018",
+        "conversation_id": "2070574522231656701",
+        "created_at": "2026-06-26T18:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070574522231656701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C2D2v8MGfZ",
+              "end": 39,
+              "expanded_url": "https://x.com/X_uanxx/status/2070574522231656701/photo/1",
+              "media_key": "3_2070574501050396672",
+              "start": 16,
+              "url": "https://t.co/C2D2v8MGfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070574522231656701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1244,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "屏幕前的家人们觉得我会挂科吗。 https://t.co/C2D2v8MGfZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/改造自己中/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞天星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069048254038503424/3zbCNuPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 305,
+          "like_count": 1600,
+          "listed_count": 0,
+          "media_count": 482,
+          "tweet_count": 2090
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T18:22:58.000Z",
+        "description": "不线下不约炮\n🚪128 清水 过了没任何好处\ngo瓦娱乐🥣25/1",
+        "id": "1618313409707008018",
+        "name": "月下绪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966436138861928448/-HRbP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 61,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "X_uanxx",
+        "verified": false
+      }
+    ]
+  }
+}

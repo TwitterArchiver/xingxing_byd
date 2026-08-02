@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2047343951204749652",
+    "created_at": "2026-04-23T15:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047343951204749652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ciallo_114_514…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/ciallo_114_514/status/2047163400585949388",
+          "start": 10,
+          "url": "https://t.co/XvUohSoDCj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047343951204749652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047163400585949388",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "复诊吧，救自己一次 https://t.co/XvUohSoDCj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2047343951204749652",
+        "created_at": "2026-04-23T15:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047343951204749652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ciallo_114_514…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/ciallo_114_514/status/2047163400585949388",
+              "start": 10,
+              "url": "https://t.co/XvUohSoDCj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047343951204749652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047163400585949388",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "复诊吧，救自己一次 https://t.co/XvUohSoDCj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031097520840167424",
+        "conversation_id": "2047163400585949388",
+        "created_at": "2026-04-23T03:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047163400585949388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047163400585949388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1095,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底要怎样才能下定决心。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046552171949518848/D-UP0xlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 241,
+          "like_count": 1576,
+          "listed_count": 0,
+          "media_count": 449,
+          "tweet_count": 1783
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T19:59:37.000Z",
+        "description": "前世@YunoQiu56649｜互fo喵(没回私信提醒我喵)\n生日0402｜hrt2026.1.12-3.19 断糖ing｜已炸柜｜超级天残党+家长不管党｜中焦重抑｜全部立场中立｜碎碎念｜我又不想死了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "2031097520840167424",
+        "location": "你家",
+        "name": "Ciallo～(∠・ω ＜ )︵★🍥🏳️‍⚧️（互fo寻回ing）",
+        "pinned_tweet_id": "2046955498457780555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035909538168328193/rP91M_1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 701,
+          "like_count": 1944,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 3579
+        },
+        "username": "Ciallo_114_514",
+        "verified": false
+      }
+    ]
+  }
+}

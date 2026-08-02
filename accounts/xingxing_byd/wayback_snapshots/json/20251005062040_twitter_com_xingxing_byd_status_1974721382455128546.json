@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974178696916320256"
+      ],
+      "media_source_tweet_id": [
+        "1974178699538014461"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1974721382455128546",
+    "created_at": "2025-10-05T06:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T07:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974721382455128546"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 15,
+          "tag": "selfharm"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1931663424351555584",
+          "start": 3,
+          "username": "KillmilXx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eHnmprK7kk",
+          "end": 48,
+          "expanded_url": "https://x.com/KillmilXx/status/1974178699538014461/photo/1",
+          "media_key": "3_1974178696916320256",
+          "start": 25,
+          "url": "https://t.co/eHnmprK7kk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974721382455128546",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 596
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974178699538014461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KillmilXx: #selfharm https://t.co/eHnmprK7kk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_1974178696916320256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2WxELDXQAA4Yyg.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974178696916320256"
+          ],
+          "media_source_tweet_id": [
+            "1974178699538014461"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1974721382455128546",
+        "created_at": "2025-10-05T06:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T07:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974721382455128546"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "selfharm"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1931663424351555584",
+              "start": 3,
+              "username": "KillmilXx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eHnmprK7kk",
+              "end": 48,
+              "expanded_url": "https://x.com/KillmilXx/status/1974178699538014461/photo/1",
+              "media_key": "3_1974178696916320256",
+              "start": 25,
+              "url": "https://t.co/eHnmprK7kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974721382455128546",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 596
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974178699538014461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KillmilXx: #selfharm https://t.co/eHnmprK7kk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974178696916320256"
+          ]
+        },
+        "author_id": "1931663424351555584",
+        "conversation_id": "1974178699538014461",
+        "created_at": "2025-10-03T18:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T19:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974178699538014461"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "selfharm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eHnmprK7kk",
+              "end": 33,
+              "expanded_url": "https://x.com/KillmilXx/status/1974178699538014461/photo/1",
+              "media_key": "3_1974178696916320256",
+              "start": 10,
+              "url": "https://t.co/eHnmprK7kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974178699538014461",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 222,
+          "impression_count": 25043,
+          "like_count": 5239,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 596
+        },
+        "reply_settings": "everyone",
+        "text": "#selfharm https://t.co/eHnmprK7kk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|碎碎念|日常|美食|生活推|岁月静好ing|奇思妙想|积极生活",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1972676670990827762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 122,
+          "like_count": 1567,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 1436
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T10:44:17.000Z",
+        "description": "TW/sftwt\n15yo\nFR\npost for mental health support \nshe/her",
+        "id": "1931663424351555584",
+        "name": "Basilisk",
+        "pinned_tweet_id": "1957584425333764139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973828921373126657/b2DudlPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 1057,
+          "like_count": 2877,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 385
+        },
+        "username": "KillmilXx",
+        "verified": false
+      }
+    ]
+  }
+}

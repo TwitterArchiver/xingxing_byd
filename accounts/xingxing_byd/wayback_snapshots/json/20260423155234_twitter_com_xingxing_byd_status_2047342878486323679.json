@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2047181386319323159",
+    "created_at": "2026-04-23T15:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047342878486323679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761282483834998784",
+          "start": 0,
+          "username": "10waterlili"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047342878486323679",
+    "in_reply_to_user_id": "1761282483834998784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047181386319323159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10waterlili 300多就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2047181386319323159",
+        "created_at": "2026-04-23T15:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047342878486323679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761282483834998784",
+              "start": 0,
+              "username": "10waterlili"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047342878486323679",
+        "in_reply_to_user_id": "1761282483834998784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047181386319323159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10waterlili 300多就行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2047181382322102272"
+          ]
+        },
+        "author_id": "1761282483834998784",
+        "conversation_id": "2047181386319323159",
+        "created_at": "2026-04-23T05:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047181386319323159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047181386319323159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1763,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我爸声称要对我进行手机管控了...\n说什么学习不需要手机，以后都不能给我玩\n各位觉得我有必要私下买一台真正属于自己的手机吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046552171949518848/D-UP0xlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 241,
+          "like_count": 1575,
+          "listed_count": 0,
+          "media_count": 449,
+          "tweet_count": 1781
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 26.2.21｜🍰 09.3.14\n深柜中（待炸\nɪɴғᴘ-ᴛ｜ex-音游人｜民间天文学家🔭\n最最可爱的妹妹@xiaoyimiaoaaa\n缓慢互fo中｜想和xyn贴贴💕\n电报https://t.co/aydtYwj2Gi｜防失联@nagis1a\n自介喵～https://t.co/KKvURpWk5o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "xiaoyimiaoaaa"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "nagis1a"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/tennchu",
+                "end": 116,
+                "expanded_url": "http://t.me/tennchu",
+                "start": 93,
+                "url": "https://t.co/aydtYwj2Gi"
+              },
+              {
+                "display_url": "lit.link/zh-tw/tennOvO",
+                "end": 156,
+                "expanded_url": "http://lit.link/zh-tw/tennOvO",
+                "start": 133,
+                "url": "https://t.co/KKvURpWk5o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "𝒕𝒆𝒏𝒏 ᐝ 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045553931246510319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045004879303958528/xNxtLn0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 447,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 444
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "10waterlili",
+        "verified": false
+      }
+    ]
+  }
+}

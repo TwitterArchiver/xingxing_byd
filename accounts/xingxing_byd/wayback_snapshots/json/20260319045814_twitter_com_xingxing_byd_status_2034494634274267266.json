@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034494618658865152",
+        "3_2034494621762703360",
+        "3_2034494621913698304",
+        "3_2034494618658840576"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2034494634274267266",
+    "created_at": "2026-03-19T04:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T05:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034494634274267266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JFGNjOjfih",
+          "end": 27,
+          "expanded_url": "https://x.com/xingxing_byd/status/2034494634274267266/photo/1",
+          "media_key": "3_2034494618658865152",
+          "start": 4,
+          "url": "https://t.co/JFGNjOjfih"
+        },
+        {
+          "display_url": "pic.x.com/JFGNjOjfih",
+          "end": 27,
+          "expanded_url": "https://x.com/xingxing_byd/status/2034494634274267266/photo/1",
+          "media_key": "3_2034494621762703360",
+          "start": 4,
+          "url": "https://t.co/JFGNjOjfih"
+        },
+        {
+          "display_url": "pic.x.com/JFGNjOjfih",
+          "end": 27,
+          "expanded_url": "https://x.com/xingxing_byd/status/2034494634274267266/photo/1",
+          "media_key": "3_2034494621913698304",
+          "start": 4,
+          "url": "https://t.co/JFGNjOjfih"
+        },
+        {
+          "display_url": "pic.x.com/JFGNjOjfih",
+          "end": 27,
+          "expanded_url": "https://x.com/xingxing_byd/status/2034494634274267266/photo/1",
+          "media_key": "3_2034494618658840576",
+          "start": 4,
+          "url": "https://t.co/JFGNjOjfih"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034494634274267266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "多自律 https://t.co/JFGNjOjfih"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034494618658865152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDv6E5KbAAAXTSi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2034494621762703360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDv6FEub0AAgwdu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034494621913698304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDv6FFSb0AAOLej.jpg",
+        "width": 941
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034494618658840576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDv6E5KaoAApKCu.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034494618658865152",
+            "3_2034494621762703360",
+            "3_2034494621913698304",
+            "3_2034494618658840576"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034494634274267266",
+        "created_at": "2026-03-19T04:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T05:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034494634274267266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JFGNjOjfih",
+              "end": 27,
+              "expanded_url": "https://x.com/xingxing_byd/status/2034494634274267266/photo/1",
+              "media_key": "3_2034494618658865152",
+              "start": 4,
+              "url": "https://t.co/JFGNjOjfih"
+            },
+            {
+              "display_url": "pic.x.com/JFGNjOjfih",
+              "end": 27,
+              "expanded_url": "https://x.com/xingxing_byd/status/2034494634274267266/photo/1",
+              "media_key": "3_2034494621762703360",
+              "start": 4,
+              "url": "https://t.co/JFGNjOjfih"
+            },
+            {
+              "display_url": "pic.x.com/JFGNjOjfih",
+              "end": 27,
+              "expanded_url": "https://x.com/xingxing_byd/status/2034494634274267266/photo/1",
+              "media_key": "3_2034494621913698304",
+              "start": 4,
+              "url": "https://t.co/JFGNjOjfih"
+            },
+            {
+              "display_url": "pic.x.com/JFGNjOjfih",
+              "end": 27,
+              "expanded_url": "https://x.com/xingxing_byd/status/2034494634274267266/photo/1",
+              "media_key": "3_2034494618658840576",
+              "start": 4,
+              "url": "https://t.co/JFGNjOjfih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034494634274267266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "多自律 https://t.co/JFGNjOjfih"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2025101983989043315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 206,
+          "like_count": 1560,
+          "listed_count": 0,
+          "media_count": 427,
+          "tweet_count": 1655
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

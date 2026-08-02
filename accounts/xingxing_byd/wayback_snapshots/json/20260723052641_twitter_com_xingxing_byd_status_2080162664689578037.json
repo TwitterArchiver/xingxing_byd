@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080162661229285376"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "2080162664689578037",
+    "created_at": "2026-07-23T05:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T06:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080162664689578037"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qFZh1hBrAv",
+          "end": 23,
+          "expanded_url": "https://x.com/xingxing_byd/status/2080162664689578037/photo/1",
+          "media_key": "3_2080162661229285376",
+          "start": 0,
+          "url": "https://t.co/qFZh1hBrAv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080162664689578037",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/qFZh1hBrAv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080162661229285376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4461GaUAABTRy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080162661229285376"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "2080162664689578037",
+        "created_at": "2026-07-23T05:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080162664689578037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qFZh1hBrAv",
+              "end": 23,
+              "expanded_url": "https://x.com/xingxing_byd/status/2080162664689578037/photo/1",
+              "media_key": "3_2080162661229285376",
+              "start": 0,
+              "url": "https://t.co/qFZh1hBrAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080162664689578037",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qFZh1hBrAv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/瞎说区/改造自己中/生活推/确诊心理疾病‼️/戒o遵医嘱用药",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076773360927924224/qa-1H01f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 313,
+          "like_count": 1620,
+          "listed_count": 0,
+          "media_count": 499,
+          "tweet_count": 2142
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1977925937154199606",
+    "created_at": "2025-10-14T11:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T12:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978057446544298404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978057446544298404",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977925937154199606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 我是17pro"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977925926672556032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3MBJptaYAAxG-A.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1977925937154199606",
+        "created_at": "2025-10-14T11:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T12:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978057446544298404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978057446544298404",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977925937154199606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 我是17pro"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977925926672556032"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "conversation_id": "1977925937154199606",
+        "created_at": "2025-10-14T02:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T03:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977925937154199606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KlgYw4PCNe",
+              "end": 26,
+              "expanded_url": "https://x.com/RainEngine2024/status/1977925937154199606/photo/1",
+              "media_key": "3_1977925926672556032",
+              "start": 3,
+              "url": "https://t.co/KlgYw4PCNe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977925937154199606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1313,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很酷 https://t.co/KlgYw4PCNe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|日常|生活推|有心理疾病‼️|会自残不od|更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1972676670990827762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 144,
+          "like_count": 1615,
+          "listed_count": 1,
+          "media_count": 371,
+          "tweet_count": 1457
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "07年小朋友/貌似不是学生/小米合作伙伴/雨擎项目主理人/爱好拍照记录生活/喜欢折腾数码产品/HRT:2025.09.05/永远相信美好的事情即将发生",
+        "id": "1810873766119100416",
+        "name": "雨晴晴",
+        "pinned_tweet_id": "1975731324443836803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977296759211593728/TgnAAo4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 516,
+          "like_count": 16953,
+          "listed_count": 2,
+          "media_count": 455,
+          "tweet_count": 2914
+        },
+        "username": "RainEngine2024",
+        "verified": false
+      }
+    ]
+  }
+}

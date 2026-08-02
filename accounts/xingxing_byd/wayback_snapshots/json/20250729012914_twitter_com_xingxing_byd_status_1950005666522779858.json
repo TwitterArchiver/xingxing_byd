@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1949926266620301348",
+    "created_at": "2025-07-29T01:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T02:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950005666522779858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950005666522779858",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949926266620301348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 加油猫猫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1949926266620301348",
+        "created_at": "2025-07-29T01:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T02:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950005666522779858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950005666522779858",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949926266620301348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 加油猫猫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705777407794352129",
+        "conversation_id": "1949926266620301348",
+        "created_at": "2025-07-28T20:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T21:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949926266620301348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/servalcandle/s…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/servalcandle/status/1949923062943797725",
+              "start": 139,
+              "url": "https://t.co/pMzrwsE3Ls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949926266620301348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 691,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949923062943797725",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "作为在加拿大体验过免术改证的笨猫\n\n我觉得这感觉就和政府，议会和你自己一起骗你自己（（（\n\n我是没法心安理得的自欺欺人\n\n没做手术性别焦虑就是在的，一张身份证几条法律能说明啥_(:з」∠)_\n\n只能说明政府在帮你一起说谎\n有人能接受，但是我骗不了自己\n\n所以手术该做还是得做的 https://t.co/pMzrwsE3Ls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "另外一次如果 另外一次结果 另外一次假如我。爱我可以给我打钱！vx🚪55",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星系系统✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1949857587027145039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943517309751939072/FxpaGeBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 103,
+          "like_count": 1549,
+          "listed_count": 0,
+          "media_count": 318,
+          "tweet_count": 1285
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "癲貓精靈◡ ヽ(`Д´)ﾉ ┻━┻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWnyu"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "☃️La saison infinie de neige❄️",
+        "name": "🪭𝒩𝑒𝓀𝑜𝓂𝒾𝓎𝒶𝒞𝒶𝓃𝒹𝓁𝑒🌸🎏",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944028998826438657/emzjxQ4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32599,
+          "following_count": 347,
+          "like_count": 225288,
+          "listed_count": 102,
+          "media_count": 7997,
+          "tweet_count": 53255
+        },
+        "url": "https://t.co/PBHqsUWnyu",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

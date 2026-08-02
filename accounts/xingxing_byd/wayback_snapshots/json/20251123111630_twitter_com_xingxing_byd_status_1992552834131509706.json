@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992552830960631809",
+        "3_1992552831157776384"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1992552834131509706",
+    "created_at": "2025-11-23T11:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T12:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992552834131509706"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VXBYspZrQA",
+          "end": 45,
+          "expanded_url": "https://x.com/xingxing_byd/status/1992552834131509706/photo/1",
+          "media_key": "3_1992552830960631809",
+          "start": 22,
+          "url": "https://t.co/VXBYspZrQA"
+        },
+        {
+          "display_url": "pic.x.com/VXBYspZrQA",
+          "end": 45,
+          "expanded_url": "https://x.com/xingxing_byd/status/1992552834131509706/photo/1",
+          "media_key": "3_1992552831157776384",
+          "start": 22,
+          "url": "https://t.co/VXBYspZrQA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992552834131509706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得我的高消费只是富人不起眼的花销💔💔💔 https://t.co/VXBYspZrQA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992552830960631809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6b4PiWbgAElAKC.jpg",
+        "width": 952
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992552831157776384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6b4PjFbsAAZJ4_.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992552830960631809",
+            "3_1992552831157776384"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1992552834131509706",
+        "created_at": "2025-11-23T11:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T12:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992552834131509706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VXBYspZrQA",
+              "end": 45,
+              "expanded_url": "https://x.com/xingxing_byd/status/1992552834131509706/photo/1",
+              "media_key": "3_1992552830960631809",
+              "start": 22,
+              "url": "https://t.co/VXBYspZrQA"
+            },
+            {
+              "display_url": "pic.x.com/VXBYspZrQA",
+              "end": 45,
+              "expanded_url": "https://x.com/xingxing_byd/status/1992552834131509706/photo/1",
+              "media_key": "3_1992552831157776384",
+              "start": 22,
+              "url": "https://t.co/VXBYspZrQA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992552834131509706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我的高消费只是富人不起眼的花销💔💔💔 https://t.co/VXBYspZrQA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "1982380680886800563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983791116177801216/Rnsx8aV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 188,
+          "like_count": 1713,
+          "listed_count": 0,
+          "media_count": 405,
+          "tweet_count": 1540
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2014038451658649641",
+    "created_at": "2026-01-21T18:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T19:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014038451658649641"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/imwsl90/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/imwsl90/status/2013931039891267729",
+          "start": 8,
+          "url": "https://t.co/l8Ak5yWeDS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014038451658649641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013931039891267729",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给孩子发红包😢 https://t.co/l8Ak5yWeDS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2014038451658649641",
+        "created_at": "2026-01-21T18:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T19:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014038451658649641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/imwsl90/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/imwsl90/status/2013931039891267729",
+              "start": 8,
+              "url": "https://t.co/l8Ak5yWeDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014038451658649641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013931039891267729",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给孩子发红包😢 https://t.co/l8Ak5yWeDS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164388321545449472",
+        "conversation_id": "2013931039891267729",
+        "created_at": "2026-01-21T11:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013931039891267729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013931039891267729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 28406,
+          "like_count": 63,
+          "quote_count": 5,
+          "reply_count": 70,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "几乎没有成年人喜欢过年\n\n为什么呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012991233136754688/UQCWfzXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 182,
+          "like_count": 1531,
+          "listed_count": 0,
+          "media_count": 408,
+          "tweet_count": 1556
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T04:06:29.000Z",
+        "description": "程序员/产品经理/销售/中年已婚带2娃\n\n- 互联网、编程、AI、情感、历史、八卦\n\n联系方式: https://t.co/qhzcXic3G8\n我的服务：https://t.co/35tV6ds2ny\n推荐魔法：https://t.co/B5SfJ7LlqH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/imwsl90",
+                "end": 72,
+                "expanded_url": "https://t.me/imwsl90",
+                "start": 49,
+                "url": "https://t.co/qhzcXic3G8"
+              },
+              {
+                "display_url": "fuwu.super.site",
+                "end": 101,
+                "expanded_url": "https://fuwu.super.site/",
+                "start": 78,
+                "url": "https://t.co/35tV6ds2ny"
+              },
+              {
+                "display_url": "tinyurl.com/4auuxfw9",
+                "end": 130,
+                "expanded_url": "https://tinyurl.com/4auuxfw9",
+                "start": 107,
+                "url": "https://t.co/B5SfJ7LlqH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "imwsl.com",
+                "end": 23,
+                "expanded_url": "https://imwsl.com",
+                "start": 0,
+                "url": "https://t.co/jkPrQuSo0I"
+              }
+            ]
+          }
+        },
+        "id": "1164388321545449472",
+        "location": "V: wesley6020",
+        "name": "卫斯理",
+        "pinned_tweet_id": "2007602040172908825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770626410606141440/HFy0Ibg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84152,
+          "following_count": 7571,
+          "like_count": 46128,
+          "listed_count": 550,
+          "media_count": 13165,
+          "tweet_count": 75321
+        },
+        "url": "https://t.co/jkPrQuSo0I",
+        "username": "imwsl90",
+        "verified": true
+      }
+    ]
+  }
+}

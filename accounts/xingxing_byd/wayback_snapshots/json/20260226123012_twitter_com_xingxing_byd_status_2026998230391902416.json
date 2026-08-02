@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2026998230391902416",
+    "created_at": "2026-02-26T12:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T13:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026998230391902416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1518404201168007168",
+          "start": 3,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026998230391902416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026966957338288483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @godspeedyou50: 巧克力，疏肝解郁胶囊。\n我不推荐你接触药物因为这样是魔鬼世界的钥匙，且其实没那么有用。\n你如果真的很紧张焦虑那么药物也不会让它立刻无影无踪，只是一种错觉。\n所以紧张焦虑只是一种状态，它总会过去的，而且仔细想想吧，哪有什么太多天塌下来的事，不…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 740,
+        "media_key": "3_2026966949369184257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCE7s3ybgAEeoHe.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2026998230391902416",
+        "created_at": "2026-02-26T12:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T13:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026998230391902416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1518404201168007168",
+              "start": 3,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026998230391902416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026966957338288483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @godspeedyou50: 巧克力，疏肝解郁胶囊。\n我不推荐你接触药物因为这样是魔鬼世界的钥匙，且其实没那么有用。\n你如果真的很紧张焦虑那么药物也不会让它立刻无影无踪，只是一种错觉。\n所以紧张焦虑只是一种状态，它总会过去的，而且仔细想想吧，哪有什么太多天塌下来的事，不…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026966949369184257"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2026966957338288483",
+        "created_at": "2026-02-26T10:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T11:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026966957338288483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cSmHuHbSHo",
+              "end": 149,
+              "expanded_url": "https://x.com/godspeedyou50/status/2026966957338288483/photo/1",
+              "media_key": "3_2026966949369184257",
+              "start": 126,
+              "url": "https://t.co/cSmHuHbSHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026966957338288483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "巧克力，疏肝解郁胶囊。\n我不推荐你接触药物因为这样是魔鬼世界的钥匙，且其实没那么有用。\n你如果真的很紧张焦虑那么药物也不会让它立刻无影无踪，只是一种错觉。\n所以紧张焦虑只是一种状态，它总会过去的，而且仔细想想吧，哪有什么太多天塌下来的事，不要逃避情绪 https://t.co/cSmHuHbSHo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2025101983989043315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 204,
+          "like_count": 1548,
+          "listed_count": 0,
+          "media_count": 423,
+          "tweet_count": 1611
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 140,
+          "like_count": 485,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1436
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

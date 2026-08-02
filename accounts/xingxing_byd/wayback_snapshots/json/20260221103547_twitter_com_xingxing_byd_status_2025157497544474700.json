@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2024848430091378847",
+    "created_at": "2026-02-21T10:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T11:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025157497544474700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1861945185732829184",
+          "start": 0,
+          "username": "dilireba7766"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025157497544474700",
+    "in_reply_to_user_id": "1861945185732829184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024848430091378847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dilireba7766 姐姐真美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1798,
+        "media_key": "3_2024848410483007488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBm05rbaoAAeJ1y.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2024848430091378847",
+        "created_at": "2026-02-21T10:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T11:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025157497544474700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1861945185732829184",
+              "start": 0,
+              "username": "dilireba7766"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025157497544474700",
+        "in_reply_to_user_id": "1861945185732829184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024848430091378847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dilireba7766 姐姐真美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024848410483007488"
+          ]
+        },
+        "author_id": "1861945185732829184",
+        "conversation_id": "2024848430091378847",
+        "created_at": "2026-02-20T14:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024848430091378847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DtGSYtPguz",
+              "end": 25,
+              "expanded_url": "https://x.com/dilireba7766/status/2024848430091378847/photo/1",
+              "media_key": "3_2024848410483007488",
+              "start": 2,
+              "url": "https://t.co/DtGSYtPguz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024848430091378847",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1400,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "互 https://t.co/DtGSYtPguz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2025101983989043315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 197,
+          "like_count": 1534,
+          "listed_count": 0,
+          "media_count": 417,
+          "tweet_count": 1577
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-28T01:29:17.000Z",
+        "description": "互fo互评互赞（每天在线，回关极快，fo必回）🌹",
+        "id": "1861945185732829184",
+        "location": "美丽城市",
+        "name": "Xuemalan（互关，互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997490054415966208/-ELWd4TN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6683,
+          "following_count": 7502,
+          "like_count": 5282,
+          "listed_count": 2,
+          "media_count": 866,
+          "tweet_count": 5098
+        },
+        "username": "dilireba7766",
+        "verified": false
+      }
+    ]
+  }
+}

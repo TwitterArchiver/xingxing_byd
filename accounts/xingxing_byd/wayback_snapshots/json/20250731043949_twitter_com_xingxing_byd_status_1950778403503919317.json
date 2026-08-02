@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1950580041211093288",
+    "created_at": "2025-07-31T04:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T05:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950778403503919317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950778403503919317",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950580041211093288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 哇，你买了，这个好玩吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2062,
+        "media_key": "3_1950580023922192384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxHaMnfa8AA6IYf.jpg",
+        "width": 2748
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1950580041211093288",
+        "created_at": "2025-07-31T04:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T05:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950778403503919317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950778403503919317",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950580041211093288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 哇，你买了，这个好玩吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950580023922192384"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "conversation_id": "1950580041211093288",
+        "created_at": "2025-07-30T15:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T16:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950580041211093288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KKOIhRF1vt",
+              "end": 135,
+              "expanded_url": "https://x.com/ServalCandle/status/1950580041211093288/photo/1",
+              "media_key": "3_1950580023922192384",
+              "start": 112,
+              "url": "https://t.co/KKOIhRF1vt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950580041211093288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 760,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可可爱爱电子设备（（（\n\n全球没一个国家比得上东亚中日韩联盟\n_(:з」∠)_\n\n特别是英联邦那几个，什么加拿大澳大利亚不列颠…\n\n在英语区就很明显，可爱的东西要贵十倍\n完全就是有钱人的玩具\n\n不过加拿大这几年开化了一点了 https://t.co/KKOIhRF1vt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "另外一次如果 另外一次结果 另外一次假如我。爱我可以给我打钱！vx🚪55",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星系系统✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1950222569610604985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943517309751939072/FxpaGeBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 104,
+          "like_count": 1549,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 1293
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "癲貓精靈◡ ヽ(`Д´)ﾉ ┻━┻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWnyu"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "☃️La saison infinie de neige❄️",
+        "name": "🪭𝒩𝑒𝓀𝑜𝓂𝒾𝓎𝒶𝒞𝒶𝓃𝒹𝓁𝑒🌸🎏",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944028998826438657/emzjxQ4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32590,
+          "following_count": 347,
+          "like_count": 225318,
+          "listed_count": 102,
+          "media_count": 8007,
+          "tweet_count": 53293
+        },
+        "url": "https://t.co/PBHqsUWnyu",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

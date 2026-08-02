@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2026865475674878258",
+    "created_at": "2026-02-26T03:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T04:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026865475674878258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1965448764686303235",
+          "start": 3,
+          "username": "mio_negimeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026865475674878258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026829745233736053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mio_negimeow: 我非常建议在有任何自残或者药物滥用强烈想法之前的人都先试试用纵欲来解决…\n我感觉这是最安全也是最爽的解决方式…反正我最难过的时候都会这么干…\n术前AMAB不妨看看生如夏花，女孩子也可以试试各种各样的小玩具\n没什么好羞耻的，我觉得宁愿沉迷这个，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2026865475674878258",
+        "created_at": "2026-02-26T03:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T04:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026865475674878258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1965448764686303235",
+              "start": 3,
+              "username": "mio_negimeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026865475674878258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026829745233736053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mio_negimeow: 我非常建议在有任何自残或者药物滥用强烈想法之前的人都先试试用纵欲来解决…\n我感觉这是最安全也是最爽的解决方式…反正我最难过的时候都会这么干…\n术前AMAB不妨看看生如夏花，女孩子也可以试试各种各样的小玩具\n没什么好羞耻的，我觉得宁愿沉迷这个，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965448764686303235",
+        "conversation_id": "2026829745233736053",
+        "created_at": "2026-02-26T01:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026829745233736053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026829745233736053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 966,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我非常建议在有任何自残或者药物滥用强烈想法之前的人都先试试用纵欲来解决…\n我感觉这是最安全也是最爽的解决方式…反正我最难过的时候都会这么干…\n术前AMAB不妨看看生如夏花，女孩子也可以试试各种各样的小玩具\n没什么好羞耻的，我觉得宁愿沉迷这个，也不要沉迷那些真正危险的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜生活推｜有心理疾病‼️｜尽量做个乖宝宝｜更新奇思妙想｜为祖国繁荣而骄傲",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2025101983989043315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792435407327232/QB8kux3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 204,
+          "like_count": 1546,
+          "listed_count": 0,
+          "media_count": 423,
+          "tweet_count": 1605
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T16:14:58.000Z",
+        "description": "aka. Snowmiku❄️｜姛｜Feminist ｜喜欢探索世界的理工女 ｜ 日常碎碎念\n是什么呢？顾名思义是一只葱，那为什么是酱葱呢，因为葱酱很可爱！（无端//）",
+        "id": "1965448764686303235",
+        "name": "酱葱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993376877587972104/nec22BPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 45,
+          "like_count": 310,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 201
+        },
+        "username": "mio_negimeow",
+        "verified": false
+      }
+    ]
+  }
+}

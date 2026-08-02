@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983784948806074368",
+        "3_1983784948739010561"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "1983784951645601913",
+    "created_at": "2025-10-30T06:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T07:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983784951645601913"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uuWh6FqD5O",
+          "end": 41,
+          "expanded_url": "https://x.com/xingxing_byd/status/1983784951645601913/photo/1",
+          "media_key": "3_1983784948806074368",
+          "start": 18,
+          "url": "https://t.co/uuWh6FqD5O"
+        },
+        {
+          "display_url": "pic.x.com/uuWh6FqD5O",
+          "end": 41,
+          "expanded_url": "https://x.com/xingxing_byd/status/1983784951645601913/photo/1",
+          "media_key": "3_1983784948739010561",
+          "start": 18,
+          "url": "https://t.co/uuWh6FqD5O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983784951645601913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "花了我300多大洋，花呗3期分期。 https://t.co/uuWh6FqD5O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983784948806074368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4fR5oBaQAAk8NR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983784948739010561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4fR5nxa8AEGUPr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983784948806074368",
+            "3_1983784948739010561"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "1983784951645601913",
+        "created_at": "2025-10-30T06:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T07:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983784951645601913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uuWh6FqD5O",
+              "end": 41,
+              "expanded_url": "https://x.com/xingxing_byd/status/1983784951645601913/photo/1",
+              "media_key": "3_1983784948806074368",
+              "start": 18,
+              "url": "https://t.co/uuWh6FqD5O"
+            },
+            {
+              "display_url": "pic.x.com/uuWh6FqD5O",
+              "end": 41,
+              "expanded_url": "https://x.com/xingxing_byd/status/1983784951645601913/photo/1",
+              "media_key": "3_1983784948739010561",
+              "start": 18,
+              "url": "https://t.co/uuWh6FqD5O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983784951645601913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "花了我300多大洋，花呗3期分期。 https://t.co/uuWh6FqD5O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年｜女生｜日常｜💯｜生活推｜有心理疾病‼️｜极偶尔自残不od｜更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "1982380680886800563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 148,
+          "like_count": 1636,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 1489
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2066093548618084770",
+    "created_at": "2026-06-15T10:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066465642962923857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1805373961020260353",
+          "start": 0,
+          "username": "ciyou9443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066465642962923857",
+    "in_reply_to_user_id": "1805373961020260353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066093548618084770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ciyou9443 去医院处理一下吧喵呜 好痛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066093545992474624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw9Iimb0AAN0vJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066093545853947906",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw9IiFaEAIrgWr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2066093548618084770",
+        "created_at": "2026-06-15T10:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066465642962923857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066465642962923857",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066093548618084770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 去医院处理一下吧喵呜 好痛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066093545992474624",
+            "3_2066093545853947906"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2066093548618084770",
+        "created_at": "2026-06-14T09:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066093548618084770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gIF5jOH7IV",
+              "end": 38,
+              "expanded_url": "https://x.com/ciyou9443/status/2066093548618084770/photo/1",
+              "media_key": "3_2066093545992474624",
+              "start": 15,
+              "url": "https://t.co/gIF5jOH7IV"
+            },
+            {
+              "display_url": "pic.x.com/gIF5jOH7IV",
+              "end": 38,
+              "expanded_url": "https://x.com/ciyou9443/status/2066093548618084770/photo/1",
+              "media_key": "3_2066093545853947906",
+              "start": 15,
+              "url": "https://t.co/gIF5jOH7IV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066093548618084770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 438,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚开心没两秒，就疼的我嗷嗷叫 https://t.co/gIF5jOH7IV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053496659234185216/Qd9JXfn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 263,
+          "like_count": 1635,
+          "listed_count": 0,
+          "media_count": 458,
+          "tweet_count": 1961
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "病树前头，毁肌销骨  眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "location": "望舒",
+        "name": "素素素素素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045902863415787520/BP3YXPI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 564,
+          "like_count": 11963,
+          "listed_count": 5,
+          "media_count": 425,
+          "tweet_count": 3257
+        },
+        "username": "ciyou9443",
+        "verified": true
+      }
+    ]
+  }
+}

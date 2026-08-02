@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "1970937687441060290",
+    "created_at": "2025-09-24T23:59:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T00:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971001617555259410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971001617555259410",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970937687441060290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 不锈钢盆好打理，不容易碎。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1469,
+        "media_key": "3_1970937680986025984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1otYN2asAAbEwa.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "1970937687441060290",
+        "created_at": "2025-09-24T23:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T00:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971001617555259410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971001617555259410",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970937687441060290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 不锈钢盆好打理，不容易碎。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970937680986025984"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "conversation_id": "1970937687441060290",
+        "created_at": "2025-09-24T19:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T20:40:18.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970936348438905230",
+          "1970937687441060290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bW1CNgFJC6",
+              "end": 173,
+              "expanded_url": "https://x.com/ServalCandle/status/1970937687441060290/photo/1",
+              "media_key": "3_1970937680986025984",
+              "start": 150,
+              "url": "https://t.co/bW1CNgFJC6"
+            },
+            {
+              "display_url": "x.com/itzqing/status…",
+              "end": 197,
+              "expanded_url": "https://twitter.com/itzqing/status/1970933943697629299",
+              "start": 174,
+              "url": "https://t.co/HDX0dml2x3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970937687441060290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 497,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970933943697629299",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咴咴发了用铁盆装面的照片…\n导致笨猫凌晨睡不着在想这事（（（\n\n为什么咴咴会用铁盆吃饭？\n补铁？生活方式？模仿韩流？\n\n结果有姐姐出来说从小就用铁盆吃饭…\n\n震撼笨猫时刻(⊙_⊙)\n\n原来用铁盆吃饭是很普遍的事情吗？？\n\n我见过那种金属托盘装食物\n但是为什么是铁盆呢…？\n\n笨猫已经无法跟上潮流了… https://t.co/bW1CNgFJC6 https://t.co/HDX0dml2x3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年|女生|碎碎念|日常|美食|生活推|岁月静好ing|奇思妙想|积极生活",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🍔🍟🍓🍊🍣🍡🍰🍦🧀🍯🌶️🍕",
+        "pinned_tweet_id": "1969253665107038227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248382860013568/V50zla0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 124,
+          "like_count": 1521,
+          "listed_count": 1,
+          "media_count": 354,
+          "tweet_count": 1409
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "癲貓精靈 笨貓不靈 (｡-_-｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "☃️La saison infinie de neige❄️",
+        "name": "🙀大笨貓𝕮𝖆𝖓𝖉𝖑𝖊🎃🍂",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944028998826438657/emzjxQ4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32781,
+          "following_count": 343,
+          "like_count": 225879,
+          "listed_count": 100,
+          "media_count": 8192,
+          "tweet_count": 54251
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}
