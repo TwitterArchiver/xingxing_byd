@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2089071396844630363",
+    "created_at": "2026-08-16T19:26:48.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T20:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089071396844630363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1636774495980752897",
+          "start": 3,
+          "username": "JewBizLogic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089071396844630363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069935727526482137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JewBizLogic: 国内吸毒的人群其实正在断崖式下跌，连戒毒所都快清空了，里面的管教都在分流去学心理疏导，因为根本没收容对象了。\n\n别不信，治好这些老毒虫的不是什么道德感化，而是两个字：太穷。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2089071396844630363",
+        "created_at": "2026-08-16T19:26:48.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T20:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089071396844630363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1636774495980752897",
+              "start": 3,
+              "username": "JewBizLogic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089071396844630363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069935727526482137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JewBizLogic: 国内吸毒的人群其实正在断崖式下跌，连戒毒所都快清空了，里面的管教都在分流去学心理疏导，因为根本没收容对象了。\n\n别不信，治好这些老毒虫的不是什么道德感化，而是两个字：太穷。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636774495980752897",
+        "conversation_id": "2069935727526482137",
+        "created_at": "2026-06-25T00:08:29.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-25T01:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069935727526482137"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069935727526482137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "国内吸毒的人群其实正在断崖式下跌，连戒毒所都快清空了，里面的管教都在分流去学心理疏导，因为根本没收容对象了。\n\n别不信，治好这些老毒虫的不是什么道德感化，而是两个字：太穷。\n\n现在国内对易制毒化学品的管控严格到变态，实验室买点基础试剂都得专车专人专柜。这直接导致毒品产量暴跌，价格飙升。以前冰毒一百块一克，现在两三千。\n\n我亲戚就是个老毒虫，以前进过无数次强戒所都戒不掉。现在他彻底老实了，因为他根本吸不起。\n\n以前靠骗父母、骗朋友还能凑合，现在他就是把全家卖了也凑不够一口的钱。在绝对的贫穷面前，什么心瘾难除、什么心理戒断困难，全都是伪命题。买不起，他就得给我老老实实当个普通人。\n\n所以，没有什么瘾是穷治不好的。如果有，那只是因为他还不够穷。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 290,
+          "impression_count": 725688,
+          "like_count": 1671,
+          "quote_count": 20,
+          "reply_count": 415,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "国内吸毒的人群其实正在断崖式下跌，连戒毒所都快清空了，里面的管教都在分流去学心理疏导，因为根本没收容对象了。\n\n别不信，治好这些老毒虫的不是什么道德感化，而是两个字：太穷。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "堕落太简单了，难得就是极限拉扯（欢迎互fo）",
+        "id": "1776704652483891200",
+        "is_identity_verified": false,
+        "location": "我梦中的幻想乡",
+        "most_recent_tweet_id": "2089071396844630363",
+        "name": "星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776704652483891200/1782996120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076773360927924224/qa-1H01f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 322,
+          "like_count": 1622,
+          "listed_count": 0,
+          "media_count": 500,
+          "tweet_count": 2162
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-17T17:00:49.000Z",
+        "description": "看透了价值交换，就看透了生活万象。在噪音中保持清醒，做个不入局的操盘手。 所谓命运，不过是认知的变现。",
+        "id": "1636774495980752897",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2084219902513266857",
+        "name": "JewBiz",
+        "pinned_tweet_id": "2008379686741594484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1636774495980752897/1764304652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994264359347122177/zhUw-MCd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17891,
+          "following_count": 2234,
+          "like_count": 779,
+          "listed_count": 90,
+          "media_count": 238,
+          "tweet_count": 6990
+        },
+        "url": "",
+        "username": "JewBizLogic",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2089057418974290160",
+    "created_at": "2026-08-18T21:21:44.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T22:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089825094583689712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1994853283907997698",
+          "start": 0,
+          "username": "kateamine66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089825094583689712",
+    "in_reply_to_user_id": "1994853283907997698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089788396755653021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kateamine66 是啊是啊😄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2089057418974290160",
+        "created_at": "2026-08-18T21:21:44.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T22:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089825094583689712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1994853283907997698",
+              "start": 0,
+              "username": "kateamine66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089825094583689712",
+        "in_reply_to_user_id": "1994853283907997698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089788396755653021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kateamine66 是啊是啊😄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994853283907997698",
+        "conversation_id": "2089057418974290160",
+        "created_at": "2026-08-18T18:55:54.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089788396755653021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1776704652483891200",
+              "start": 0,
+              "username": "xingxing_byd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089788396755653021",
+        "in_reply_to_user_id": "1776704652483891200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089058301036359857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingxing_byd 🥹好久不見了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "堕落太简单了，难得就是极限拉扯（欢迎互fo）",
+        "id": "1776704652483891200",
+        "is_identity_verified": false,
+        "location": "我梦中的幻想乡",
+        "most_recent_tweet_id": "2089825094583689712",
+        "name": "星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776704652483891200/1782996120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076773360927924224/qa-1H01f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 330,
+          "like_count": 1629,
+          "listed_count": 0,
+          "media_count": 500,
+          "tweet_count": 2177
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-29T19:37:51.000Z",
+        "description": "曾經擁有4萬粉絲的小網紅努力戒毒中，勵志成爲擁有好多好多粉絲的網紅或者地偶！小號@kateamine149062，奇怪的内容放在小號",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "kateamine149062"
+              }
+            ]
+          }
+        },
+        "id": "1994853283907997698",
+        "is_identity_verified": false,
+        "location": "臺中",
+        "most_recent_tweet_id": "2089789671379505322",
+        "name": "Kateamine66",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994853283907997698/1765819361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000614275040317440/sQCImXwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8826,
+          "following_count": 21,
+          "like_count": 51,
+          "listed_count": 13,
+          "media_count": 95,
+          "tweet_count": 744
+        },
+        "url": "",
+        "username": "kateamine66",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

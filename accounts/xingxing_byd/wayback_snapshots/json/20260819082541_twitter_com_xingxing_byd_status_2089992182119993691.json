@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2089992182119993691",
+    "created_at": "2026-08-19T08:25:41.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T09:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089992182119993691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1915676630305169410",
+          "start": 3,
+          "username": "eating310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089992182119993691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089988440708493442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eating310: 昨天总结我还是看起来像小孩的原因是：没有工作，逃避这个我预想的规则。今天又要加上一个原因：这个家里人都在把我当小孩。烹饪出来的好吃的还是要给我分第一口。爷爷卫生间敲门，问有没有人，我还是依旧夹着嗓子不知道伪装成谁的声音，说：没有人，请进来吧。他听到…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2089992182119993691",
+        "created_at": "2026-08-19T08:25:41.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089992182119993691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1915676630305169410",
+              "start": 3,
+              "username": "eating310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089992182119993691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089988440708493442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eating310: 昨天总结我还是看起来像小孩的原因是：没有工作，逃避这个我预想的规则。今天又要加上一个原因：这个家里人都在把我当小孩。烹饪出来的好吃的还是要给我分第一口。爷爷卫生间敲门，问有没有人，我还是依旧夹着嗓子不知道伪装成谁的声音，说：没有人，请进来吧。他听到…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915676630305169410",
+        "conversation_id": "2089988440708493442",
+        "created_at": "2026-08-19T08:10:49.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089988440708493442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089988440708493442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "昨天总结我还是看起来像小孩的原因是：没有工作，逃避这个我预想的规则。今天又要加上一个原因：这个家里人都在把我当小孩。烹饪出来的好吃的还是要给我分第一口。爷爷卫生间敲门，问有没有人，我还是依旧夹着嗓子不知道伪装成谁的声音，说：没有人，请进来吧。他听到的时候又偷偷地笑。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "堕落太简单了，难得就是极限拉扯（欢迎互fo）",
+        "id": "1776704652483891200",
+        "is_identity_verified": false,
+        "location": "我梦中的幻想乡",
+        "most_recent_tweet_id": "2089992182119993691",
+        "name": "星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776704652483891200/1782996120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076773360927924224/qa-1H01f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 328,
+          "like_count": 1635,
+          "listed_count": 0,
+          "media_count": 500,
+          "tweet_count": 2184
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-25T07:58:11.000Z",
+        "description": "烂烂的我烂烂地活着",
+        "id": "1915676630305169410",
+        "is_identity_verified": false,
+        "location": "宇宙中遨游",
+        "most_recent_tweet_id": "2089990397494022649",
+        "name": "小小小天狼星",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085232184991047680/Dj9zAp6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 48,
+          "like_count": 1685,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 332
+        },
+        "url": "",
+        "username": "eating310",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

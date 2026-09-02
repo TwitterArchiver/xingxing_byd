@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089249067138273280"
+      ],
+      "media_source_tweet_id": [
+        "2089250062262243764"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2089509772261564685",
+    "created_at": "2026-08-18T00:28:45.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T01:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089509772261564685"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "工匠"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1470889179987193859",
+          "start": 3,
+          "username": "zhangmanman555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WszdzNvw4m",
+          "end": 83,
+          "expanded_url": "https://x.com/zhangmanman555/status/2089250062262243764/video/1",
+          "media_key": "13_2089249067138273280",
+          "start": 60,
+          "url": "https://t.co/WszdzNvw4m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089509772261564685",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2089249067138273280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089250062262243764",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhangmanman555: 我的好奇心终于有了解答！石狮子嘴里的球到底是怎么放进去的？全过程来了！ #工匠 https://t.co/WszdzNvw4m"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46416,
+        "height": 1280,
+        "media_key": "13_2089249067138273280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089249067138273280/img/9bNy-CF6iqiaFGsc.jpg",
+        "public_metrics": {
+          "view_count": 4328
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089249067138273280/vid/avc1/320x568/splBLV3iMqYsw0EY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089249067138273280/vid/avc1/480x852/UjIRSUCIVrAd0XbC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089249067138273280/vid/avc1/720x1280/yX8-W7dn7hNJqPxm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089249067138273280/pl/TiwYqw9ITGqOc8W6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089249067138273280"
+          ],
+          "media_source_tweet_id": [
+            "2089250062262243764"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089509772261564685",
+        "created_at": "2026-08-18T00:28:45.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T01:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089509772261564685"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "工匠"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1470889179987193859",
+              "start": 3,
+              "username": "zhangmanman555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WszdzNvw4m",
+              "end": 83,
+              "expanded_url": "https://x.com/zhangmanman555/status/2089250062262243764/video/1",
+              "media_key": "13_2089249067138273280",
+              "start": 60,
+              "url": "https://t.co/WszdzNvw4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089509772261564685",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089249067138273280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089250062262243764",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhangmanman555: 我的好奇心终于有了解答！石狮子嘴里的球到底是怎么放进去的？全过程来了！ #工匠 https://t.co/WszdzNvw4m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089249067138273280"
+          ]
+        },
+        "author_id": "1470889179987193859",
+        "conversation_id": "2089250062262243764",
+        "created_at": "2026-08-17T07:16:45.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T08:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089250062262243764"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "工匠"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WszdzNvw4m",
+              "end": 63,
+              "expanded_url": "https://x.com/zhangmanman555/status/2089250062262243764/video/1",
+              "media_key": "13_2089249067138273280",
+              "start": 40,
+              "url": "https://t.co/WszdzNvw4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089250062262243764",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089249067138273280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9018,
+          "like_count": 55,
+          "quote_count": 2,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的好奇心终于有了解答！石狮子嘴里的球到底是怎么放进去的？全过程来了！ #工匠 https://t.co/WszdzNvw4m"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "堕落太简单了，难得就是极限拉扯（欢迎互fo）",
+        "id": "1776704652483891200",
+        "is_identity_verified": false,
+        "location": "我梦中的幻想乡",
+        "most_recent_tweet_id": "2089509772261564685",
+        "name": "星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776704652483891200/1782996120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076773360927924224/qa-1H01f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 329,
+          "like_count": 1626,
+          "listed_count": 0,
+          "media_count": 500,
+          "tweet_count": 2171
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-14T22:52:00.000Z",
+        "description": "爱生活！分享美好！（欢迎互fo）\n中华古诗词，到底有多美！\n最美中国字！\n（图源自网络，侵删，谢谢！）",
+        "id": "1470889179987193859",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089503542608310315",
+        "name": "张蔓蔓",
+        "pinned_tweet_id": "2043117140681666909",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1470890985437630464/L2bbxc_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118371,
+          "following_count": 60841,
+          "like_count": 1065840,
+          "listed_count": 236,
+          "media_count": 12541,
+          "tweet_count": 37620
+        },
+        "url": "",
+        "username": "zhangmanman555",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

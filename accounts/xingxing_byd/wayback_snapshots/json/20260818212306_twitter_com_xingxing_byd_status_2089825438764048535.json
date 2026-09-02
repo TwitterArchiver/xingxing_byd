@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089786279672283136"
+      ],
+      "media_source_tweet_id": [
+        "2089788121961603128"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "2089825438764048535",
+    "created_at": "2026-08-18T21:23:06.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T22:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089825438764048535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1994853283907997698",
+          "start": 3,
+          "username": "kateamine66"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CVLwAmpSIM",
+          "end": 61,
+          "expanded_url": "https://x.com/kateamine66/status/2089788121961603128/photo/1",
+          "media_key": "3_2089786279672283136",
+          "start": 38,
+          "url": "https://t.co/CVLwAmpSIM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089825438764048535",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089786279672283136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089788121961603128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kateamine66: 吃飽到壞掉了。60轉po就在小號發影片~ https://t.co/CVLwAmpSIM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1415,
+        "media_key": "3_2089786279672283136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBpjJhaAAA-X3E.jpg",
+        "width": 1892
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089786279672283136"
+          ],
+          "media_source_tweet_id": [
+            "2089788121961603128"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "2089825438764048535",
+        "created_at": "2026-08-18T21:23:06.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T22:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089825438764048535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1994853283907997698",
+              "start": 3,
+              "username": "kateamine66"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CVLwAmpSIM",
+              "end": 61,
+              "expanded_url": "https://x.com/kateamine66/status/2089788121961603128/photo/1",
+              "media_key": "3_2089786279672283136",
+              "start": 38,
+              "url": "https://t.co/CVLwAmpSIM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089825438764048535",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089786279672283136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089788121961603128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kateamine66: 吃飽到壞掉了。60轉po就在小號發影片~ https://t.co/CVLwAmpSIM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089786279672283136"
+          ]
+        },
+        "author_id": "1994853283907997698",
+        "conversation_id": "2089788121961603128",
+        "created_at": "2026-08-18T18:54:49.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089788121961603128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CVLwAmpSIM",
+              "end": 44,
+              "expanded_url": "https://x.com/kateamine66/status/2089788121961603128/photo/1",
+              "media_key": "3_2089786279672283136",
+              "start": 21,
+              "url": "https://t.co/CVLwAmpSIM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089788121961603128",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089786279672283136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 766,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "吃飽到壞掉了。60轉po就在小號發影片~ https://t.co/CVLwAmpSIM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "堕落太简单了，难得就是极限拉扯（欢迎互fo）",
+        "id": "1776704652483891200",
+        "is_identity_verified": false,
+        "location": "我梦中的幻想乡",
+        "most_recent_tweet_id": "2089825438764048535",
+        "name": "星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776704652483891200/1782996120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076773360927924224/qa-1H01f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 330,
+          "like_count": 1629,
+          "listed_count": 0,
+          "media_count": 500,
+          "tweet_count": 2178
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-29T19:37:51.000Z",
+        "description": "曾經擁有4萬粉絲的小網紅努力戒毒中，勵志成爲擁有好多好多粉絲的網紅或者地偶！小號@kateamine149062，奇怪的内容放在小號",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "kateamine149062"
+              }
+            ]
+          }
+        },
+        "id": "1994853283907997698",
+        "is_identity_verified": false,
+        "location": "臺中",
+        "most_recent_tweet_id": "2089789671379505322",
+        "name": "Kateamine66",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994853283907997698/1765819361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000614275040317440/sQCImXwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8826,
+          "following_count": 21,
+          "like_count": 51,
+          "listed_count": 13,
+          "media_count": 95,
+          "tweet_count": 744
+        },
+        "url": "",
+        "username": "kateamine66",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
