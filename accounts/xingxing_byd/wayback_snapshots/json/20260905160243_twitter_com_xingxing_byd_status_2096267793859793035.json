@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2096267793859793035",
+    "created_at": "2026-09-05T16:02:43.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096267793859793035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/F0ODHub/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/F0ODHub/status/2096014945595122053",
+          "start": 5,
+          "url": "https://t.co/ugHwnUEvtg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096267793859793035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096014945595122053",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "绝对适合 https://t.co/ugHwnUEvtg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1158,
+        "media_key": "3_2096014936132526084",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRaKerAXoAQAmyM.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2096267793859793035",
+        "created_at": "2026-09-05T16:02:43.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096267793859793035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/F0ODHub/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/F0ODHub/status/2096014945595122053",
+              "start": 5,
+              "url": "https://t.co/ugHwnUEvtg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096267793859793035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096014945595122053",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绝对适合 https://t.co/ugHwnUEvtg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096014936132526084"
+          ]
+        },
+        "author_id": "1786413884473008128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096014945595122053",
+        "created_at": "2026-09-04T23:17:59.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T00:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096014945595122053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nKGZmcqGo2",
+              "end": 57,
+              "expanded_url": "https://x.com/F0ODHub/status/2096014945595122053/photo/1",
+              "media_key": "3_2096014936132526084",
+              "start": 34,
+              "url": "https://t.co/nKGZmcqGo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096014945595122053",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096014936132526084"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 28051,
+          "like_count": 1079,
+          "quote_count": 57,
+          "reply_count": 318,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "Do raw onions belong on a burger? https://t.co/nKGZmcqGo2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "堕落太简单了，难得就是极限拉扯（欢迎互fo）",
+        "id": "1776704652483891200",
+        "is_identity_verified": false,
+        "location": "我梦中的幻想乡",
+        "most_recent_tweet_id": "2096267793859793035",
+        "name": "星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776704652483891200/1782996120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093282974334926848/xAT6ymt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 339,
+          "like_count": 1663,
+          "listed_count": 0,
+          "media_count": 509,
+          "tweet_count": 2238
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-03T15:14:17.000Z",
+        "description": "Serving up deliciousness one plate at a time. From recipes to food trends, join us on a flavorful journey!",
+        "id": "1786413884473008128",
+        "is_identity_verified": false,
+        "location": "Egypt",
+        "most_recent_tweet_id": "2096266780582814163",
+        "name": "Food Hub",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786413884473008128/1741210489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913567752981250048/cQPKQ_IA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144518,
+          "following_count": 6030,
+          "like_count": 502,
+          "listed_count": 199,
+          "media_count": 5127,
+          "tweet_count": 6245
+        },
+        "url": "",
+        "username": "F0ODHub",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

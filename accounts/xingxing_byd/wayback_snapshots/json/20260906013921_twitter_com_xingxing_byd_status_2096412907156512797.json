@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2096412907156512797",
+    "created_at": "2026-09-06T01:39:21.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T02:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096412907156512797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xijiu_/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/xijiu_/status/2096218481872257473",
+          "start": 8,
+          "url": "https://t.co/Jcdi7REEeI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096412907156512797",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096218481872257473",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是一堆手串子 https://t.co/Jcdi7REEeI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2096412907156512797",
+        "created_at": "2026-09-06T01:39:21.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T02:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096412907156512797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xijiu_/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/xijiu_/status/2096218481872257473",
+              "start": 8,
+              "url": "https://t.co/Jcdi7REEeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096412907156512797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096218481872257473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是一堆手串子 https://t.co/Jcdi7REEeI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560129932524544000",
+        "conversation_id": "2096218481872257473",
+        "created_at": "2026-09-05T12:46:46.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096218481872257473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ryyyyoin/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/ryyyyoin/status/2096186642436624518",
+              "start": 8,
+              "url": "https://t.co/IRYmlNc34C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096218481872257473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 358,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096186642436624518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是我的药箱…… https://t.co/IRYmlNc34C"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "可爱小猫一只‖有点傻有点逆反‖生活推‖偏3次但不反感2次毕竟以前咱是2次喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/hFne52ut9",
+                "end": 23,
+                "expanded_url": "https://discord.gg/hFne52ut9",
+                "start": 0,
+                "url": "https://t.co/uxOfMr2o29"
+              }
+            ]
+          }
+        },
+        "id": "1776704652483891200",
+        "is_identity_verified": false,
+        "location": "我梦里的幻想岛",
+        "most_recent_tweet_id": "2096412907156512797",
+        "name": "星猫˵＞𖥦＜˵🍣🍰🍙🍛🍜",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776704652483891200/1782996120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093282974334926848/xAT6ymt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 346,
+          "like_count": 1671,
+          "listed_count": 0,
+          "media_count": 512,
+          "tweet_count": 2252
+        },
+        "url": "https://t.co/uxOfMr2o29",
+        "username": "xingxing_byd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "🏳️‍⚧️|生命久如暗室，不妨碍我明写春诗|I’m Nicy , a freshman majoring in chemistry from China.| The Jesus loves us equally.",
+        "id": "1560129932524544000",
+        "is_identity_verified": false,
+        "location": "被有机实验室炸飞的电化学实验室",
+        "most_recent_tweet_id": "2096409174422999067",
+        "name": "希玖.",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560129932524544000/1742003483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3766,
+          "following_count": 862,
+          "like_count": 211919,
+          "listed_count": 3,
+          "media_count": 764,
+          "tweet_count": 10192
+        },
+        "url": "",
+        "username": "xijiu_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

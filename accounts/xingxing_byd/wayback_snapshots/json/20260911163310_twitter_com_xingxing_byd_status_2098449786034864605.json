@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2098042183085666364",
+    "created_at": "2026-09-11T16:33:10.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T17:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098449786034864605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098449786034864605",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098042183085666364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 这个很好吃的样子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2098042001388453888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2-FZibwAAGOhU.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2098042183085666364",
+        "created_at": "2026-09-11T16:33:10.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098449786034864605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098449786034864605",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098042183085666364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 这个很好吃的样子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098042001388453888"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098042183085666364",
+        "created_at": "2026-09-10T13:33:30.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T14:32:51.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098042017662329128",
+          "2098042183085666364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQvQOEtg7i",
+              "end": 108,
+              "expanded_url": "https://x.com/ServalCandle/status/2098042183085666364/photo/1",
+              "media_key": "3_2098042001388453888",
+              "start": 85,
+              "url": "https://t.co/NQvQOEtg7i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098042183085666364",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098042001388453888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1117,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家一起来唱(*≧ω≦)\n\n我是一只北京猫～可我吃不起北京的餐厅～\n所以我吃pasta～穷人饭pasta～\n\n不知道吃什么？吃pasta～\n没有钱吃饭？ 吃pasta～ https://t.co/NQvQOEtg7i"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "可爱小猫一只‖有点傻有点逆反‖生活推‖偏3次但不反感2次毕竟以前咱是2次喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/hFne52ut9",
+                "end": 23,
+                "expanded_url": "https://discord.gg/hFne52ut9",
+                "start": 0,
+                "url": "https://t.co/uxOfMr2o29"
+              }
+            ]
+          }
+        },
+        "id": "1776704652483891200",
+        "is_identity_verified": false,
+        "location": "我梦里的幻想岛",
+        "most_recent_tweet_id": "2098449786034864605",
+        "name": "星猫˵＞𖥦＜˵🍣🍰🍙🍛🍜",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776704652483891200/1782996120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093282974334926848/xAT6ymt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 334,
+          "like_count": 1675,
+          "listed_count": 0,
+          "media_count": 514,
+          "tweet_count": 2273
+        },
+        "url": "https://t.co/uxOfMr2o29",
+        "username": "xingxing_byd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "和男朋友一起六年啦！\n頭像是自拍 / 身分證性別女\n封鎖必回\n大笨笨走四方 (*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWnyu"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "is_identity_verified": true,
+        "location": "🐈🥖Pain chat🥯🙀",
+        "most_recent_tweet_id": "2098407330039877786",
+        "name": "🍁傻貓すみか🍄🧶",
+        "pinned_tweet_id": "2091663126920138868",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/705777407794352129/1773447136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077249341929164800/EBapClID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34292,
+          "following_count": 429,
+          "like_count": 238094,
+          "listed_count": 110,
+          "media_count": 9399,
+          "tweet_count": 61514
+        },
+        "url": "https://t.co/PBHqsUWnyu",
+        "username": "ServalCandle",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

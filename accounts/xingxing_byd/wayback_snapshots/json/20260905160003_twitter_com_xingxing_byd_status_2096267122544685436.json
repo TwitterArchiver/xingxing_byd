@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2096262050175730102",
+    "created_at": "2026-09-05T16:00:03.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096267122544685436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1994853283907997698",
+          "start": 0,
+          "username": "kateamine66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096267122544685436",
+    "in_reply_to_user_id": "1994853283907997698",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096262050175730102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kateamine66 好好放松😌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2096261355817070592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdqmL3a8AAb_Ns.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2096262050175730102",
+        "created_at": "2026-09-05T16:00:03.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096267122544685436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1994853283907997698",
+              "start": 0,
+              "username": "kateamine66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096267122544685436",
+        "in_reply_to_user_id": "1994853283907997698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096262050175730102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kateamine66 好好放松😌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096261355817070592"
+          ]
+        },
+        "author_id": "1994853283907997698",
+        "conversation_id": "2096262050175730102",
+        "created_at": "2026-09-05T15:39:54.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096262050175730102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mlwWxMsNhY",
+              "end": 43,
+              "expanded_url": "https://x.com/kateamine66/status/2096262050175730102/photo/1",
+              "media_key": "3_2096261355817070592",
+              "start": 20,
+              "url": "https://t.co/mlwWxMsNhY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096262050175730102",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096261355817070592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 217,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "還有張返圖也不錯，今天晚上還有活動啦😙 https://t.co/mlwWxMsNhY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "堕落太简单了，难得就是极限拉扯（欢迎互fo）",
+        "id": "1776704652483891200",
+        "is_identity_verified": false,
+        "location": "我梦中的幻想乡",
+        "most_recent_tweet_id": "2096267122544685436",
+        "name": "星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776704652483891200/1782996120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093282974334926848/xAT6ymt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 339,
+          "like_count": 1663,
+          "listed_count": 0,
+          "media_count": 509,
+          "tweet_count": 2237
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-29T19:37:51.000Z",
+        "description": "曾經擁有4萬粉絲的小網紅努力戒毒中，勵志成爲擁有好多好多粉絲的網紅或者地偶！小號@kateamine149062，奇怪的内容放在小號",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "kateamine149062"
+              }
+            ]
+          }
+        },
+        "id": "1994853283907997698",
+        "is_identity_verified": false,
+        "location": "臺中",
+        "most_recent_tweet_id": "2096263718472659169",
+        "name": "Kateamine66",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994853283907997698/1765819361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000614275040317440/sQCImXwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8865,
+          "following_count": 22,
+          "like_count": 54,
+          "listed_count": 14,
+          "media_count": 99,
+          "tweet_count": 781
+        },
+        "url": "",
+        "username": "kateamine66",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

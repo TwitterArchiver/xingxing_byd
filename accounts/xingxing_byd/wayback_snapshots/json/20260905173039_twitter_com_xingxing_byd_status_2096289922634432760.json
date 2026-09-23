@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2095840002144133377",
+    "created_at": "2026-09-05T17:30:39.000Z",
+    "display_text_range": [
+      15,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T18:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096289922634432760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "IchinichiNagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096289922634432760",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095840002144133377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IchinichiNagi 荣耀支持谷歌的，用过"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095839813794693120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXrNNdagAAg4p6.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095839813836685312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXrNNnbQAAv91x.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2095840002144133377",
+        "created_at": "2026-09-05T17:30:39.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096289922634432760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "IchinichiNagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096289922634432760",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095840002144133377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IchinichiNagi 荣耀支持谷歌的，用过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095839813794693120",
+            "3_2095839813836685312"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "conversation_id": "2095840002144133377",
+        "created_at": "2026-09-04T11:42:49.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095840002144133377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rsVKXYIZiZ",
+              "end": 69,
+              "expanded_url": "https://x.com/IchinichiNagi/status/2095840002144133377/photo/1",
+              "media_key": "3_2095839813794693120",
+              "start": 46,
+              "url": "https://t.co/rsVKXYIZiZ"
+            },
+            {
+              "display_url": "pic.x.com/rsVKXYIZiZ",
+              "end": 69,
+              "expanded_url": "https://x.com/IchinichiNagi/status/2095840002144133377/photo/1",
+              "media_key": "3_2095839813836685312",
+              "start": 46,
+              "url": "https://t.co/rsVKXYIZiZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095840002144133377",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095839813794693120"
+          },
+          {
+            "media_key": "3_2095839813836685312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3349,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草\n有点想试试荣耀了\n就是不知道这玩意在国外还能不能用\n主要是ipair加上ac+太贵了🥲 https://t.co/rsVKXYIZiZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "堕落太简单了，难得就是极限拉扯（欢迎互fo）",
+        "id": "1776704652483891200",
+        "is_identity_verified": false,
+        "location": "我梦中的幻想乡",
+        "most_recent_tweet_id": "2096289922634432760",
+        "name": "星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776704652483891200/1782996120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093282974334926848/xAT6ymt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 339,
+          "like_count": 1665,
+          "listed_count": 0,
+          "media_count": 510,
+          "tweet_count": 2244
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "对于Nagi来说\n他们是一日男友\n\n那对于他们来说\n我是不是一日Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhSw2y"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "is_identity_verified": false,
+        "location": "Stansted Airport",
+        "most_recent_tweet_id": "2096276832303861770",
+        "name": "这是一日Nagi吗？",
+        "pinned_tweet_id": "2094246384962863447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754494415152766976/1782808002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081044089487941632/4n6xQeCv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6173,
+          "following_count": 2361,
+          "like_count": 33342,
+          "listed_count": 10,
+          "media_count": 3104,
+          "tweet_count": 28802
+        },
+        "url": "https://t.co/nRq8LhSw2y",
+        "username": "IchinichiNagi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

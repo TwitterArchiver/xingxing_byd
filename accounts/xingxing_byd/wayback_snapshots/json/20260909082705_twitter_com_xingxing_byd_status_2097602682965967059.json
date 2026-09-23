@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2097346471632707887",
+    "created_at": "2026-09-09T08:27:05.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T09:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097602682965967059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1994853283907997698",
+          "start": 0,
+          "username": "kateamine66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097602682965967059",
+    "in_reply_to_user_id": "1994853283907997698",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097346471632707887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kateamine66 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2097346471632707887",
+        "created_at": "2026-09-09T08:27:05.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T09:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097602682965967059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1994853283907997698",
+              "start": 0,
+              "username": "kateamine66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097602682965967059",
+        "in_reply_to_user_id": "1994853283907997698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097346471632707887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kateamine66 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994853283907997698",
+        "conversation_id": "2097346471632707887",
+        "created_at": "2026-09-08T15:29:00.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097346471632707887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097346471632707887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2683,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "服了，雖然事先問過我能不能接受sm，我本身是對sm一點感覺都沒有的，不過看在他是體育班帥哥的份上我不想掃興就答應他可以稍微打一下，但是他溜大了一點分寸都沒有，一巴掌把我剛弄的鼻子打壞了！腫了兩天了，剛才咨詢醫生說矽膠可能破損了導致發炎。這過幾天又得去一趟首爾😤😤。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "可爱小猫一只‖有点傻有点逆反‖生活推‖偏3次但不反感2次毕竟以前咱是2次喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/hFne52ut9",
+                "end": 23,
+                "expanded_url": "https://discord.gg/hFne52ut9",
+                "start": 0,
+                "url": "https://t.co/uxOfMr2o29"
+              }
+            ]
+          }
+        },
+        "id": "1776704652483891200",
+        "is_identity_verified": false,
+        "location": "我梦里的幻想岛",
+        "most_recent_tweet_id": "2097602682965967059",
+        "name": "星猫˵＞𖥦＜˵🍣🍰🍙🍛🍜",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776704652483891200/1782996120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093282974334926848/xAT6ymt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 348,
+          "like_count": 1674,
+          "listed_count": 0,
+          "media_count": 513,
+          "tweet_count": 2261
+        },
+        "url": "https://t.co/uxOfMr2o29",
+        "username": "xingxing_byd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-29T19:37:51.000Z",
+        "description": "曾經擁有4萬粉絲的小網紅努力戒毒中，勵志成爲擁有好多好多粉絲的網紅或者地偶！小號@kateamine149062，奇怪的内容放在小號",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "kateamine149062"
+              }
+            ]
+          }
+        },
+        "id": "1994853283907997698",
+        "is_identity_verified": false,
+        "location": "臺中",
+        "most_recent_tweet_id": "2097346471632707887",
+        "name": "Kateamine66",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994853283907997698/1765819361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000614275040317440/sQCImXwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8854,
+          "following_count": 22,
+          "like_count": 54,
+          "listed_count": 14,
+          "media_count": 101,
+          "tweet_count": 788
+        },
+        "url": "",
+        "username": "kateamine66",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

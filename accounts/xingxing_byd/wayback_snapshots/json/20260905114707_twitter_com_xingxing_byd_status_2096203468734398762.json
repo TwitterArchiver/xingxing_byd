@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096203444180926464",
+        "3_2096203456357027840"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2096203468734398762",
+    "created_at": "2026-09-05T11:47:07.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T12:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096203468734398762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b4uQ9Mngmj",
+          "end": 41,
+          "expanded_url": "https://x.com/xingxing_byd/status/2096203468734398762/photo/1",
+          "media_key": "3_2096203444180926464",
+          "start": 18,
+          "url": "https://t.co/b4uQ9Mngmj"
+        },
+        {
+          "display_url": "pic.x.com/b4uQ9Mngmj",
+          "end": 41,
+          "expanded_url": "https://x.com/xingxing_byd/status/2096203468734398762/photo/1",
+          "media_key": "3_2096203456357027840",
+          "start": 18,
+          "url": "https://t.co/b4uQ9Mngmj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096203468734398762",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096203444180926464"
+      },
+      {
+        "media_key": "3_2096203456357027840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又一次喝晕，感觉不好玩，尿酸爆炸💥 https://t.co/b4uQ9Mngmj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2096203444180926464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRc17SNawAAtQfg.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2096203456357027840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRc17_kbUAAbUBR.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096203444180926464",
+            "3_2096203456357027840"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096203468734398762",
+        "created_at": "2026-09-05T11:47:07.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096203468734398762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b4uQ9Mngmj",
+              "end": 41,
+              "expanded_url": "https://x.com/xingxing_byd/status/2096203468734398762/photo/1",
+              "media_key": "3_2096203444180926464",
+              "start": 18,
+              "url": "https://t.co/b4uQ9Mngmj"
+            },
+            {
+              "display_url": "pic.x.com/b4uQ9Mngmj",
+              "end": 41,
+              "expanded_url": "https://x.com/xingxing_byd/status/2096203468734398762/photo/1",
+              "media_key": "3_2096203456357027840",
+              "start": 18,
+              "url": "https://t.co/b4uQ9Mngmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096203468734398762",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096203444180926464"
+          },
+          {
+            "media_key": "3_2096203456357027840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又一次喝晕，感觉不好玩，尿酸爆炸💥 https://t.co/b4uQ9Mngmj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "堕落太简单了，难得就是极限拉扯（欢迎互fo）",
+        "id": "1776704652483891200",
+        "is_identity_verified": false,
+        "location": "我梦中的幻想乡",
+        "most_recent_tweet_id": "2096203468734398762",
+        "name": "星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776704652483891200/1782996120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093282974334926848/xAT6ymt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 328,
+          "like_count": 1661,
+          "listed_count": 0,
+          "media_count": 507,
+          "tweet_count": 2224
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

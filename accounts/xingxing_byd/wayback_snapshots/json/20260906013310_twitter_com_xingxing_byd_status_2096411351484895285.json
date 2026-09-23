@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096411340864991232"
+      ]
+    },
+    "author_id": "1776704652483891200",
+    "conversation_id": "2096411351484895285",
+    "created_at": "2026-09-06T01:33:10.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T02:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096411351484895285"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kwYZbiOAkD",
+          "end": 31,
+          "expanded_url": "https://x.com/xingxing_byd/status/2096411351484895285/photo/1",
+          "media_key": "3_2096411340864991232",
+          "start": 8,
+          "url": "https://t.co/kwYZbiOAkD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096411351484895285",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096411340864991232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我描的，好玩😄 https://t.co/kwYZbiOAkD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2136,
+        "media_key": "3_2096411340864991232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRfzAdtbsAART8s.jpg",
+        "width": 2136
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096411340864991232"
+          ]
+        },
+        "author_id": "1776704652483891200",
+        "conversation_id": "2096411351484895285",
+        "created_at": "2026-09-06T01:33:10.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T02:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096411351484895285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kwYZbiOAkD",
+              "end": 31,
+              "expanded_url": "https://x.com/xingxing_byd/status/2096411351484895285/photo/1",
+              "media_key": "3_2096411340864991232",
+              "start": 8,
+              "url": "https://t.co/kwYZbiOAkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096411351484895285",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096411340864991232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我描的，好玩😄 https://t.co/kwYZbiOAkD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "可爱小猫一只‖有点傻有点逆反‖生活推‖偏3次但不反感2次毕竟以前咱是2次喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/hFne52ut9",
+                "end": 23,
+                "expanded_url": "https://discord.gg/hFne52ut9",
+                "start": 0,
+                "url": "https://t.co/uxOfMr2o29"
+              }
+            ]
+          }
+        },
+        "id": "1776704652483891200",
+        "is_identity_verified": false,
+        "location": "我梦里的幻想岛",
+        "most_recent_tweet_id": "2096411351484895285",
+        "name": "星猫˵＞𖥦＜˵🍣🍰🍙🍛🍜",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776704652483891200/1782996120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093282974334926848/xAT6ymt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 346,
+          "like_count": 1671,
+          "listed_count": 0,
+          "media_count": 512,
+          "tweet_count": 2251
+        },
+        "url": "https://t.co/uxOfMr2o29",
+        "username": "xingxing_byd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

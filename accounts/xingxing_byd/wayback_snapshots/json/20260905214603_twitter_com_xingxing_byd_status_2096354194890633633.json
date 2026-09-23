@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2096336818476081456",
+    "created_at": "2026-09-05T21:46:03.000Z",
+    "display_text_range": [
+      13,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T22:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096354194890633633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1994853283907997698",
+          "start": 0,
+          "username": "kateamine66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096354194890633633",
+    "in_reply_to_user_id": "1994853283907997698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096336818476081456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kateamine66 这配色确实有点....😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7500,
+        "height": 960,
+        "media_key": "13_2096278398729596928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096278398729596928/img/3v5eABvj6qsadrX_.jpg",
+        "public_metrics": {
+          "view_count": 117
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096278398729596928/vid/avc1/320x568/NdezT2l0qDnLc21t.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096278398729596928/vid/avc1/480x852/ZuDtgKxC-Z3CxhUT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096278398729596928/vid/avc1/540x960/4t2wq9a0xA4aP8po.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096278398729596928/pl/D4nsU2jSixbV--w-.m3u8?tag=14"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2096336818476081456",
+        "created_at": "2026-09-05T21:46:03.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T22:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096354194890633633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1994853283907997698",
+              "start": 0,
+              "username": "kateamine66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096354194890633633",
+        "in_reply_to_user_id": "1994853283907997698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096336818476081456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kateamine66 这配色确实有点....😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096278398729596928"
+          ]
+        },
+        "author_id": "1994853283907997698",
+        "conversation_id": "2096336818476081456",
+        "created_at": "2026-09-05T20:37:00.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T21:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096336818476081456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cm8lkUa6X9",
+              "end": 115,
+              "expanded_url": "https://x.com/kateamine66/status/2096336818476081456/video/1",
+              "media_key": "13_2096278398729596928",
+              "start": 92,
+              "url": "https://t.co/cm8lkUa6X9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096336818476081456",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096278398729596928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狗東西説我這個襪子充滿了性縮力。他說他要不是吸兩口上頭了，看到我這襪子他都硬不起來。讓我脫了換黑絲，還說要懲罰我傷害了他的性欲。國中生不都是這麽穿的麽？我這不對嗎？你們也這麽認爲麽？ https://t.co/cm8lkUa6X9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "堕落太简单了，难得就是极限拉扯（欢迎互fo）",
+        "id": "1776704652483891200",
+        "is_identity_verified": false,
+        "location": "我梦中的幻想乡",
+        "most_recent_tweet_id": "2096354194890633633",
+        "name": "星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776704652483891200/1782996120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093282974334926848/xAT6ymt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 340,
+          "like_count": 1666,
+          "listed_count": 0,
+          "media_count": 510,
+          "tweet_count": 2247
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-29T19:37:51.000Z",
+        "description": "曾經擁有4萬粉絲的小網紅努力戒毒中，勵志成爲擁有好多好多粉絲的網紅或者地偶！小號@kateamine149062，奇怪的内容放在小號",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "kateamine149062"
+              }
+            ]
+          }
+        },
+        "id": "1994853283907997698",
+        "is_identity_verified": false,
+        "location": "臺中",
+        "most_recent_tweet_id": "2096336818476081456",
+        "name": "Kateamine66",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994853283907997698/1765819361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000614275040317440/sQCImXwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8864,
+          "following_count": 22,
+          "like_count": 54,
+          "listed_count": 14,
+          "media_count": 101,
+          "tweet_count": 787
+        },
+        "url": "",
+        "username": "kateamine66",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
