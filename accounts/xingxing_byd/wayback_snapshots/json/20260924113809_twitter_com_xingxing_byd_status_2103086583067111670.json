@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2103077415648108632",
+    "created_at": "2026-09-24T11:38:09.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T12:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103086583067111670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2101498602766077952",
+          "start": 0,
+          "username": "Box3_jilil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103086583067111670",
+    "in_reply_to_user_id": "2101498602766077952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103077415648108632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Box3_jilil 为什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2103077415648108632",
+        "created_at": "2026-09-24T11:38:09.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T12:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103086583067111670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2101498602766077952",
+              "start": 0,
+              "username": "Box3_jilil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103086583067111670",
+        "in_reply_to_user_id": "2101498602766077952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103077415648108632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Box3_jilil 为什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2101498602766077952",
+        "conversation_id": "2103077415648108632",
+        "created_at": "2026-09-24T11:01:43.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T12:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103077415648108632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103077415648108632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "您圈一直在死人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "可爱小猫一只‖有点傻‖生活推‖偏3次但不反感2次毕竟以前咱是2次喵‖友跨‖🈶心理疾病💔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/hFne52ut9",
+                "end": 23,
+                "expanded_url": "https://discord.gg/hFne52ut9",
+                "start": 0,
+                "url": "https://t.co/uxOfMr2o29"
+              }
+            ]
+          }
+        },
+        "id": "1776704652483891200",
+        "is_identity_verified": false,
+        "location": "我梦里的幻想岛",
+        "most_recent_tweet_id": "2103086583067111670",
+        "name": "星猫˵＞𖥦＜˵🍰🍙🍛🍜",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776704652483891200/1782996120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093282974334926848/xAT6ymt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 376,
+          "like_count": 1677,
+          "listed_count": 0,
+          "media_count": 517,
+          "tweet_count": 2293
+        },
+        "url": "https://t.co/uxOfMr2o29",
+        "username": "xingxing_byd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-20T02:31:57.000Z",
+        "description": "🩵泥嚎(⁠・⁠∀⁠・⁠)🩷我是小盒子🤍无证含糖（暂时断糖）🩷生产日期 2012.4.6🩵\n这个号关注我的都会回关，可以和小盒子聊天喵\n大盒子：@Box3_ji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 71,
+                "username": "Box3_ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Box3_ji",
+                "end": 23,
+                "expanded_url": "https://x.com/Box3_ji",
+                "start": 0,
+                "url": "https://t.co/GR4eLNlNDm"
+              }
+            ]
+          }
+        },
+        "id": "2101498602766077952",
+        "is_identity_verified": false,
+        "location": "粉丝的心里🩵🩷🤍",
+        "most_recent_tweet_id": "2103083287443091538",
+        "name": "lilBox🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2101956147934798127",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2101498602766077952/1789872242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101501392825528320/yX7RB4Dk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 303,
+          "like_count": 34,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/GR4eLNlNDm",
+        "username": "Box3_jilil",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

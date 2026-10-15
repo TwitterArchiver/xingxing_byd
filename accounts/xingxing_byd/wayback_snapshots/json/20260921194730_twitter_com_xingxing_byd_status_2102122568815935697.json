@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2102003844754669615",
+    "created_at": "2026-09-21T19:47:30.000Z",
+    "display_text_range": [
+      11,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T20:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102122568815935697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1915676630305169410",
+          "start": 0,
+          "username": "eating310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102122568815935697",
+    "in_reply_to_user_id": "1915676630305169410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102003844754669615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eating310 我到没这么觉得，我玩推的时候已经进中推圈了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2102003844754669615",
+        "created_at": "2026-09-21T19:47:30.000Z",
+        "display_text_range": [
+          11,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T20:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102122568815935697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1915676630305169410",
+              "start": 0,
+              "username": "eating310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102122568815935697",
+        "in_reply_to_user_id": "1915676630305169410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102003844754669615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eating310 我到没这么觉得，我玩推的时候已经进中推圈了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915676630305169410",
+        "conversation_id": "2102003844754669615",
+        "created_at": "2026-09-21T11:55:44.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T12:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102003844754669615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102003844754669615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1729,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我第一次在推特上分享心事的时候，我心想，这简直是一个天才的想法。因为在我当时的想法里，用推特的中国人不是在看黄就是看新闻。翻墙太危险了。这意味着没有人在关注我。即使后来刷到中推圈的人也是悄然划过。从不互动。真想念那3个月没人关注我的日子。我现在发现，我根本不是天才。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "可爱小猫一只‖有点傻‖生活推‖偏3次但不反感2次毕竟以前咱是2次喵‖友跨‖🈶心理疾病💔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/hFne52ut9",
+                "end": 23,
+                "expanded_url": "https://discord.gg/hFne52ut9",
+                "start": 0,
+                "url": "https://t.co/uxOfMr2o29"
+              }
+            ]
+          }
+        },
+        "id": "1776704652483891200",
+        "is_identity_verified": false,
+        "location": "我梦里的幻想岛",
+        "most_recent_tweet_id": "2102122568815935697",
+        "name": "星猫˵＞𖥦＜˵🍰🍙🍛🍜",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776704652483891200/1782996120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093282974334926848/xAT6ymt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 340,
+          "like_count": 1676,
+          "listed_count": 0,
+          "media_count": 515,
+          "tweet_count": 2285
+        },
+        "url": "https://t.co/uxOfMr2o29",
+        "username": "xingxing_byd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-25T07:58:11.000Z",
+        "description": "烂烂的我烂烂地活着",
+        "id": "1915676630305169410",
+        "is_identity_verified": false,
+        "location": "宇宙中遨游",
+        "most_recent_tweet_id": "2102075542870822919",
+        "name": "小小小天狼星",
+        "pinned_tweet_id": "2093581679483142383",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085232184991047680/Dj9zAp6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 58,
+          "like_count": 3170,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 732
+        },
+        "url": "",
+        "username": "eating310",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

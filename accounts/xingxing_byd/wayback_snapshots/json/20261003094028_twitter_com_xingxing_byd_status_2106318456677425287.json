@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2106221922308833767",
+    "created_at": "2026-10-03T09:40:28.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T10:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106318456677425287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1271278454537744384",
+          "start": 0,
+          "username": "Rabbit_Pussy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106318456677425287",
+    "in_reply_to_user_id": "1271278454537744384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106221922308833767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rabbit_Pussy 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106221911894364160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTrNq2ybkAAEyv3.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2106221922308833767",
+        "created_at": "2026-10-03T09:40:28.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106318456677425287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1271278454537744384",
+              "start": 0,
+              "username": "Rabbit_Pussy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106318456677425287",
+        "in_reply_to_user_id": "1271278454537744384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106221922308833767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rabbit_Pussy 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106221911894364160"
+          ]
+        },
+        "author_id": "1271278454537744384",
+        "conversation_id": "2106221922308833767",
+        "created_at": "2026-10-03T03:16:52.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T04:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106221922308833767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MPKviwhFeb",
+              "end": 36,
+              "expanded_url": "https://x.com/Rabbit_Pussy/status/2106221922308833767/photo/1",
+              "media_key": "3_2106221911894364160",
+              "start": 13,
+              "url": "https://t.co/MPKviwhFeb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106221922308833767",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106221911894364160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6257,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喷了，吓哭了，出大红了 https://t.co/MPKviwhFeb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "可爱小猫一只‖有点傻‖生活推‖偏3次但不反感2次毕竟以前咱是2次喵‖友跨‖🈶心理疾病💔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/hFne52ut9",
+                "end": 23,
+                "expanded_url": "https://discord.gg/hFne52ut9",
+                "start": 0,
+                "url": "https://t.co/uxOfMr2o29"
+              }
+            ]
+          }
+        },
+        "id": "1776704652483891200",
+        "is_identity_verified": false,
+        "location": "我梦里的幻想岛",
+        "most_recent_tweet_id": "2106318456677425287",
+        "name": "星猫˵＞𖥦＜˵🍰🍙🍛🍜",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776704652483891200/1782996120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093282974334926848/xAT6ymt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 384,
+          "like_count": 1684,
+          "listed_count": 0,
+          "media_count": 518,
+          "tweet_count": 2306
+        },
+        "url": "https://t.co/uxOfMr2o29",
+        "username": "xingxing_byd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-12T03:09:46.000Z",
+        "description": "没关系，一切都会坏起来的，因为人口红利/熵增",
+        "id": "1271278454537744384",
+        "is_identity_verified": false,
+        "location": "Niger",
+        "most_recent_tweet_id": "2106307192953639131",
+        "name": "兔毛M ε ow",
+        "pinned_tweet_id": "2062614219393257688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271278454537744384/1704258625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077551825247707136/I0HAjv2F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5381,
+          "following_count": 2052,
+          "like_count": 27784,
+          "listed_count": 9,
+          "media_count": 1235,
+          "tweet_count": 8294
+        },
+        "url": "",
+        "username": "Rabbit_Pussy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

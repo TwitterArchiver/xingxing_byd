@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776704652483891200",
+    "conversation_id": "2106892740361703639",
+    "created_at": "2026-10-05T04:35:06.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T05:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106966383783514158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1708672427163852800",
+          "start": 0,
+          "username": "xnlll_Roi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106966383783514158",
+    "in_reply_to_user_id": "1708672427163852800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106892740361703639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xnlll_Roi 生日快乐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2106892740361703639",
+        "created_at": "2026-10-05T04:35:06.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T05:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106966383783514158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1708672427163852800",
+              "start": 0,
+              "username": "xnlll_Roi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106966383783514158",
+        "in_reply_to_user_id": "1708672427163852800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106892740361703639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xnlll_Roi 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708672427163852800",
+        "conversation_id": "2106892740361703639",
+        "created_at": "2026-10-04T23:42:28.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T00:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106892740361703639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106892740361703639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3461,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 117,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天\n是我的\n19岁生日"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "可爱小猫一只‖有点傻‖生活推‖偏3次但不反感2次毕竟以前咱是2次喵‖友跨‖🈶心理疾病💔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/hFne52ut9",
+                "end": 23,
+                "expanded_url": "https://discord.gg/hFne52ut9",
+                "start": 0,
+                "url": "https://t.co/uxOfMr2o29"
+              }
+            ]
+          }
+        },
+        "id": "1776704652483891200",
+        "is_identity_verified": false,
+        "location": "我梦里的幻想岛",
+        "most_recent_tweet_id": "2106966383783514158",
+        "name": "星猫˵＞𖥦＜˵🍰🍙🍛🍜",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776704652483891200/1782996120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093282974334926848/xAT6ymt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 396,
+          "like_count": 1685,
+          "listed_count": 0,
+          "media_count": 518,
+          "tweet_count": 2310
+        },
+        "url": "https://t.co/uxOfMr2o29",
+        "username": "xingxing_byd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-02T02:37:19.000Z",
+        "description": "🚪88/188（絵垢→@nagasawa825530 \n07｜病み垢｜DM◎｜メンヘラ｜躁鬱｜ptsd ｜ADHD ｜中文/日本語🇨🇳🇯🇵ok｜リスカ｜依存｜精神状態が不安定である⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "nagasawa825530"
+              }
+            ]
+          }
+        },
+        "id": "1708672427163852800",
+        "is_identity_verified": false,
+        "location": "冥界",
+        "most_recent_tweet_id": "2106958534084841483",
+        "name": "🍓ろい🍓",
+        "pinned_tweet_id": "2102718479673839701",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708672427163852800/1755673286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101531666544259072/u9RJKtmg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 174,
+          "like_count": 3427,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 1020
+        },
+        "url": "",
+        "username": "xnlll_Roi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
